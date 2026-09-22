@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Month,Quarter,Region,City,Service_or_Product,Category,Occasion,Sales_Channel,Unit_Price_INR,Discount_Pct,Quantity,Revenue_INR,Customer_Rating
+MH10001,2026-08-29,August,2026Q3,Tamil Nadu,Coimbatore,Bridal Mehendi,Bridal,Festival,Instagram/WhatsApp,2900,15,3,7395.0,4.1
+MH10002,2026-06-30,June,2026Q2,Karnataka,Bengaluru,Minimal Mehendi,Minimal,Festival,Walk-in,650,10,3,1755.0,3.8
+MH10003,2026-10-25,October,2026Q4,Tamil Nadu,Chennai,Traditional Indian Mehendi,Traditional,Casual,Instagram/WhatsApp,2400,0,1,2400.0,3.7
+MH10004,2026-02-28,February,2026Q1,Tamil Nadu,Chennai,Bridal Mehendi,Bridal,Baby Shower,Website Booking,2150,0,3,6450.0,4.2
+MH10005,2026-10-06,October,2026Q4,Tamil Nadu,Coimbatore,Arabic Mehendi,Arabic,Wedding,Website Booking,1350,0,1,1350.0,4.5
+MH10006,2026-11-14,November,2026Q4,Tamil Nadu,Erode,Arabic Mehendi,Arabic,Baby Shower,Website Booking,1350,10,3,3645.0,4.0
+MH10007,2026-06-19,June,2026Q2,Tamil Nadu,Coimbatore,Traditional Indian Mehendi,Traditional,Engagement,Instagram/WhatsApp,1100,0,1,1100.0,3.9
+MH10008,2026-05-23,May,2026Q2,Tamil Nadu,Madurai,Arabic Mehendi,Arabic,Engagement,Walk-in,1250,5,3,3562.5,5.0
+MH10009,2026-02-21,February,2026Q1,Kerala,Kochi,Arabic Mehendi,Arabic,Casual,Event Planner,2050,5,1,1947.5,3.8
+MH10010,2026-06-10,June,2026Q2,Tamil Nadu,Erode,Traditional Indian Mehendi,Traditional,Engagement,Instagram/WhatsApp,2800,5,3,7980.0,5.0
+MH10011,2026-01-11,January,2026Q1,Tamil Nadu,Erode,Minimal Mehendi,Minimal,Wedding,Instagram/WhatsApp,550,0,3,1650.0,4.7
+MH10012,2026-02-28,February,2026Q1,Karnataka,Bengaluru,Traditional Indian Mehendi,Traditional,Casual,Event Planner,2700,15,2,4590.0,4.5
+MH10013,2026-01-21,January,2026Q1,Tamil Nadu,Erode,Minimal Mehendi,Minimal,Party,Website Booking,600,15,2,1020.0,4.4
+MH10014,2026-10-19,October,2026Q4,Telangana,Hyderabad,Engagement Mehendi,Bridal,Wedding,Walk-in,3250,15,2,5525.0,4.3
+MH10015,2026-10-16,October,2026Q4,Tamil Nadu,Coimbatore,Party Mehendi,Party,Wedding,Website Booking,1500,15,3,3825.0,4.7
+MH10016,2026-06-05,June,2026Q2,Tamil Nadu,Coimbatore,Kids Mehendi,Kids,Wedding,Instagram/WhatsApp,400,5,1,380.0,4.2
+MH10017,2026-08-11,August,2026Q3,Tamil Nadu,Chennai,Party Mehendi,Party,Wedding,Walk-in,1000,5,2,1900.0,4.5
+MH10018,2026-10-30,October,2026Q4,Tamil Nadu,Chennai,Traditional Indian Mehendi,Traditional,Engagement,Walk-in,1650,5,2,3135.0,4.3
+MH10019,2026-01-17,January,2026Q1,Tamil Nadu,Madurai,Engagement Mehendi,Bridal,Party,Website Booking,3600,10,3,9720.0,4.6
+MH10020,2026-05-24,May,2026Q2,Kerala,Kochi,Minimal Mehendi,Minimal,Wedding,Website Booking,1350,15,1,1147.5,4.0
+MH10021,2026-03-14,March,2026Q1,Tamil Nadu,Madurai,Bridal Mehendi,Bridal,Wedding,Instagram/WhatsApp,3650,5,3,10402.5,4.2
+MH10022,2026-10-22,October,2026Q4,Karnataka,Bengaluru,Minimal Mehendi,Minimal,Wedding,Walk-in,950,10,1,855.0,3.9
+MH10023,2026-10-08,October,2026Q4,Tamil Nadu,Coimbatore,Kids Mehendi,Kids,Wedding,Walk-in,650,20,2,1040.0,4.3
+MH10024,2026-12-20,December,2026Q4,Tamil Nadu,Coimbatore,Minimal Mehendi,Minimal,Wedding,Event Planner,650,15,2,1105.0,4.4
+MH10025,2026-10-17,October,2026Q4,Tamil Nadu,Erode,Arabic Mehendi,Arabic,Wedding,Instagram/WhatsApp,2150,5,3,6127.5,4.6
+MH10026,2026-02-10,February,2026Q1,Tamil Nadu,Erode,Minimal Mehendi,Minimal,Wedding,Walk-in,1000,5,3,2850.0,4.6
+MH10027,2026-09-06,September,2026Q3,Telangana,Hyderabad,Engagement Mehendi,Bridal,Party,Instagram/WhatsApp,3200,10,1,2880.0,4.2
+MH10028,2026-07-24,July,2026Q3,Tamil Nadu,Coimbatore,Bridal Mehendi,Bridal,Party,Instagram/WhatsApp,4700,0,4,18800.0,4.3
+MH10029,2026-10-29,October,2026Q4,Tamil Nadu,Salem,Party Mehendi,Party,Wedding,Instagram/WhatsApp,1800,0,2,3600.0,4.4
+MH10030,2026-10-29,October,2026Q4,Kerala,Kochi,Party Mehendi,Party,Wedding,Website Booking,1300,10,4,4680.0,4.2
+MH10031,2026-10-27,October,2026Q4,Tamil Nadu,Salem,Minimal Mehendi,Minimal,Wedding,Walk-in,700,15,4,2380.0,5.0
+MH10032,2026-06-30,June,2026Q2,Karnataka,Bengaluru,Minimal Mehendi,Minimal,Party,Website Booking,700,0,1,700.0,5.0
+MH10033,2026-05-14,May,2026Q2,Telangana,Hyderabad,Bridal Mehendi,Bridal,Party,Instagram/WhatsApp,4250,10,1,3825.0,4.5
+MH10034,2026-11-15,November,2026Q4,Kerala,Kochi,Party Mehendi,Party,Wedding,Website Booking,1800,0,2,3600.0,3.7
+MH10035,2026-10-21,October,2026Q4,Karnataka,Bengaluru,Traditional Indian Mehendi,Traditional,Wedding,Walk-in,1450,10,3,3915.0,4.1
+MH10036,2026-08-11,August,2026Q3,Karnataka,Bengaluru,Engagement Mehendi,Bridal,Wedding,Instagram/WhatsApp,2700,0,3,8100.0,4.2
+MH10037,2026-08-21,August,2026Q3,Karnataka,Bengaluru,Kids Mehendi,Kids,Wedding,Walk-in,450,0,1,450.0,4.1
+MH10038,2026-05-22,May,2026Q2,Tamil Nadu,Coimbatore,Minimal Mehendi,Minimal,Casual,Instagram/WhatsApp,600,0,2,1200.0,4.5
+MH10039,2026-03-14,March,2026Q1,Tamil Nadu,Coimbatore,Party Mehendi,Party,Festival,Walk-in,950,5,4,3610.0,4.5
+MH10040,2026-04-04,April,2026Q2,Tamil Nadu,Erode,Bridal Mehendi,Bridal,Festival,Instagram/WhatsApp,3600,15,2,6120.0,4.3
+MH10041,2026-03-02,March,2026Q1,Kerala,Kochi,Bridal Mehendi,Bridal,Party,Instagram/WhatsApp,4050,10,2,7290.0,4.1
+MH10042,2026-11-27,November,2026Q4,Tamil Nadu,Salem,Kids Mehendi,Kids,Casual,Instagram/WhatsApp,500,0,3,1500.0,4.6
+MH10043,2026-07-02,July,2026Q3,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Engagement,Walk-in,1650,5,1,1567.5,4.4
+MH10044,2026-03-23,March,2026Q1,Telangana,Hyderabad,Kids Mehendi,Kids,Wedding,Walk-in,550,5,4,2090.0,3.8
+MH10045,2026-09-24,September,2026Q3,Tamil Nadu,Erode,Arabic Mehendi,Arabic,Engagement,Event Planner,1700,5,4,6460.0,5.0
+MH10046,2026-10-14,October,2026Q4,Tamil Nadu,Erode,Bridal Mehendi,Bridal,Wedding,Walk-in,2450,15,2,4165.0,4.4
+MH10047,2026-08-07,August,2026Q3,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Casual,Website Booking,1550,5,2,2945.0,4.2
+MH10048,2026-04-20,April,2026Q2,Kerala,Kochi,Minimal Mehendi,Minimal,Wedding,Event Planner,500,15,2,850.0,4.4
+MH10049,2026-05-27,May,2026Q2,Tamil Nadu,Erode,Minimal Mehendi,Minimal,Casual,Instagram/WhatsApp,1200,5,2,2280.0,4.5
+MH10050,2026-05-05,May,2026Q2,Tamil Nadu,Salem,Engagement Mehendi,Bridal,Wedding,Website Booking,2850,10,2,5130.0,4.6
+MH10051,2026-07-31,July,2026Q3,Tamil Nadu,Chennai,Engagement Mehendi,Bridal,Baby Shower,Instagram/WhatsApp,2550,0,2,5100.0,4.2
+MH10052,2026-01-12,January,2026Q1,Tamil Nadu,Salem,Party Mehendi,Party,Wedding,Instagram/WhatsApp,1700,5,3,4845.0,4.3
+MH10053,2026-11-09,November,2026Q4,Tamil Nadu,Erode,Bridal Mehendi,Bridal,Festival,Website Booking,4800,0,4,19200.0,4.3
+MH10054,2026-06-20,June,2026Q2,Kerala,Kochi,Minimal Mehendi,Minimal,Engagement,Instagram/WhatsApp,650,10,2,1170.0,3.6
+MH10055,2026-08-21,August,2026Q3,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Festival,Instagram/WhatsApp,1300,5,2,2470.0,4.6
+MH10056,2026-05-10,May,2026Q2,Tamil Nadu,Erode,Arabic Mehendi,Arabic,Party,Website Booking,1500,5,2,2850.0,4.5
+MH10057,2026-01-30,January,2026Q1,Tamil Nadu,Madurai,Arabic Mehendi,Arabic,Wedding,Walk-in,2000,15,1,1700.0,3.7
+MH10058,2026-12-24,December,2026Q4,Tamil Nadu,Salem,Engagement Mehendi,Bridal,Wedding,Instagram/WhatsApp,3050,0,4,12200.0,4.0
+MH10059,2026-09-10,September,2026Q3,Tamil Nadu,Salem,Bridal Mehendi,Bridal,Festival,Website Booking,3600,10,1,3240.0,4.2
+MH10060,2026-01-15,January,2026Q1,Tamil Nadu,Coimbatore,Kids Mehendi,Kids,Wedding,Walk-in,300,0,2,600.0,4.6
+MH10061,2026-08-07,August,2026Q3,Tamil Nadu,Coimbatore,Party Mehendi,Party,Festival,Event Planner,750,0,3,2250.0,4.3
+MH10062,2026-04-09,April,2026Q2,Tamil Nadu,Erode,Party Mehendi,Party,Wedding,Website Booking,1500,10,2,2700.0,4.2
+MH10063,2026-11-24,November,2026Q4,Tamil Nadu,Salem,Minimal Mehendi,Minimal,Wedding,Walk-in,1350,10,3,3645.0,4.3
+MH10064,2026-06-22,June,2026Q2,Tamil Nadu,Coimbatore,Kids Mehendi,Kids,Festival,Instagram/WhatsApp,650,0,3,1950.0,3.8
+MH10065,2026-02-23,February,2026Q1,Tamil Nadu,Erode,Engagement Mehendi,Bridal,Baby Shower,Instagram/WhatsApp,2550,5,3,7267.5,4.2
+MH10066,2026-03-12,March,2026Q1,Tamil Nadu,Coimbatore,Bridal Mehendi,Bridal,Festival,Instagram/WhatsApp,2050,5,2,3895.0,4.2
+MH10067,2026-02-26,February,2026Q1,Tamil Nadu,Chennai,Engagement Mehendi,Bridal,Festival,Event Planner,3100,10,3,8370.0,4.4
+MH10068,2026-09-17,September,2026Q3,Tamil Nadu,Coimbatore,Arabic Mehendi,Arabic,Wedding,Website Booking,1050,15,3,2677.5,4.5
+MH10069,2026-03-12,March,2026Q1,Tamil Nadu,Coimbatore,Party Mehendi,Party,Festival,Walk-in,1200,0,4,4800.0,4.3
+MH10070,2026-01-07,January,2026Q1,Kerala,Kochi,Bridal Mehendi,Bridal,Wedding,Walk-in,3000,10,3,8100.0,4.6
+MH10071,2026-07-08,July,2026Q3,Tamil Nadu,Erode,Arabic Mehendi,Arabic,Engagement,Instagram/WhatsApp,900,0,1,900.0,4.8
+MH10072,2026-04-08,April,2026Q2,Tamil Nadu,Chennai,Arabic Mehendi,Arabic,Wedding,Walk-in,1950,10,3,5265.0,4.2
+MH10073,2026-01-14,January,2026Q1,Tamil Nadu,Salem,Kids Mehendi,Kids,Engagement,Instagram/WhatsApp,250,0,4,1000.0,4.6
+MH10074,2026-10-31,October,2026Q4,Tamil Nadu,Salem,Minimal Mehendi,Minimal,Wedding,Website Booking,1000,15,3,2550.0,4.1
+MH10075,2026-08-02,August,2026Q3,Tamil Nadu,Madurai,Kids Mehendi,Kids,Festival,Event Planner,650,15,2,1105.0,4.1
+MH10076,2026-03-11,March,2026Q1,Telangana,Hyderabad,Kids Mehendi,Kids,Engagement,Instagram/WhatsApp,650,0,2,1300.0,4.2
+MH10077,2026-10-02,October,2026Q4,Tamil Nadu,Madurai,Engagement Mehendi,Bridal,Casual,Instagram/WhatsApp,1500,10,2,2700.0,4.0
+MH10078,2026-12-14,December,2026Q4,Kerala,Kochi,Traditional Indian Mehendi,Traditional,Festival,Website Booking,1900,15,2,3230.0,3.8
+MH10079,2026-05-10,May,2026Q2,Kerala,Kochi,Bridal Mehendi,Bridal,Casual,Website Booking,3450,20,1,2760.0,4.8
+MH10080,2026-11-17,November,2026Q4,Tamil Nadu,Coimbatore,Party Mehendi,Party,Baby Shower,Walk-in,1500,0,3,4500.0,5.0
+MH10081,2026-06-20,June,2026Q2,Tamil Nadu,Erode,Traditional Indian Mehendi,Traditional,Wedding,Event Planner,2600,10,2,4680.0,4.6
+MH10082,2026-12-03,December,2026Q4,Telangana,Hyderabad,Engagement Mehendi,Bridal,Festival,Walk-in,3650,5,3,10402.5,4.0
+MH10083,2026-04-12,April,2026Q2,Karnataka,Bengaluru,Bridal Mehendi,Bridal,Casual,Walk-in,3700,10,2,6660.0,4.8
+MH10084,2026-01-12,January,2026Q1,Kerala,Kochi,Bridal Mehendi,Bridal,Wedding,Event Planner,2350,15,4,7990.0,4.4
+MH10085,2026-08-16,August,2026Q3,Tamil Nadu,Salem,Traditional Indian Mehendi,Traditional,Baby Shower,Event Planner,2300,0,2,4600.0,3.9
+MH10086,2026-03-30,March,2026Q1,Tamil Nadu,Chennai,Traditional Indian Mehendi,Traditional,Festival,Event Planner,1450,10,3,3915.0,3.6
+MH10087,2026-03-02,March,2026Q1,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Festival,Event Planner,1300,5,2,2470.0,5.0
+MH10088,2026-06-02,June,2026Q2,Karnataka,Bengaluru,Traditional Indian Mehendi,Traditional,Wedding,Event Planner,1600,10,2,2880.0,4.4
+MH10089,2026-02-27,February,2026Q1,Tamil Nadu,Madurai,Engagement Mehendi,Bridal,Party,Event Planner,2050,10,2,3690.0,4.5
+MH10090,2026-01-19,January,2026Q1,Tamil Nadu,Chennai,Minimal Mehendi,Minimal,Wedding,Walk-in,1400,5,2,2660.0,3.7
+MH10091,2026-09-13,September,2026Q3,Tamil Nadu,Salem,Traditional Indian Mehendi,Traditional,Wedding,Event Planner,1900,0,1,1900.0,4.3
+MH10092,2026-03-27,March,2026Q1,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Party,Walk-in,1800,15,4,6120.0,4.1
+MH10093,2026-11-11,November,2026Q4,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Wedding,Website Booking,2200,0,4,8800.0,4.2
+MH10094,2026-03-06,March,2026Q1,Kerala,Kochi,Kids Mehendi,Kids,Wedding,Walk-in,500,5,2,950.0,4.3
+MH10095,2026-12-29,December,2026Q4,Telangana,Hyderabad,Bridal Mehendi,Bridal,Festival,Walk-in,4700,5,2,8930.0,4.4
+MH10096,2026-07-20,July,2026Q3,Tamil Nadu,Chennai,Bridal Mehendi,Bridal,Casual,Website Booking,4550,5,3,12967.5,5.0
+MH10097,2026-06-15,June,2026Q2,Tamil Nadu,Madurai,Kids Mehendi,Kids,Engagement,Instagram/WhatsApp,450,0,2,900.0,5.0
+MH10098,2026-03-22,March,2026Q1,Tamil Nadu,Salem,Traditional Indian Mehendi,Traditional,Party,Instagram/WhatsApp,1550,0,4,6200.0,4.5
+MH10099,2026-04-19,April,2026Q2,Tamil Nadu,Coimbatore,Kids Mehendi,Kids,Party,Instagram/WhatsApp,600,0,3,1800.0,4.3
+MH10100,2026-04-08,April,2026Q2,Tamil Nadu,Erode,Party Mehendi,Party,Wedding,Walk-in,1050,5,3,2992.5,3.9
+MH10101,2026-03-05,March,2026Q1,Kerala,Kochi,Engagement Mehendi,Bridal,Party,Instagram/WhatsApp,3550,5,4,13490.0,4.6
+MH10102,2026-09-11,September,2026Q3,Tamil Nadu,Coimbatore,Bridal Mehendi,Bridal,Wedding,Walk-in,1850,15,1,1572.5,4.5
+MH10103,2026-11-09,November,2026Q4,Tamil Nadu,Coimbatore,Traditional Indian Mehendi,Traditional,Festival,Walk-in,1650,0,4,6600.0,4.6
+MH10104,2026-09-06,September,2026Q3,Kerala,Kochi,Party Mehendi,Party,Wedding,Event Planner,1100,15,2,1870.0,4.1
+MH10105,2026-05-24,May,2026Q2,Karnataka,Bengaluru,Party Mehendi,Party,Festival,Website Booking,1400,0,4,5600.0,3.9
+MH10106,2026-12-12,December,2026Q4,Karnataka,Bengaluru,Minimal Mehendi,Minimal,Casual,Event Planner,800,0,2,1600.0,4.8
+MH10107,2026-11-27,November,2026Q4,Kerala,Kochi,Traditional Indian Mehendi,Traditional,Wedding,Website Booking,1850,5,2,3515.0,4.7
+MH10108,2026-04-28,April,2026Q2,Tamil Nadu,Salem,Kids Mehendi,Kids,Casual,Walk-in,700,5,3,1995.0,4.3
+MH10109,2026-11-18,November,2026Q4,Tamil Nadu,Salem,Minimal Mehendi,Minimal,Party,Event Planner,550,0,2,1100.0,4.6
+MH10110,2026-10-01,October,2026Q4,Karnataka,Bengaluru,Bridal Mehendi,Bridal,Casual,Website Booking,4600,10,3,12420.0,3.9
+MH10111,2026-07-11,July,2026Q3,Tamil Nadu,Coimbatore,Minimal Mehendi,Minimal,Wedding,Instagram/WhatsApp,1000,5,3,2850.0,4.4
+MH10112,2026-09-25,September,2026Q3,Tamil Nadu,Coimbatore,Party Mehendi,Party,Engagement,Event Planner,1350,10,2,2430.0,5.0
+MH10113,2026-01-19,January,2026Q1,Tamil Nadu,Erode,Arabic Mehendi,Arabic,Wedding,Instagram/WhatsApp,2050,0,1,2050.0,4.3
+MH10114,2026-07-31,July,2026Q3,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Festival,Walk-in,2050,5,2,3895.0,4.0
+MH10115,2026-09-27,September,2026Q3,Tamil Nadu,Chennai,Bridal Mehendi,Bridal,Engagement,Website Booking,4250,0,3,12750.0,4.6
+MH10116,2026-07-11,July,2026Q3,Karnataka,Bengaluru,Party Mehendi,Party,Wedding,Walk-in,950,20,1,760.0,4.7
+MH10117,2026-03-22,March,2026Q1,Tamil Nadu,Coimbatore,Traditional Indian Mehendi,Traditional,Festival,Website Booking,1450,20,2,2320.0,4.6
+MH10118,2026-06-25,June,2026Q2,Tamil Nadu,Erode,Bridal Mehendi,Bridal,Baby Shower,Instagram/WhatsApp,2450,20,4,7840.0,3.9
+MH10119,2026-08-29,August,2026Q3,Tamil Nadu,Erode,Arabic Mehendi,Arabic,Party,Event Planner,1350,0,3,4050.0,4.7
+MH10120,2026-10-25,October,2026Q4,Tamil Nadu,Erode,Minimal Mehendi,Minimal,Party,Website Booking,800,0,4,3200.0,4.5
+MH10121,2026-12-28,December,2026Q4,Tamil Nadu,Salem,Bridal Mehendi,Bridal,Party,Walk-in,4150,0,2,8300.0,3.8
+MH10122,2026-09-05,September,2026Q3,Tamil Nadu,Chennai,Traditional Indian Mehendi,Traditional,Wedding,Website Booking,2300,0,2,4600.0,4.8
+MH10123,2026-04-16,April,2026Q2,Kerala,Kochi,Minimal Mehendi,Minimal,Party,Instagram/WhatsApp,950,0,3,2850.0,4.1
+MH10124,2026-09-28,September,2026Q3,Karnataka,Bengaluru,Arabic Mehendi,Arabic,Wedding,Walk-in,1300,5,1,1235.0,5.0
+MH10125,2026-06-22,June,2026Q2,Telangana,Hyderabad,Kids Mehendi,Kids,Wedding,Event Planner,550,5,3,1567.5,4.7
+MH10126,2026-04-10,April,2026Q2,Tamil Nadu,Chennai,Engagement Mehendi,Bridal,Wedding,Website Booking,3300,15,4,11220.0,4.1
+MH10127,2026-06-13,June,2026Q2,Telangana,Hyderabad,Minimal Mehendi,Minimal,Casual,Instagram/WhatsApp,600,10,2,1080.0,4.5
+MH10128,2026-06-13,June,2026Q2,Tamil Nadu,Coimbatore,Traditional Indian Mehendi,Traditional,Engagement,Walk-in,1350,10,4,4860.0,3.9
+MH10129,2026-12-13,December,2026Q4,Telangana,Hyderabad,Engagement Mehendi,Bridal,Wedding,Instagram/WhatsApp,3350,10,3,9045.0,5.0
+MH10130,2026-08-20,August,2026Q3,Telangana,Hyderabad,Party Mehendi,Party,Casual,Event Planner,1650,0,3,4950.0,4.4
+MH10131,2026-08-29,August,2026Q3,Tamil Nadu,Chennai,Minimal Mehendi,Minimal,Wedding,Website Booking,700,0,2,1400.0,3.7
+MH10132,2026-06-24,June,2026Q2,Karnataka,Bengaluru,Party Mehendi,Party,Engagement,Walk-in,1700,10,3,4590.0,4.4
+MH10133,2026-09-06,September,2026Q3,Tamil Nadu,Salem,Bridal Mehendi,Bridal,Wedding,Walk-in,3500,10,3,9450.0,4.5
+MH10134,2026-08-17,August,2026Q3,Tamil Nadu,Madurai,Minimal Mehendi,Minimal,Engagement,Event Planner,1350,0,3,4050.0,4.2
+MH10135,2026-02-15,February,2026Q1,Tamil Nadu,Coimbatore,Minimal Mehendi,Minimal,Festival,Website Booking,500,15,2,850.0,4.3
+MH10136,2026-08-15,August,2026Q3,Telangana,Hyderabad,Traditional Indian Mehendi,Traditional,Wedding,Event Planner,2000,10,2,3600.0,4.4
+MH10137,2026-07-29,July,2026Q3,Tamil Nadu,Madurai,Traditional Indian Mehendi,Traditional,Engagement,Walk-in,2100,10,3,5670.0,4.1
+MH10138,2026-08-14,August,2026Q3,Tamil Nadu,Salem,Bridal Mehendi,Bridal,Wedding,Website Booking,2950,15,3,7522.5,4.5
+MH10139,2026-09-09,September,2026Q3,Karnataka,Bengaluru,Arabic Mehendi,Arabic,Festival,Event Planner,1000,5,4,3800.0,4.3
+MH10140,2026-09-11,September,2026Q3,Telangana,Hyderabad,Bridal Mehendi,Bridal,Casual,Instagram/WhatsApp,4950,0,1,4950.0,4.0
+MH10141,2026-12-28,December,2026Q4,Tamil Nadu,Salem,Party Mehendi,Party,Festival,Instagram/WhatsApp,1000,0,2,2000.0,4.1
+MH10142,2026-10-06,October,2026Q4,Tamil Nadu,Erode,Engagement Mehendi,Bridal,Festival,Instagram/WhatsApp,2050,10,3,5535.0,3.9
+MH10143,2026-02-02,February,2026Q1,Tamil Nadu,Erode,Engagement Mehendi,Bridal,Party,Walk-in,2300,5,2,4370.0,4.0
+MH10144,2026-11-24,November,2026Q4,Tamil Nadu,Chennai,Minimal Mehendi,Minimal,Engagement,Instagram/WhatsApp,1200,5,1,1140.0,4.2
+MH10145,2026-03-13,March,2026Q1,Telangana,Hyderabad,Engagement Mehendi,Bridal,Casual,Website Booking,2950,10,2,5310.0,4.3
+MH10146,2026-12-08,December,2026Q4,Tamil Nadu,Madurai,Engagement Mehendi,Bridal,Baby Shower,Walk-in,3250,5,4,12350.0,4.7
+MH10147,2026-12-07,December,2026Q4,Tamil Nadu,Madurai,Bridal Mehendi,Bridal,Party,Walk-in,4350,10,2,7830.0,4.4
+MH10148,2026-08-06,August,2026Q3,Telangana,Hyderabad,Arabic Mehendi,Arabic,Wedding,Instagram/WhatsApp,1300,0,2,2600.0,5.0
+MH10149,2026-10-25,October,2026Q4,Tamil Nadu,Coimbatore,Party Mehendi,Party,Engagement,Event Planner,750,0,2,1500.0,3.9
+MH10150,2026-06-28,June,2026Q2,Kerala,Kochi,Kids Mehendi,Kids,Wedding,Website Booking,350,0,1,350.0,4.1
+MH10151,2026-01-07,January,2026Q1,Tamil Nadu,Chennai,Bridal Mehendi,Bridal,Wedding,Website Booking,1800,0,3,5400.0,3.4
+MH10152,2026-05-19,May,2026Q2,Karnataka,Bengaluru,Kids Mehendi,Kids,Casual,Instagram/WhatsApp,350,20,2,560.0,4.2
+MH10153,2026-06-22,June,2026Q2,Tamil Nadu,Chennai,Party Mehendi,Party,Wedding,Walk-in,1400,10,3,3780.0,4.3
+MH10154,2026-09-10,September,2026Q3,Tamil Nadu,Chennai,Engagement Mehendi,Bridal,Festival,Walk-in,2200,5,3,6270.0,4.0
+MH10155,2026-07-12,July,2026Q3,Tamil Nadu,Coimbatore,Engagement Mehendi,Bridal,Festival,Instagram/WhatsApp,2450,0,3,7350.0,4.5
+MH10156,2026-06-30,June,2026Q2,Tamil Nadu,Salem,Minimal Mehendi,Minimal,Festival,Event Planner,600,0,3,1800.0,4.3
+MH10157,2026-10-28,October,2026Q4,Tamil Nadu,Salem,Minimal Mehendi,Minimal,Engagement,Instagram/WhatsApp,750,15,4,2550.0,4.6
+MH10158,2026-05-04,May,2026Q2,Tamil Nadu,Erode,Party Mehendi,Party,Casual,Instagram/WhatsApp,1700,5,4,6460.0,4.5
+MH10159,2026-04-21,April,2026Q2,Tamil Nadu,Chennai,Minimal Mehendi,Minimal,Wedding,Walk-in,1150,15,3,2932.5,4.4
+MH10160,2026-06-20,June,2026Q2,Tamil Nadu,Erode,Minimal Mehendi,Minimal,Wedding,Event Planner,1100,0,2,2200.0,3.8
+MH10161,2026-03-01,March,2026Q1,Tamil Nadu,Madurai,Kids Mehendi,Kids,Wedding,Instagram/WhatsApp,600,10,3,1620.0,3.9
+MH10162,2026-10-24,October,2026Q4,Tamil Nadu,Erode,Kids Mehendi,Kids,Wedding,Walk-in,550,15,1,467.5,4.4
+MH10163,2026-01-26,January,2026Q1,Tamil Nadu,Erode,Kids Mehendi,Kids,Festival,Instagram/WhatsApp,400,10,2,720.0,4.2
+MH10164,2026-03-20,March,2026Q1,Tamil Nadu,Coimbatore,Kids Mehendi,Kids,Wedding,Event Planner,400,20,1,320.0,4.5
+MH10165,2026-10-24,October,2026Q4,Tamil Nadu,Erode,Arabic Mehendi,Arabic,Festival,Instagram/WhatsApp,1800,15,3,4590.0,4.1
+MH10166,2026-10-27,October,2026Q4,Tamil Nadu,Coimbatore,Bridal Mehendi,Bridal,Engagement,Event Planner,1950,20,3,4680.0,4.1
+MH10167,2026-07-11,July,2026Q3,Karnataka,Bengaluru,Bridal Mehendi,Bridal,Engagement,Event Planner,2150,0,3,6450.0,4.3
+MH10168,2026-02-17,February,2026Q1,Telangana,Hyderabad,Kids Mehendi,Kids,Party,Instagram/WhatsApp,500,10,3,1350.0,4.9
+MH10169,2026-04-21,April,2026Q2,Karnataka,Bengaluru,Traditional Indian Mehendi,Traditional,Baby Shower,Event Planner,1150,15,1,977.5,3.8
+MH10170,2026-11-11,November,2026Q4,Tamil Nadu,Chennai,Bridal Mehendi,Bridal,Wedding,Website Booking,2550,15,3,6502.5,4.5
+MH10171,2026-06-02,June,2026Q2,Tamil Nadu,Erode,Party Mehendi,Party,Festival,Event Planner,850,0,3,2550.0,4.3
+MH10172,2026-10-02,October,2026Q4,Karnataka,Bengaluru,Party Mehendi,Party,Wedding,Event Planner,1300,0,1,1300.0,4.3
+MH10173,2026-04-29,April,2026Q2,Tamil Nadu,Salem,Minimal Mehendi,Minimal,Wedding,Walk-in,750,15,3,1912.5,4.1
+MH10174,2026-10-02,October,2026Q4,Telangana,Hyderabad,Engagement Mehendi,Bridal,Party,Instagram/WhatsApp,3250,10,2,5850.0,3.7
+MH10175,2026-12-03,December,2026Q4,Kerala,Kochi,Engagement Mehendi,Bridal,Casual,Event Planner,1850,0,2,3700.0,4.3
+MH10176,2026-09-14,September,2026Q3,Tamil Nadu,Coimbatore,Party Mehendi,Party,Party,Website Booking,1750,15,1,1487.5,4.6
+MH10177,2026-12-19,December,2026Q4,Karnataka,Bengaluru,Party Mehendi,Party,Party,Instagram/WhatsApp,1400,10,1,1260.0,4.4
+MH10178,2026-06-07,June,2026Q2,Tamil Nadu,Madurai,Arabic Mehendi,Arabic,Engagement,Instagram/WhatsApp,1800,10,1,1620.0,4.3
+MH10179,2026-02-11,February,2026Q1,Tamil Nadu,Salem,Traditional Indian Mehendi,Traditional,Party,Instagram/WhatsApp,1800,15,2,3060.0,4.2
+MH10180,2026-01-25,January,2026Q1,Tamil Nadu,Erode,Bridal Mehendi,Bridal,Festival,Website Booking,4600,0,2,9200.0,4.7
+MH10181,2026-02-17,February,2026Q1,Tamil Nadu,Coimbatore,Minimal Mehendi,Minimal,Wedding,Event Planner,700,5,1,665.0,3.6
+MH10182,2026-03-15,March,2026Q1,Tamil Nadu,Erode,Traditional Indian Mehendi,Traditional,Festival,Instagram/WhatsApp,1300,10,4,4680.0,4.9
+MH10183,2026-01-21,January,2026Q1,Tamil Nadu,Chennai,Bridal Mehendi,Bridal,Wedding,Walk-in,4700,20,2,7520.0,4.9
+MH10184,2026-07-12,July,2026Q3,Telangana,Hyderabad,Party Mehendi,Party,Wedding,Instagram/WhatsApp,1650,0,4,6600.0,4.9
+MH10185,2026-11-24,November,2026Q4,Karnataka,Bengaluru,Traditional Indian Mehendi,Traditional,Baby Shower,Walk-in,1850,5,1,1757.5,4.6
+MH10186,2026-05-07,May,2026Q2,Kerala,Kochi,Kids Mehendi,Kids,Engagement,Event Planner,500,10,2,900.0,3.7
+MH10187,2026-09-17,September,2026Q3,Tamil Nadu,Chennai,Engagement Mehendi,Bridal,Baby Shower,Walk-in,1600,0,4,6400.0,4.2
+MH10188,2026-06-03,June,2026Q2,Tamil Nadu,Salem,Bridal Mehendi,Bridal,Wedding,Instagram/WhatsApp,4100,5,2,7790.0,4.4
+MH10189,2026-08-17,August,2026Q3,Tamil Nadu,Erode,Party Mehendi,Party,Wedding,Walk-in,1650,15,1,1402.5,4.2
+MH10190,2026-11-16,November,2026Q4,Kerala,Kochi,Traditional Indian Mehendi,Traditional,Wedding,Instagram/WhatsApp,2550,5,4,9690.0,3.5
+MH10191,2026-05-07,May,2026Q2,Tamil Nadu,Chennai,Kids Mehendi,Kids,Engagement,Instagram/WhatsApp,700,0,3,2100.0,4.5
+MH10192,2026-09-15,September,2026Q3,Telangana,Hyderabad,Engagement Mehendi,Bridal,Wedding,Instagram/WhatsApp,2600,10,2,4680.0,3.6
+MH10193,2026-07-21,July,2026Q3,Tamil Nadu,Madurai,Traditional Indian Mehendi,Traditional,Wedding,Event Planner,2300,15,3,5865.0,4.9
+MH10194,2026-03-09,March,2026Q1,Tamil Nadu,Salem,Party Mehendi,Party,Casual,Website Booking,1500,0,2,3000.0,4.5
+MH10195,2026-03-18,March,2026Q1,Kerala,Kochi,Bridal Mehendi,Bridal,Baby Shower,Event Planner,5000,5,2,9500.0,4.4
+MH10196,2026-05-01,May,2026Q2,Tamil Nadu,Chennai,Kids Mehendi,Kids,Baby Shower,Event Planner,550,5,2,1045.0,4.4
+MH10197,2026-12-12,December,2026Q4,Tamil Nadu,Erode,Party Mehendi,Party,Engagement,Event Planner,1200,10,1,1080.0,4.5
+MH10198,2026-05-29,May,2026Q2,Tamil Nadu,Erode,Bridal Mehendi,Bridal,Wedding,Website Booking,4000,0,4,16000.0,4.5
+MH10199,2026-03-27,March,2026Q1,Kerala,Kochi,Arabic Mehendi,Arabic,Wedding,Instagram/WhatsApp,1800,5,1,1710.0,4.6
+MH10200,2026-09-05,September,2026Q3,Kerala,Kochi,Minimal Mehendi,Minimal,Party,Event Planner,1000,10,3,2700.0,4.5
+MH10201,2026-01-10,January,2026Q1,Kerala,Kochi,Party Mehendi,Party,Wedding,Walk-in,1400,0,2,2800.0,4.2
+MH10202,2026-10-12,October,2026Q4,Tamil Nadu,Madurai,Kids Mehendi,Kids,Casual,Walk-in,600,20,4,1920.0,4.5
+MH10203,2026-07-03,July,2026Q3,Karnataka,Bengaluru,Traditional Indian Mehendi,Traditional,Festival,Event Planner,2200,0,3,6600.0,4.7
+MH10204,2026-06-07,June,2026Q2,Tamil Nadu,Erode,Minimal Mehendi,Minimal,Casual,Instagram/WhatsApp,1050,10,2,1890.0,4.2
+MH10205,2026-01-04,January,2026Q1,Telangana,Hyderabad,Engagement Mehendi,Bridal,Wedding,Website Booking,3650,0,3,10950.0,3.7
+MH10206,2026-02-22,February,2026Q1,Telangana,Hyderabad,Kids Mehendi,Kids,Engagement,Walk-in,650,15,3,1657.5,4.0
+MH10207,2026-07-25,July,2026Q3,Kerala,Kochi,Arabic Mehendi,Arabic,Festival,Website Booking,1450,0,3,4350.0,4.6
+MH10208,2026-03-24,March,2026Q1,Tamil Nadu,Chennai,Engagement Mehendi,Bridal,Festival,Event Planner,3450,0,2,6900.0,4.7
+MH10209,2026-12-07,December,2026Q4,Tamil Nadu,Coimbatore,Traditional Indian Mehendi,Traditional,Engagement,Walk-in,2500,5,2,4750.0,4.3
+MH10210,2026-02-15,February,2026Q1,Tamil Nadu,Chennai,Minimal Mehendi,Minimal,Engagement,Instagram/WhatsApp,1000,0,1,1000.0,3.9
+MH10211,2026-06-09,June,2026Q2,Telangana,Hyderabad,Kids Mehendi,Kids,Festival,Instagram/WhatsApp,300,0,1,300.0,5.0
+MH10212,2026-08-27,August,2026Q3,Tamil Nadu,Erode,Kids Mehendi,Kids,Wedding,Instagram/WhatsApp,500,10,1,450.0,4.0
+MH10213,2026-10-06,October,2026Q4,Tamil Nadu,Coimbatore,Traditional Indian Mehendi,Traditional,Festival,Walk-in,1800,10,2,3240.0,3.9
+MH10214,2026-04-02,April,2026Q2,Kerala,Kochi,Arabic Mehendi,Arabic,Engagement,Walk-in,1950,0,4,7800.0,3.8
+MH10215,2026-09-07,September,2026Q3,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Party,Event Planner,1800,5,4,6840.0,4.1
+MH10216,2026-12-09,December,2026Q4,Tamil Nadu,Chennai,Kids Mehendi,Kids,Party,Website Booking,650,15,3,1657.5,3.9
+MH10217,2026-06-21,June,2026Q2,Tamil Nadu,Salem,Traditional Indian Mehendi,Traditional,Party,Website Booking,1350,0,2,2700.0,4.5
+MH10218,2026-08-18,August,2026Q3,Kerala,Kochi,Traditional Indian Mehendi,Traditional,Baby Shower,Website Booking,2700,5,1,2565.0,3.9
+MH10219,2026-09-18,September,2026Q3,Kerala,Kochi,Traditional Indian Mehendi,Traditional,Casual,Event Planner,2350,10,3,6345.0,4.3
+MH10220,2026-04-15,April,2026Q2,Telangana,Hyderabad,Kids Mehendi,Kids,Wedding,Event Planner,650,0,2,1300.0,4.3
+MH10221,2026-11-25,November,2026Q4,Tamil Nadu,Madurai,Bridal Mehendi,Bridal,Engagement,Walk-in,3050,5,2,5795.0,4.5
+MH10222,2026-11-17,November,2026Q4,Tamil Nadu,Salem,Party Mehendi,Party,Wedding,Website Booking,1200,10,2,2160.0,4.6
+MH10223,2026-11-14,November,2026Q4,Tamil Nadu,Erode,Traditional Indian Mehendi,Traditional,Wedding,Walk-in,2700,20,2,4320.0,4.3
+MH10224,2026-09-28,September,2026Q3,Telangana,Hyderabad,Traditional Indian Mehendi,Traditional,Wedding,Instagram/WhatsApp,1200,0,1,1200.0,4.0
+MH10225,2026-07-31,July,2026Q3,Tamil Nadu,Chennai,Bridal Mehendi,Bridal,Casual,Event Planner,1900,15,2,3230.0,3.9
+MH10226,2026-04-25,April,2026Q2,Tamil Nadu,Salem,Kids Mehendi,Kids,Party,Instagram/WhatsApp,300,10,2,540.0,4.6
+MH10227,2026-11-13,November,2026Q4,Tamil Nadu,Erode,Party Mehendi,Party,Festival,Event Planner,1450,0,4,5800.0,4.2
+MH10228,2026-02-21,February,2026Q1,Karnataka,Bengaluru,Kids Mehendi,Kids,Wedding,Instagram/WhatsApp,600,5,1,570.0,4.5
+MH10229,2026-03-13,March,2026Q1,Tamil Nadu,Salem,Traditional Indian Mehendi,Traditional,Engagement,Instagram/WhatsApp,2100,0,1,2100.0,3.8
+MH10230,2026-08-05,August,2026Q3,Tamil Nadu,Madurai,Bridal Mehendi,Bridal,Engagement,Walk-in,4800,0,2,9600.0,3.9
+MH10231,2026-02-18,February,2026Q1,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Wedding,Event Planner,1250,15,3,3187.5,4.2
+MH10232,2026-04-12,April,2026Q2,Tamil Nadu,Madurai,Party Mehendi,Party,Engagement,Walk-in,1400,15,3,3570.0,4.7
+MH10233,2026-12-20,December,2026Q4,Kerala,Kochi,Traditional Indian Mehendi,Traditional,Party,Event Planner,1900,10,1,1710.0,4.5
+MH10234,2026-06-28,June,2026Q2,Tamil Nadu,Erode,Minimal Mehendi,Minimal,Festival,Event Planner,850,15,4,2890.0,4.1
+MH10235,2026-12-07,December,2026Q4,Kerala,Kochi,Party Mehendi,Party,Party,Walk-in,800,15,4,2720.0,3.8
+MH10236,2026-04-19,April,2026Q2,Tamil Nadu,Madurai,Arabic Mehendi,Arabic,Party,Instagram/WhatsApp,2050,15,3,5227.5,4.2
+MH10237,2026-07-28,July,2026Q3,Karnataka,Bengaluru,Arabic Mehendi,Arabic,Engagement,Instagram/WhatsApp,1750,20,1,1400.0,4.1
+MH10238,2026-02-28,February,2026Q1,Telangana,Hyderabad,Party Mehendi,Party,Festival,Instagram/WhatsApp,1750,5,2,3325.0,3.8
+MH10239,2026-02-06,February,2026Q1,Kerala,Kochi,Arabic Mehendi,Arabic,Baby Shower,Instagram/WhatsApp,1050,0,3,3150.0,4.0
+MH10240,2026-02-22,February,2026Q1,Tamil Nadu,Salem,Party Mehendi,Party,Wedding,Instagram/WhatsApp,1700,15,2,2890.0,4.9
+MH10241,2026-08-10,August,2026Q3,Tamil Nadu,Chennai,Kids Mehendi,Kids,Party,Instagram/WhatsApp,650,10,1,585.0,4.7
+MH10242,2026-02-22,February,2026Q1,Tamil Nadu,Coimbatore,Bridal Mehendi,Bridal,Festival,Event Planner,4500,0,2,9000.0,4.7
+MH10243,2026-06-21,June,2026Q2,Tamil Nadu,Madurai,Engagement Mehendi,Bridal,Engagement,Instagram/WhatsApp,2650,0,2,5300.0,3.8
+MH10244,2026-06-12,June,2026Q2,Tamil Nadu,Madurai,Party Mehendi,Party,Wedding,Event Planner,1500,5,1,1425.0,4.4
+MH10245,2026-11-26,November,2026Q4,Kerala,Kochi,Bridal Mehendi,Bridal,Wedding,Website Booking,3300,0,1,3300.0,4.8
+MH10246,2026-03-18,March,2026Q1,Tamil Nadu,Coimbatore,Party Mehendi,Party,Wedding,Website Booking,1400,10,2,2520.0,4.5
+MH10247,2026-09-04,September,2026Q3,Tamil Nadu,Chennai,Arabic Mehendi,Arabic,Wedding,Event Planner,1900,0,4,7600.0,4.1
+MH10248,2026-03-25,March,2026Q1,Tamil Nadu,Salem,Engagement Mehendi,Bridal,Festival,Instagram/WhatsApp,2350,10,3,6345.0,4.5
+MH10249,2026-08-28,August,2026Q3,Telangana,Hyderabad,Party Mehendi,Party,Festival,Instagram/WhatsApp,1550,10,3,4185.0,4.5
+MH10250,2026-05-08,May,2026Q2,Tamil Nadu,Chennai,Minimal Mehendi,Minimal,Wedding,Website Booking,1250,0,4,5000.0,5.0
+MH10251,2026-10-25,October,2026Q4,Tamil Nadu,Erode,Bridal Mehendi,Bridal,Party,Website Booking,2650,5,2,5035.0,4.3
+MH10252,2026-12-03,December,2026Q4,Tamil Nadu,Madurai,Arabic Mehendi,Arabic,Casual,Website Booking,850,0,3,2550.0,4.3
+MH10253,2026-08-15,August,2026Q3,Tamil Nadu,Erode,Minimal Mehendi,Minimal,Casual,Event Planner,550,0,3,1650.0,4.4
+MH10254,2026-09-11,September,2026Q3,Tamil Nadu,Coimbatore,Engagement Mehendi,Bridal,Wedding,Instagram/WhatsApp,3000,10,1,2700.0,4.5
+MH10255,2026-09-27,September,2026Q3,Tamil Nadu,Coimbatore,Bridal Mehendi,Bridal,Party,Instagram/WhatsApp,4000,0,3,12000.0,4.4
+MH10256,2026-07-27,July,2026Q3,Tamil Nadu,Chennai,Engagement Mehendi,Bridal,Engagement,Instagram/WhatsApp,2750,0,2,5500.0,4.2
+MH10257,2026-05-26,May,2026Q2,Tamil Nadu,Madurai,Engagement Mehendi,Bridal,Baby Shower,Instagram/WhatsApp,2650,5,4,10070.0,4.3
+MH10258,2026-12-29,December,2026Q4,Tamil Nadu,Chennai,Arabic Mehendi,Arabic,Party,Instagram/WhatsApp,1600,10,2,2880.0,4.5
+MH10259,2026-11-10,November,2026Q4,Karnataka,Bengaluru,Minimal Mehendi,Minimal,Wedding,Instagram/WhatsApp,900,10,4,3240.0,3.9
+MH10260,2026-12-09,December,2026Q4,Tamil Nadu,Coimbatore,Party Mehendi,Party,Engagement,Event Planner,1150,5,1,1092.5,4.6
+MH10261,2026-11-18,November,2026Q4,Kerala,Kochi,Minimal Mehendi,Minimal,Festival,Website Booking,1200,15,3,3060.0,4.6
+MH10262,2026-06-02,June,2026Q2,Tamil Nadu,Salem,Minimal Mehendi,Minimal,Casual,Event Planner,750,10,1,675.0,3.8
+MH10263,2026-08-30,August,2026Q3,Tamil Nadu,Chennai,Kids Mehendi,Kids,Party,Instagram/WhatsApp,450,5,1,427.5,4.2
+MH10264,2026-10-06,October,2026Q4,Kerala,Kochi,Traditional Indian Mehendi,Traditional,Wedding,Event Planner,1650,0,2,3300.0,4.6
+MH10265,2026-02-12,February,2026Q1,Tamil Nadu,Madurai,Party Mehendi,Party,Festival,Website Booking,1700,10,3,4590.0,3.9
+MH10266,2026-05-10,May,2026Q2,Tamil Nadu,Chennai,Party Mehendi,Party,Engagement,Website Booking,1350,5,2,2565.0,4.6
+MH10267,2026-08-29,August,2026Q3,Telangana,Hyderabad,Traditional Indian Mehendi,Traditional,Wedding,Instagram/WhatsApp,2600,0,3,7800.0,4.4
+MH10268,2026-11-06,November,2026Q4,Tamil Nadu,Erode,Arabic Mehendi,Arabic,Festival,Instagram/WhatsApp,1500,5,2,2850.0,4.1
+MH10269,2026-12-30,December,2026Q4,Kerala,Kochi,Arabic Mehendi,Arabic,Engagement,Instagram/WhatsApp,1800,0,3,5400.0,4.0
+MH10270,2026-04-27,April,2026Q2,Tamil Nadu,Madurai,Kids Mehendi,Kids,Festival,Walk-in,400,0,2,800.0,4.1
+MH10271,2026-03-25,March,2026Q1,Tamil Nadu,Madurai,Engagement Mehendi,Bridal,Casual,Website Booking,1850,0,1,1850.0,4.1
+MH10272,2026-01-26,January,2026Q1,Tamil Nadu,Chennai,Bridal Mehendi,Bridal,Engagement,Instagram/WhatsApp,2000,0,3,6000.0,4.6
+MH10273,2026-11-15,November,2026Q4,Tamil Nadu,Chennai,Arabic Mehendi,Arabic,Wedding,Walk-in,1350,5,1,1282.5,4.1
+MH10274,2026-09-29,September,2026Q3,Tamil Nadu,Madurai,Kids Mehendi,Kids,Festival,Instagram/WhatsApp,350,5,3,997.5,3.6
+MH10275,2026-11-04,November,2026Q4,Kerala,Kochi,Arabic Mehendi,Arabic,Engagement,Website Booking,850,15,2,1445.0,5.0
+MH10276,2026-10-31,October,2026Q4,Karnataka,Bengaluru,Kids Mehendi,Kids,Festival,Event Planner,650,15,4,2210.0,4.1
+MH10277,2026-11-19,November,2026Q4,Telangana,Hyderabad,Kids Mehendi,Kids,Festival,Event Planner,650,15,1,552.5,4.4
+MH10278,2026-04-15,April,2026Q2,Tamil Nadu,Coimbatore,Engagement Mehendi,Bridal,Engagement,Walk-in,1800,15,4,6120.0,4.3
+MH10279,2026-12-23,December,2026Q4,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Wedding,Walk-in,1750,0,3,5250.0,3.7
+MH10280,2026-02-17,February,2026Q1,Tamil Nadu,Madurai,Kids Mehendi,Kids,Wedding,Event Planner,600,0,3,1800.0,3.9
+MH10281,2026-06-01,June,2026Q2,Karnataka,Bengaluru,Party Mehendi,Party,Engagement,Instagram/WhatsApp,700,5,1,665.0,4.8
+MH10282,2026-03-12,March,2026Q1,Kerala,Kochi,Bridal Mehendi,Bridal,Party,Walk-in,2950,10,2,5310.0,4.5
+MH10283,2026-07-16,July,2026Q3,Tamil Nadu,Chennai,Engagement Mehendi,Bridal,Festival,Instagram/WhatsApp,2500,0,2,5000.0,3.7
+MH10284,2026-04-25,April,2026Q2,Kerala,Kochi,Kids Mehendi,Kids,Wedding,Walk-in,500,10,2,900.0,5.0
+MH10285,2026-09-27,September,2026Q3,Tamil Nadu,Coimbatore,Minimal Mehendi,Minimal,Party,Event Planner,750,10,2,1350.0,4.4
+MH10286,2026-11-08,November,2026Q4,Tamil Nadu,Salem,Party Mehendi,Party,Festival,Instagram/WhatsApp,1650,5,2,3135.0,3.5
+MH10287,2026-05-27,May,2026Q2,Tamil Nadu,Coimbatore,Bridal Mehendi,Bridal,Baby Shower,Website Booking,2400,15,2,4080.0,4.1
+MH10288,2026-04-04,April,2026Q2,Tamil Nadu,Salem,Bridal Mehendi,Bridal,Wedding,Instagram/WhatsApp,2850,0,3,8550.0,4.0
+MH10289,2026-07-02,July,2026Q3,Kerala,Kochi,Engagement Mehendi,Bridal,Engagement,Walk-in,2250,15,3,5737.5,3.4
+MH10290,2026-04-21,April,2026Q2,Tamil Nadu,Coimbatore,Party Mehendi,Party,Party,Event Planner,1650,15,2,2805.0,4.1
+MH10291,2026-06-06,June,2026Q2,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Baby Shower,Event Planner,1850,20,1,1480.0,4.7
+MH10292,2026-03-01,March,2026Q1,Karnataka,Bengaluru,Engagement Mehendi,Bridal,Festival,Walk-in,2000,15,1,1700.0,4.3
+MH10293,2026-02-15,February,2026Q1,Tamil Nadu,Madurai,Kids Mehendi,Kids,Wedding,Event Planner,350,0,4,1400.0,4.7
+MH10294,2026-03-12,March,2026Q1,Karnataka,Bengaluru,Party Mehendi,Party,Baby Shower,Instagram/WhatsApp,1000,0,3,3000.0,4.2
+MH10295,2026-01-04,January,2026Q1,Tamil Nadu,Salem,Minimal Mehendi,Minimal,Festival,Instagram/WhatsApp,800,10,2,1440.0,4.2
+MH10296,2026-01-04,January,2026Q1,Kerala,Kochi,Minimal Mehendi,Minimal,Engagement,Website Booking,550,20,4,1760.0,4.5
+MH10297,2026-08-13,August,2026Q3,Tamil Nadu,Chennai,Bridal Mehendi,Bridal,Festival,Instagram/WhatsApp,2950,0,3,8850.0,4.7
+MH10298,2026-10-30,October,2026Q4,Tamil Nadu,Chennai,Kids Mehendi,Kids,Engagement,Event Planner,550,5,4,2090.0,4.4
+MH10299,2026-04-15,April,2026Q2,Tamil Nadu,Chennai,Engagement Mehendi,Bridal,Wedding,Instagram/WhatsApp,2150,0,3,6450.0,4.4
+MH10300,2026-10-06,October,2026Q4,Telangana,Hyderabad,Engagement Mehendi,Bridal,Wedding,Walk-in,3700,0,4,14800.0,4.0
+MH10301,2026-10-10,October,2026Q4,Karnataka,Bengaluru,Bridal Mehendi,Bridal,Festival,Walk-in,2100,0,4,8400.0,4.4
+MH10302,2026-09-19,September,2026Q3,Karnataka,Bengaluru,Minimal Mehendi,Minimal,Baby Shower,Walk-in,750,5,4,2850.0,4.9
+MH10303,2026-12-12,December,2026Q4,Tamil Nadu,Erode,Party Mehendi,Party,Engagement,Walk-in,1250,15,2,2125.0,4.3
+MH10304,2026-03-21,March,2026Q1,Tamil Nadu,Madurai,Arabic Mehendi,Arabic,Engagement,Website Booking,950,10,2,1710.0,4.1
+MH10305,2026-10-12,October,2026Q4,Tamil Nadu,Erode,Kids Mehendi,Kids,Party,Walk-in,450,10,3,1215.0,5.0
+MH10306,2026-05-15,May,2026Q2,Telangana,Hyderabad,Party Mehendi,Party,Wedding,Event Planner,1400,0,3,4200.0,4.4
+MH10307,2026-05-30,May,2026Q2,Tamil Nadu,Erode,Arabic Mehendi,Arabic,Engagement,Instagram/WhatsApp,1800,5,4,6840.0,3.5
+MH10308,2026-12-04,December,2026Q4,Tamil Nadu,Erode,Party Mehendi,Party,Party,Website Booking,1050,10,1,945.0,4.5
+MH10309,2026-06-02,June,2026Q2,Telangana,Hyderabad,Party Mehendi,Party,Wedding,Instagram/WhatsApp,1700,0,1,1700.0,4.8
+MH10310,2026-10-17,October,2026Q4,Tamil Nadu,Erode,Bridal Mehendi,Bridal,Wedding,Event Planner,2000,0,3,6000.0,4.9
+MH10311,2026-12-26,December,2026Q4,Tamil Nadu,Salem,Party Mehendi,Party,Baby Shower,Walk-in,1650,10,2,2970.0,4.0
+MH10312,2026-05-08,May,2026Q2,Tamil Nadu,Coimbatore,Arabic Mehendi,Arabic,Casual,Walk-in,2000,5,2,3800.0,3.7
+MH10313,2026-04-06,April,2026Q2,Tamil Nadu,Salem,Traditional Indian Mehendi,Traditional,Casual,Website Booking,1750,15,2,2975.0,4.0
+MH10314,2026-08-10,August,2026Q3,Kerala,Kochi,Kids Mehendi,Kids,Festival,Event Planner,650,5,2,1235.0,4.6
+MH10315,2026-01-07,January,2026Q1,Tamil Nadu,Erode,Arabic Mehendi,Arabic,Wedding,Walk-in,1400,15,3,3570.0,4.4
+MH10316,2026-02-26,February,2026Q1,Tamil Nadu,Madurai,Traditional Indian Mehendi,Traditional,Party,Instagram/WhatsApp,2000,0,1,2000.0,4.4
+MH10317,2026-01-17,January,2026Q1,Tamil Nadu,Chennai,Minimal Mehendi,Minimal,Engagement,Walk-in,1350,5,2,2565.0,5.0
+MH10318,2026-04-15,April,2026Q2,Tamil Nadu,Chennai,Kids Mehendi,Kids,Wedding,Instagram/WhatsApp,350,5,3,997.5,4.7
+MH10319,2026-01-08,January,2026Q1,Tamil Nadu,Erode,Traditional Indian Mehendi,Traditional,Wedding,Event Planner,2700,20,4,8640.0,4.3
+MH10320,2026-03-02,March,2026Q1,Tamil Nadu,Coimbatore,Kids Mehendi,Kids,Party,Walk-in,450,0,3,1350.0,4.5
+MH10321,2026-03-26,March,2026Q1,Tamil Nadu,Coimbatore,Party Mehendi,Party,Party,Walk-in,800,0,3,2400.0,4.6
+MH10322,2026-12-18,December,2026Q4,Tamil Nadu,Chennai,Traditional Indian Mehendi,Traditional,Engagement,Instagram/WhatsApp,1600,0,2,3200.0,4.9
+MH10323,2026-02-15,February,2026Q1,Tamil Nadu,Madurai,Engagement Mehendi,Bridal,Wedding,Instagram/WhatsApp,2200,0,4,8800.0,4.1
+MH10324,2026-10-03,October,2026Q4,Kerala,Kochi,Bridal Mehendi,Bridal,Festival,Walk-in,4650,10,3,12555.0,4.1
+MH10325,2026-05-19,May,2026Q2,Tamil Nadu,Madurai,Traditional Indian Mehendi,Traditional,Party,Instagram/WhatsApp,1350,15,3,3442.5,4.8
+MH10326,2026-04-27,April,2026Q2,Tamil Nadu,Madurai,Kids Mehendi,Kids,Party,Website Booking,300,0,1,300.0,4.7
+MH10327,2026-01-27,January,2026Q1,Karnataka,Bengaluru,Engagement Mehendi,Bridal,Casual,Event Planner,3250,15,2,5525.0,4.4
+MH10328,2026-03-08,March,2026Q1,Karnataka,Bengaluru,Party Mehendi,Party,Festival,Instagram/WhatsApp,1000,15,3,2550.0,4.6
+MH10329,2026-08-08,August,2026Q3,Karnataka,Bengaluru,Bridal Mehendi,Bridal,Festival,Walk-in,4850,5,2,9215.0,4.5
+MH10330,2026-01-16,January,2026Q1,Tamil Nadu,Coimbatore,Arabic Mehendi,Arabic,Festival,Walk-in,1950,5,3,5557.5,4.1
+MH10331,2026-08-03,August,2026Q3,Tamil Nadu,Coimbatore,Bridal Mehendi,Bridal,Party,Event Planner,2700,0,3,8100.0,4.5
+MH10332,2026-12-13,December,2026Q4,Telangana,Hyderabad,Engagement Mehendi,Bridal,Wedding,Event Planner,1950,10,1,1755.0,4.2
+MH10333,2026-07-05,July,2026Q3,Tamil Nadu,Erode,Kids Mehendi,Kids,Wedding,Instagram/WhatsApp,450,20,1,360.0,3.8
+MH10334,2026-05-07,May,2026Q2,Tamil Nadu,Chennai,Arabic Mehendi,Arabic,Baby Shower,Event Planner,1750,5,2,3325.0,3.7
+MH10335,2026-12-29,December,2026Q4,Tamil Nadu,Chennai,Arabic Mehendi,Arabic,Wedding,Instagram/WhatsApp,2200,0,1,2200.0,4.7
+MH10336,2026-03-08,March,2026Q1,Kerala,Kochi,Party Mehendi,Party,Engagement,Walk-in,850,0,2,1700.0,4.4
+MH10337,2026-03-29,March,2026Q1,Tamil Nadu,Coimbatore,Traditional Indian Mehendi,Traditional,Wedding,Walk-in,2200,15,2,3740.0,4.6
+MH10338,2026-02-07,February,2026Q1,Tamil Nadu,Madurai,Party Mehendi,Party,Wedding,Website Booking,1650,15,2,2805.0,4.6
+MH10339,2026-12-21,December,2026Q4,Tamil Nadu,Madurai,Traditional Indian Mehendi,Traditional,Festival,Instagram/WhatsApp,2750,20,4,8800.0,4.0
+MH10340,2026-07-31,July,2026Q3,Kerala,Kochi,Arabic Mehendi,Arabic,Wedding,Walk-in,1150,10,3,3105.0,3.9
+MH10341,2026-01-28,January,2026Q1,Karnataka,Bengaluru,Minimal Mehendi,Minimal,Casual,Walk-in,1050,0,2,2100.0,5.0
+MH10342,2026-01-27,January,2026Q1,Kerala,Kochi,Minimal Mehendi,Minimal,Party,Website Booking,1150,5,2,2185.0,3.9
+MH10343,2026-12-26,December,2026Q4,Telangana,Hyderabad,Arabic Mehendi,Arabic,Party,Instagram/WhatsApp,950,0,2,1900.0,4.3
+MH10344,2026-04-15,April,2026Q2,Telangana,Hyderabad,Minimal Mehendi,Minimal,Engagement,Instagram/WhatsApp,500,0,2,1000.0,4.3
+MH10345,2026-03-06,March,2026Q1,Tamil Nadu,Madurai,Traditional Indian Mehendi,Traditional,Wedding,Event Planner,1050,0,3,3150.0,4.2
+MH10346,2026-12-15,December,2026Q4,Karnataka,Bengaluru,Traditional Indian Mehendi,Traditional,Engagement,Instagram/WhatsApp,2250,15,3,5737.5,4.3
+MH10347,2026-09-24,September,2026Q3,Telangana,Hyderabad,Traditional Indian Mehendi,Traditional,Party,Walk-in,1900,0,3,5700.0,4.5
+MH10348,2026-03-05,March,2026Q1,Telangana,Hyderabad,Bridal Mehendi,Bridal,Festival,Website Booking,1850,10,3,4995.0,4.4
+MH10349,2026-01-14,January,2026Q1,Tamil Nadu,Coimbatore,Arabic Mehendi,Arabic,Party,Website Booking,1150,0,3,3450.0,3.7
+MH10350,2026-03-29,March,2026Q1,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Baby Shower,Instagram/WhatsApp,2200,10,4,7920.0,4.2
+MH10351,2026-05-22,May,2026Q2,Karnataka,Bengaluru,Party Mehendi,Party,Wedding,Website Booking,1300,0,1,1300.0,5.0
+MH10352,2026-11-13,November,2026Q4,Tamil Nadu,Madurai,Bridal Mehendi,Bridal,Casual,Instagram/WhatsApp,2000,15,2,3400.0,3.6
+MH10353,2026-10-22,October,2026Q4,Karnataka,Bengaluru,Party Mehendi,Party,Wedding,Instagram/WhatsApp,1550,10,3,4185.0,4.3
+MH10354,2026-09-12,September,2026Q3,Tamil Nadu,Madurai,Arabic Mehendi,Arabic,Festival,Website Booking,1050,5,1,997.5,3.7
+MH10355,2026-09-01,September,2026Q3,Tamil Nadu,Salem,Engagement Mehendi,Bridal,Festival,Website Booking,2400,5,4,9120.0,4.6
+MH10356,2026-12-14,December,2026Q4,Tamil Nadu,Madurai,Traditional Indian Mehendi,Traditional,Baby Shower,Instagram/WhatsApp,2500,0,3,7500.0,4.2
+MH10357,2026-12-29,December,2026Q4,Tamil Nadu,Madurai,Minimal Mehendi,Minimal,Baby Shower,Event Planner,1250,0,2,2500.0,4.2
+MH10358,2026-09-16,September,2026Q3,Tamil Nadu,Coimbatore,Party Mehendi,Party,Wedding,Walk-in,1150,0,1,1150.0,5.0
+MH10359,2026-03-24,March,2026Q1,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Wedding,Instagram/WhatsApp,1400,0,1,1400.0,4.8
+MH10360,2026-07-01,July,2026Q3,Tamil Nadu,Madurai,Kids Mehendi,Kids,Party,Instagram/WhatsApp,500,0,2,1000.0,4.6
+MH10361,2026-09-06,September,2026Q3,Tamil Nadu,Erode,Bridal Mehendi,Bridal,Wedding,Instagram/WhatsApp,3750,10,3,10125.0,3.9
+MH10362,2026-09-01,September,2026Q3,Tamil Nadu,Madurai,Minimal Mehendi,Minimal,Baby Shower,Instagram/WhatsApp,750,10,3,2025.0,3.9
+MH10363,2026-12-14,December,2026Q4,Tamil Nadu,Madurai,Arabic Mehendi,Arabic,Festival,Instagram/WhatsApp,1500,10,3,4050.0,5.0
+MH10364,2026-12-10,December,2026Q4,Kerala,Kochi,Engagement Mehendi,Bridal,Wedding,Website Booking,2800,0,3,8400.0,4.7
+MH10365,2026-01-22,January,2026Q1,Tamil Nadu,Madurai,Arabic Mehendi,Arabic,Casual,Walk-in,1400,5,2,2660.0,3.6
+MH10366,2026-10-03,October,2026Q4,Tamil Nadu,Chennai,Bridal Mehendi,Bridal,Engagement,Website Booking,3700,5,3,10545.0,4.2
+MH10367,2026-04-24,April,2026Q2,Tamil Nadu,Coimbatore,Bridal Mehendi,Bridal,Wedding,Event Planner,2450,0,1,2450.0,4.0
+MH10368,2026-06-18,June,2026Q2,Kerala,Kochi,Traditional Indian Mehendi,Traditional,Festival,Instagram/WhatsApp,1600,10,2,2880.0,4.1
+MH10369,2026-06-22,June,2026Q2,Tamil Nadu,Erode,Kids Mehendi,Kids,Baby Shower,Walk-in,650,5,3,1852.5,4.0
+MH10370,2026-08-16,August,2026Q3,Karnataka,Bengaluru,Traditional Indian Mehendi,Traditional,Party,Walk-in,1100,15,2,1870.0,4.3
+MH10371,2026-02-04,February,2026Q1,Telangana,Hyderabad,Traditional Indian Mehendi,Traditional,Party,Instagram/WhatsApp,1500,0,4,6000.0,3.8
+MH10372,2026-04-03,April,2026Q2,Tamil Nadu,Salem,Kids Mehendi,Kids,Engagement,Walk-in,350,20,2,560.0,4.1
+MH10373,2026-08-13,August,2026Q3,Tamil Nadu,Chennai,Kids Mehendi,Kids,Festival,Instagram/WhatsApp,350,10,2,630.0,4.4
+MH10374,2026-12-26,December,2026Q4,Kerala,Kochi,Engagement Mehendi,Bridal,Wedding,Instagram/WhatsApp,1850,15,2,3145.0,4.6
+MH10375,2026-11-21,November,2026Q4,Tamil Nadu,Erode,Minimal Mehendi,Minimal,Party,Instagram/WhatsApp,1050,15,4,3570.0,4.7
+MH10376,2026-01-26,January,2026Q1,Karnataka,Bengaluru,Traditional Indian Mehendi,Traditional,Casual,Instagram/WhatsApp,2000,20,1,1600.0,4.3
+MH10377,2026-08-06,August,2026Q3,Tamil Nadu,Coimbatore,Party Mehendi,Party,Party,Walk-in,1550,15,2,2635.0,4.6
+MH10378,2026-06-16,June,2026Q2,Telangana,Hyderabad,Arabic Mehendi,Arabic,Casual,Instagram/WhatsApp,2150,15,2,3655.0,4.0
+MH10379,2026-05-13,May,2026Q2,Tamil Nadu,Salem,Kids Mehendi,Kids,Wedding,Event Planner,650,5,2,1235.0,3.5
+MH10380,2026-05-06,May,2026Q2,Tamil Nadu,Salem,Minimal Mehendi,Minimal,Engagement,Instagram/WhatsApp,1350,5,1,1282.5,3.7
+MH10381,2026-12-03,December,2026Q4,Tamil Nadu,Chennai,Party Mehendi,Party,Wedding,Walk-in,1350,0,3,4050.0,3.6
+MH10382,2026-03-31,March,2026Q1,Karnataka,Bengaluru,Minimal Mehendi,Minimal,Wedding,Walk-in,1100,5,1,1045.0,4.9
+MH10383,2026-04-06,April,2026Q2,Telangana,Hyderabad,Kids Mehendi,Kids,Party,Instagram/WhatsApp,350,0,2,700.0,4.7
+MH10384,2026-03-24,March,2026Q1,Kerala,Kochi,Kids Mehendi,Kids,Party,Instagram/WhatsApp,500,0,3,1500.0,4.8
+MH10385,2026-04-03,April,2026Q2,Tamil Nadu,Chennai,Engagement Mehendi,Bridal,Engagement,Walk-in,2800,0,2,5600.0,4.8
+MH10386,2026-08-16,August,2026Q3,Telangana,Hyderabad,Minimal Mehendi,Minimal,Engagement,Event Planner,550,5,4,2090.0,4.1
+MH10387,2026-03-17,March,2026Q1,Tamil Nadu,Coimbatore,Engagement Mehendi,Bridal,Wedding,Instagram/WhatsApp,1700,10,1,1530.0,4.6
+MH10388,2026-06-27,June,2026Q2,Karnataka,Bengaluru,Engagement Mehendi,Bridal,Casual,Event Planner,1650,0,3,4950.0,4.9
+MH10389,2026-02-12,February,2026Q1,Tamil Nadu,Erode,Traditional Indian Mehendi,Traditional,Party,Instagram/WhatsApp,2350,15,1,1997.5,4.3
+MH10390,2026-02-05,February,2026Q1,Telangana,Hyderabad,Traditional Indian Mehendi,Traditional,Wedding,Walk-in,1350,5,3,3847.5,4.6
+MH10391,2026-03-07,March,2026Q1,Kerala,Kochi,Arabic Mehendi,Arabic,Casual,Website Booking,1900,5,3,5415.0,4.5
+MH10392,2026-01-26,January,2026Q1,Telangana,Hyderabad,Traditional Indian Mehendi,Traditional,Festival,Walk-in,2800,5,4,10640.0,4.2
+MH10393,2026-07-16,July,2026Q3,Kerala,Kochi,Engagement Mehendi,Bridal,Engagement,Event Planner,2400,10,2,4320.0,4.1
+MH10394,2026-06-16,June,2026Q2,Telangana,Hyderabad,Engagement Mehendi,Bridal,Engagement,Walk-in,1900,10,4,6840.0,4.1
+MH10395,2026-04-12,April,2026Q2,Kerala,Kochi,Arabic Mehendi,Arabic,Wedding,Instagram/WhatsApp,1850,10,2,3330.0,4.4
+MH10396,2026-10-25,October,2026Q4,Tamil Nadu,Erode,Traditional Indian Mehendi,Traditional,Engagement,Walk-in,2050,10,1,1845.0,4.4
+MH10397,2026-08-13,August,2026Q3,Tamil Nadu,Chennai,Party Mehendi,Party,Wedding,Walk-in,1100,15,2,1870.0,5.0
+MH10398,2026-06-11,June,2026Q2,Tamil Nadu,Erode,Engagement Mehendi,Bridal,Festival,Event Planner,2250,5,4,8550.0,4.1
+MH10399,2026-02-05,February,2026Q1,Tamil Nadu,Coimbatore,Arabic Mehendi,Arabic,Party,Website Booking,1900,0,3,5700.0,4.5
+MH10400,2026-03-28,March,2026Q1,Tamil Nadu,Coimbatore,Bridal Mehendi,Bridal,Wedding,Walk-in,4850,15,3,12367.5,3.7
+MH10401,2026-07-28,July,2026Q3,Karnataka,Bengaluru,Engagement Mehendi,Bridal,Wedding,Instagram/WhatsApp,3500,0,1,3500.0,4.9
+MH10402,2026-09-29,September,2026Q3,Tamil Nadu,Chennai,Kids Mehendi,Kids,Festival,Event Planner,450,0,2,900.0,4.1
+MH10403,2026-07-29,July,2026Q3,Tamil Nadu,Chennai,Traditional Indian Mehendi,Traditional,Wedding,Event Planner,2600,10,3,7020.0,4.3
+MH10404,2026-12-05,December,2026Q4,Tamil Nadu,Chennai,Kids Mehendi,Kids,Wedding,Event Planner,400,15,1,340.0,4.6
+MH10405,2026-03-05,March,2026Q1,Karnataka,Bengaluru,Minimal Mehendi,Minimal,Casual,Event Planner,600,0,1,600.0,5.0
+MH10406,2026-07-11,July,2026Q3,Tamil Nadu,Chennai,Bridal Mehendi,Bridal,Party,Event Planner,3300,0,2,6600.0,3.9
+MH10407,2026-02-03,February,2026Q1,Tamil Nadu,Salem,Bridal Mehendi,Bridal,Casual,Event Planner,3800,15,2,6460.0,4.3
+MH10408,2026-11-03,November,2026Q4,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Casual,Instagram/WhatsApp,1000,15,2,1700.0,5.0
+MH10409,2026-03-18,March,2026Q1,Tamil Nadu,Erode,Traditional Indian Mehendi,Traditional,Wedding,Walk-in,1050,20,4,3360.0,4.9
+MH10410,2026-05-07,May,2026Q2,Tamil Nadu,Erode,Traditional Indian Mehendi,Traditional,Wedding,Instagram/WhatsApp,1800,0,1,1800.0,3.6
+MH10411,2026-07-14,July,2026Q3,Telangana,Hyderabad,Arabic Mehendi,Arabic,Engagement,Instagram/WhatsApp,1700,10,2,3060.0,3.7
+MH10412,2026-06-21,June,2026Q2,Tamil Nadu,Madurai,Engagement Mehendi,Bridal,Baby Shower,Walk-in,2500,15,2,4250.0,4.6
+MH10413,2026-10-19,October,2026Q4,Kerala,Kochi,Traditional Indian Mehendi,Traditional,Engagement,Instagram/WhatsApp,2100,0,2,4200.0,3.9
+MH10414,2026-04-30,April,2026Q2,Tamil Nadu,Erode,Traditional Indian Mehendi,Traditional,Party,Instagram/WhatsApp,1450,20,4,4640.0,4.2
+MH10415,2026-08-18,August,2026Q3,Tamil Nadu,Chennai,Party Mehendi,Party,Wedding,Walk-in,750,5,4,2850.0,4.5
+MH10416,2026-05-19,May,2026Q2,Tamil Nadu,Coimbatore,Bridal Mehendi,Bridal,Engagement,Walk-in,2100,5,3,5985.0,4.4
+MH10417,2026-06-08,June,2026Q2,Karnataka,Bengaluru,Kids Mehendi,Kids,Festival,Instagram/WhatsApp,700,15,2,1190.0,4.6
+MH10418,2026-01-03,January,2026Q1,Tamil Nadu,Erode,Engagement Mehendi,Bridal,Baby Shower,Instagram/WhatsApp,3700,10,2,6660.0,4.0
+MH10419,2026-12-15,December,2026Q4,Kerala,Kochi,Arabic Mehendi,Arabic,Casual,Event Planner,1100,5,4,4180.0,5.0
+MH10420,2026-12-08,December,2026Q4,Karnataka,Bengaluru,Minimal Mehendi,Minimal,Engagement,Event Planner,850,10,2,1530.0,4.5
+MH10421,2026-03-08,March,2026Q1,Tamil Nadu,Salem,Party Mehendi,Party,Wedding,Walk-in,1150,5,4,4370.0,4.0
+MH10422,2026-05-28,May,2026Q2,Telangana,Hyderabad,Bridal Mehendi,Bridal,Wedding,Event Planner,1800,5,2,3420.0,4.6
+MH10423,2026-12-03,December,2026Q4,Tamil Nadu,Coimbatore,Arabic Mehendi,Arabic,Wedding,Instagram/WhatsApp,1750,5,2,3325.0,4.4
+MH10424,2026-07-10,July,2026Q3,Tamil Nadu,Erode,Engagement Mehendi,Bridal,Party,Website Booking,2900,10,3,7830.0,4.0
+MH10425,2026-02-21,February,2026Q1,Kerala,Kochi,Minimal Mehendi,Minimal,Casual,Instagram/WhatsApp,750,5,2,1425.0,4.8
+MH10426,2026-12-05,December,2026Q4,Tamil Nadu,Madurai,Party Mehendi,Party,Festival,Event Planner,900,20,2,1440.0,4.7
+MH10427,2026-02-23,February,2026Q1,Kerala,Kochi,Arabic Mehendi,Arabic,Engagement,Event Planner,1750,0,2,3500.0,4.2
+MH10428,2026-12-21,December,2026Q4,Telangana,Hyderabad,Party Mehendi,Party,Casual,Event Planner,1100,15,3,2805.0,4.8
+MH10429,2026-01-31,January,2026Q1,Kerala,Kochi,Engagement Mehendi,Bridal,Wedding,Walk-in,2900,10,2,5220.0,3.7
+MH10430,2026-10-11,October,2026Q4,Telangana,Hyderabad,Kids Mehendi,Kids,Wedding,Instagram/WhatsApp,350,15,4,1190.0,4.9
+MH10431,2026-06-26,June,2026Q2,Tamil Nadu,Salem,Bridal Mehendi,Bridal,Wedding,Instagram/WhatsApp,2000,0,2,4000.0,4.4
+MH10432,2026-07-01,July,2026Q3,Tamil Nadu,Erode,Arabic Mehendi,Arabic,Wedding,Walk-in,1750,15,3,4462.5,4.7
+MH10433,2026-10-07,October,2026Q4,Telangana,Hyderabad,Kids Mehendi,Kids,Wedding,Walk-in,650,15,3,1657.5,4.0
+MH10434,2026-10-10,October,2026Q4,Karnataka,Bengaluru,Arabic Mehendi,Arabic,Party,Event Planner,1550,0,2,3100.0,3.7
+MH10435,2026-04-01,April,2026Q2,Tamil Nadu,Chennai,Arabic Mehendi,Arabic,Engagement,Event Planner,1350,0,3,4050.0,4.1
+MH10436,2026-10-30,October,2026Q4,Telangana,Hyderabad,Engagement Mehendi,Bridal,Wedding,Walk-in,1600,10,2,2880.0,3.9
+MH10437,2026-07-11,July,2026Q3,Tamil Nadu,Salem,Engagement Mehendi,Bridal,Wedding,Website Booking,3800,0,3,11400.0,4.1
+MH10438,2026-03-12,March,2026Q1,Tamil Nadu,Erode,Traditional Indian Mehendi,Traditional,Wedding,Walk-in,1850,5,3,5272.5,3.5
+MH10439,2026-11-04,November,2026Q4,Kerala,Kochi,Arabic Mehendi,Arabic,Casual,Instagram/WhatsApp,1550,10,2,2790.0,4.6
+MH10440,2026-11-19,November,2026Q4,Karnataka,Bengaluru,Bridal Mehendi,Bridal,Wedding,Event Planner,1900,20,4,6080.0,5.0
+MH10441,2026-09-24,September,2026Q3,Tamil Nadu,Salem,Party Mehendi,Party,Party,Instagram/WhatsApp,800,10,2,1440.0,4.6
+MH10442,2026-10-22,October,2026Q4,Kerala,Kochi,Bridal Mehendi,Bridal,Baby Shower,Walk-in,3300,0,4,13200.0,3.7
+MH10443,2026-02-25,February,2026Q1,Tamil Nadu,Madurai,Minimal Mehendi,Minimal,Wedding,Website Booking,850,10,2,1530.0,4.4
+MH10444,2026-12-11,December,2026Q4,Telangana,Hyderabad,Party Mehendi,Party,Wedding,Instagram/WhatsApp,1050,0,2,2100.0,4.0
+MH10445,2026-04-07,April,2026Q2,Tamil Nadu,Madurai,Arabic Mehendi,Arabic,Party,Instagram/WhatsApp,950,5,3,2707.5,4.7
+MH10446,2026-12-03,December,2026Q4,Telangana,Hyderabad,Engagement Mehendi,Bridal,Wedding,Event Planner,2150,5,1,2042.5,4.3
+MH10447,2026-07-25,July,2026Q3,Tamil Nadu,Chennai,Arabic Mehendi,Arabic,Casual,Event Planner,2150,15,2,3655.0,3.6
+MH10448,2026-09-07,September,2026Q3,Telangana,Hyderabad,Engagement Mehendi,Bridal,Engagement,Walk-in,1800,5,3,5130.0,3.7
+MH10449,2026-05-06,May,2026Q2,Telangana,Hyderabad,Traditional Indian Mehendi,Traditional,Engagement,Instagram/WhatsApp,1550,5,3,4417.5,4.5
+MH10450,2026-10-28,October,2026Q4,Kerala,Kochi,Bridal Mehendi,Bridal,Wedding,Walk-in,4350,5,2,8265.0,4.5
+MH10451,2026-09-28,September,2026Q3,Tamil Nadu,Salem,Party Mehendi,Party,Engagement,Instagram/WhatsApp,1450,15,3,3697.5,4.3
+MH10452,2026-04-10,April,2026Q2,Tamil Nadu,Erode,Bridal Mehendi,Bridal,Wedding,Event Planner,3350,0,2,6700.0,4.3
+MH10453,2026-06-11,June,2026Q2,Tamil Nadu,Madurai,Kids Mehendi,Kids,Wedding,Website Booking,350,5,2,665.0,4.8
+MH10454,2026-05-04,May,2026Q2,Tamil Nadu,Chennai,Party Mehendi,Party,Party,Instagram/WhatsApp,1600,5,3,4560.0,4.7
+MH10455,2026-12-01,December,2026Q4,Kerala,Kochi,Minimal Mehendi,Minimal,Casual,Website Booking,650,0,2,1300.0,4.0
+MH10456,2026-08-09,August,2026Q3,Tamil Nadu,Madurai,Minimal Mehendi,Minimal,Wedding,Walk-in,1200,0,2,2400.0,4.2
+MH10457,2026-11-21,November,2026Q4,Tamil Nadu,Coimbatore,Minimal Mehendi,Minimal,Festival,Event Planner,750,5,4,2850.0,3.7
+MH10458,2026-02-19,February,2026Q1,Tamil Nadu,Erode,Bridal Mehendi,Bridal,Wedding,Walk-in,2350,0,3,7050.0,4.6
+MH10459,2026-06-12,June,2026Q2,Kerala,Kochi,Traditional Indian Mehendi,Traditional,Wedding,Walk-in,1650,10,3,4455.0,3.8
+MH10460,2026-02-06,February,2026Q1,Tamil Nadu,Erode,Engagement Mehendi,Bridal,Festival,Walk-in,2150,15,2,3655.0,4.0
+MH10461,2026-11-23,November,2026Q4,Tamil Nadu,Erode,Party Mehendi,Party,Wedding,Walk-in,1400,15,3,3570.0,3.9
+MH10462,2026-05-31,May,2026Q2,Tamil Nadu,Coimbatore,Arabic Mehendi,Arabic,Party,Instagram/WhatsApp,2050,10,3,5535.0,4.3
+MH10463,2026-09-11,September,2026Q3,Tamil Nadu,Madurai,Party Mehendi,Party,Party,Instagram/WhatsApp,1700,5,2,3230.0,5.0
+MH10464,2026-01-17,January,2026Q1,Kerala,Kochi,Bridal Mehendi,Bridal,Baby Shower,Instagram/WhatsApp,4550,15,2,7735.0,4.2
+MH10465,2026-04-13,April,2026Q2,Karnataka,Bengaluru,Bridal Mehendi,Bridal,Party,Walk-in,4400,0,2,8800.0,3.8
+MH10466,2026-08-09,August,2026Q3,Kerala,Kochi,Traditional Indian Mehendi,Traditional,Casual,Event Planner,2150,15,3,5482.5,4.4
+MH10467,2026-06-22,June,2026Q2,Telangana,Hyderabad,Bridal Mehendi,Bridal,Engagement,Event Planner,2700,0,1,2700.0,4.7
+MH10468,2026-12-28,December,2026Q4,Kerala,Kochi,Party Mehendi,Party,Baby Shower,Website Booking,950,10,2,1710.0,4.0
+MH10469,2026-03-03,March,2026Q1,Telangana,Hyderabad,Arabic Mehendi,Arabic,Festival,Website Booking,2200,0,1,2200.0,3.9
+MH10470,2026-08-21,August,2026Q3,Tamil Nadu,Erode,Engagement Mehendi,Bridal,Festival,Instagram/WhatsApp,2850,5,2,5415.0,4.5
+MH10471,2026-12-05,December,2026Q4,Tamil Nadu,Chennai,Kids Mehendi,Kids,Festival,Website Booking,350,10,3,945.0,4.1
+MH10472,2026-06-26,June,2026Q2,Tamil Nadu,Erode,Minimal Mehendi,Minimal,Casual,Event Planner,550,15,2,935.0,4.1
+MH10473,2026-05-22,May,2026Q2,Tamil Nadu,Salem,Party Mehendi,Party,Festival,Instagram/WhatsApp,1350,0,2,2700.0,4.4
+MH10474,2026-08-26,August,2026Q3,Kerala,Kochi,Kids Mehendi,Kids,Wedding,Instagram/WhatsApp,450,15,2,765.0,3.6
+MH10475,2026-05-07,May,2026Q2,Telangana,Hyderabad,Kids Mehendi,Kids,Engagement,Website Booking,350,5,4,1330.0,4.0
+MH10476,2026-01-10,January,2026Q1,Tamil Nadu,Salem,Party Mehendi,Party,Party,Event Planner,1800,10,3,4860.0,3.8
+MH10477,2026-06-13,June,2026Q2,Karnataka,Bengaluru,Minimal Mehendi,Minimal,Wedding,Instagram/WhatsApp,950,10,2,1710.0,3.7
+MH10478,2026-09-14,September,2026Q3,Tamil Nadu,Erode,Arabic Mehendi,Arabic,Wedding,Walk-in,1650,10,4,5940.0,3.8
+MH10479,2026-11-10,November,2026Q4,Tamil Nadu,Madurai,Bridal Mehendi,Bridal,Wedding,Instagram/WhatsApp,3550,0,4,14200.0,4.2
+MH10480,2026-06-20,June,2026Q2,Tamil Nadu,Chennai,Party Mehendi,Party,Wedding,Instagram/WhatsApp,1200,15,2,2040.0,4.3
+MH10481,2026-08-31,August,2026Q3,Tamil Nadu,Coimbatore,Kids Mehendi,Kids,Party,Instagram/WhatsApp,350,15,2,595.0,4.6
+MH10482,2026-05-07,May,2026Q2,Tamil Nadu,Chennai,Traditional Indian Mehendi,Traditional,Festival,Instagram/WhatsApp,1150,0,1,1150.0,3.9
+MH10483,2026-01-05,January,2026Q1,Tamil Nadu,Madurai,Kids Mehendi,Kids,Festival,Event Planner,500,15,3,1275.0,4.2
+MH10484,2026-07-20,July,2026Q3,Tamil Nadu,Chennai,Party Mehendi,Party,Festival,Walk-in,1700,5,2,3230.0,4.5
+MH10485,2026-06-24,June,2026Q2,Karnataka,Bengaluru,Traditional Indian Mehendi,Traditional,Party,Website Booking,1500,0,2,3000.0,4.7
+MH10486,2026-03-23,March,2026Q1,Tamil Nadu,Erode,Party Mehendi,Party,Party,Instagram/WhatsApp,1650,10,2,2970.0,3.8
+MH10487,2026-08-19,August,2026Q3,Tamil Nadu,Coimbatore,Engagement Mehendi,Bridal,Wedding,Event Planner,1450,15,3,3697.5,4.5
+MH10488,2026-07-20,July,2026Q3,Karnataka,Bengaluru,Kids Mehendi,Kids,Wedding,Walk-in,700,0,2,1400.0,3.4
+MH10489,2026-05-03,May,2026Q2,Tamil Nadu,Madurai,Kids Mehendi,Kids,Wedding,Walk-in,350,15,3,892.5,3.4
+MH10490,2026-02-28,February,2026Q1,Kerala,Kochi,Arabic Mehendi,Arabic,Party,Instagram/WhatsApp,1600,0,4,6400.0,3.5
+MH10491,2026-12-02,December,2026Q4,Tamil Nadu,Salem,Minimal Mehendi,Minimal,Party,Website Booking,750,10,1,675.0,4.8
+MH10492,2026-09-29,September,2026Q3,Telangana,Hyderabad,Party Mehendi,Party,Wedding,Instagram/WhatsApp,750,15,1,637.5,4.1
+MH10493,2026-10-31,October,2026Q4,Telangana,Hyderabad,Arabic Mehendi,Arabic,Wedding,Walk-in,2100,15,4,7140.0,4.0
+MH10494,2026-06-06,June,2026Q2,Karnataka,Bengaluru,Party Mehendi,Party,Baby Shower,Walk-in,950,0,4,3800.0,4.0
+MH10495,2026-08-20,August,2026Q3,Tamil Nadu,Salem,Arabic Mehendi,Arabic,Casual,Website Booking,2050,10,1,1845.0,4.9
+MH10496,2026-01-29,January,2026Q1,Tamil Nadu,Chennai,Minimal Mehendi,Minimal,Wedding,Event Planner,1000,5,4,3800.0,4.3
+MH10497,2026-04-26,April,2026Q2,Telangana,Hyderabad,Traditional Indian Mehendi,Traditional,Engagement,Instagram/WhatsApp,2050,10,2,3690.0,4.3
+MH10498,2026-08-05,August,2026Q3,Tamil Nadu,Coimbatore,Traditional Indian Mehendi,Traditional,Engagement,Website Booking,1650,10,4,5940.0,4.6
+MH10499,2026-12-14,December,2026Q4,Kerala,Kochi,Arabic Mehendi,Arabic,Casual,Instagram/WhatsApp,950,15,2,1615.0,4.3
+MH10500,2026-09-27,September,2026Q3,Tamil Nadu,Erode,Minimal Mehendi,Minimal,Wedding,Instagram/WhatsApp,1150,10,1,1035.0,3.7

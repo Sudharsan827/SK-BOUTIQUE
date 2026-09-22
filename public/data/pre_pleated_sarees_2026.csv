@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Month,Quarter,Region,City,Service_or_Product,Category,Occasion,Sales_Channel,Unit_Price_INR,Discount_Pct,Quantity,Revenue_INR,Customer_Rating
+PP10001,2026-10-10,October,2026Q4,Kerala,Kochi,Ready-to-Wear Organza,Organza,Party,Offline Store,4500,0,2,9000.0,4.0
+PP10002,2026-09-07,September,2026Q3,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Reception,Online Website,5700,15,1,4845.0,4.7
+PP10003,2026-11-13,November,2026Q4,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Reception,Instagram/WhatsApp,5700,0,1,5700.0,4.5
+PP10004,2026-02-19,February,2026Q1,Tamil Nadu,Chennai,Ready-to-Wear Organza,Organza,Festival,Marketplace,4450,10,1,4005.0,4.6
+PP10005,2026-02-28,February,2026Q1,Tamil Nadu,Coimbatore,Pre-Draped Tissue,Tissue,Reception,Marketplace,4150,15,1,3527.5,4.4
+PP10006,2026-10-16,October,2026Q4,Delhi NCR,Delhi,Pre-Draped Tissue,Tissue,Wedding,Instagram/WhatsApp,5400,10,2,9720.0,3.8
+PP10007,2026-11-04,November,2026Q4,Telangana,Hyderabad,Pre-Pleated Georgette,Georgette,Wedding,Offline Store,3100,0,2,6200.0,4.3
+PP10008,2026-10-05,October,2026Q4,Telangana,Hyderabad,Pre-Pleated Georgette,Georgette,Sangeet,Marketplace,3400,0,3,10200.0,4.4
+PP10009,2026-09-22,September,2026Q3,Telangana,Hyderabad,Pre-Stitched Silk,Silk,Sangeet,Online Website,6450,10,2,11610.0,4.2
+PP10010,2026-06-21,June,2026Q2,Karnataka,Bengaluru,Pre-Pleated Georgette,Georgette,Wedding,Marketplace,2400,10,2,4320.0,4.6
+PP10011,2026-04-28,April,2026Q2,Kerala,Kochi,Ready Pleated Cotton,Cotton,Party,Offline Store,1700,10,3,4590.0,4.8
+PP10012,2026-09-22,September,2026Q3,Maharashtra,Mumbai,Pre-Stitched Silk,Silk,Reception,Online Website,6950,0,2,13900.0,4.3
+PP10013,2026-04-27,April,2026Q2,Kerala,Kochi,Pre-Draped Tissue,Tissue,Reception,Offline Store,4250,10,2,7650.0,4.7
+PP10014,2026-09-25,September,2026Q3,Tamil Nadu,Chennai,Pre-Draped Tissue,Tissue,Party,Online Website,5050,5,1,4797.5,5.0
+PP10015,2026-01-14,January,2026Q1,Maharashtra,Pune,Pre-Pleated Georgette,Georgette,Wedding,Online Website,3850,0,2,7700.0,4.6
+PP10016,2026-05-27,May,2026Q2,Telangana,Hyderabad,Pre-Stitched Silk,Silk,Wedding,Offline Store,7100,0,1,7100.0,4.3
+PP10017,2026-08-20,August,2026Q3,Tamil Nadu,Coimbatore,Pre-Draped Tissue,Tissue,Sangeet,Marketplace,5450,0,1,5450.0,4.7
+PP10018,2026-05-31,May,2026Q2,Kerala,Kochi,Pre-Stitched Silk,Silk,Festival,Instagram/WhatsApp,5250,10,2,9450.0,3.8
+PP10019,2026-04-04,April,2026Q2,Delhi NCR,Delhi,Ready-to-Wear Organza,Organza,Reception,Marketplace,5150,5,2,9785.0,4.0
+PP10020,2026-11-04,November,2026Q4,Maharashtra,Mumbai,Pre-Draped Satin,Satin,Sangeet,Marketplace,3650,0,1,3650.0,4.9
+PP10021,2026-07-21,July,2026Q3,Kerala,Kochi,Ready-to-Wear Organza,Organza,Office/Event,Offline Store,5200,20,1,4160.0,4.3
+PP10022,2026-08-20,August,2026Q3,Kerala,Kochi,Pre-Draped Satin,Satin,Wedding,Offline Store,5450,5,1,5177.5,4.4
+PP10023,2026-11-15,November,2026Q4,Kerala,Kochi,Pre-Pleated Georgette,Georgette,Sangeet,Offline Store,2400,0,2,4800.0,4.6
+PP10024,2026-10-27,October,2026Q4,Tamil Nadu,Coimbatore,Ready-to-Wear Organza,Organza,Wedding,Online Website,3300,0,1,3300.0,4.4
+PP10025,2026-03-06,March,2026Q1,Kerala,Kochi,Ready Pleated Cotton,Cotton,Festival,Online Website,2200,5,2,4180.0,4.4
+PP10026,2026-04-01,April,2026Q2,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Sangeet,Marketplace,6600,0,1,6600.0,4.1
+PP10027,2026-11-05,November,2026Q4,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Office/Event,Offline Store,4600,10,3,12420.0,4.2
+PP10028,2026-12-10,December,2026Q4,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Festival,Offline Store,3700,10,2,6660.0,4.0
+PP10029,2026-09-30,September,2026Q3,Tamil Nadu,Coimbatore,Pre-Draped Satin,Satin,Office/Event,Online Website,5800,5,1,5510.0,4.5
+PP10030,2026-03-19,March,2026Q1,Delhi NCR,Delhi,Ready Pleated Cotton,Cotton,Sangeet,Marketplace,1900,5,2,3610.0,4.1
+PP10031,2026-04-16,April,2026Q2,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Sangeet,Marketplace,3600,10,2,6480.0,3.4
+PP10032,2026-12-22,December,2026Q4,Maharashtra,Mumbai,Ready Pleated Cotton,Cotton,Reception,Offline Store,1450,5,2,2755.0,4.6
+PP10033,2026-02-17,February,2026Q1,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Office/Event,Offline Store,3800,10,1,3420.0,3.7
+PP10034,2026-02-04,February,2026Q1,Karnataka,Bengaluru,Pre-Pleated Georgette,Georgette,Reception,Instagram/WhatsApp,3750,20,1,3000.0,4.3
+PP10035,2026-11-05,November,2026Q4,Tamil Nadu,Coimbatore,Pre-Draped Satin,Satin,Office/Event,Offline Store,3250,15,2,5525.0,4.3
+PP10036,2026-08-18,August,2026Q3,Telangana,Hyderabad,Pre-Pleated Georgette,Georgette,Reception,Instagram/WhatsApp,2250,15,2,3825.0,4.0
+PP10037,2026-09-06,September,2026Q3,Maharashtra,Pune,Ready-to-Wear Organza,Organza,Party,Offline Store,4650,0,2,9300.0,4.7
+PP10038,2026-12-14,December,2026Q4,Kerala,Kochi,Pre-Draped Tissue,Tissue,Wedding,Online Website,4200,10,1,3780.0,4.6
+PP10039,2026-08-29,August,2026Q3,Maharashtra,Mumbai,Pre-Pleated Georgette,Georgette,Wedding,Marketplace,2850,10,2,5130.0,3.9
+PP10040,2026-05-17,May,2026Q2,Telangana,Hyderabad,Ready-to-Wear Organza,Organza,Wedding,Offline Store,4050,0,3,12150.0,4.2
+PP10041,2026-12-29,December,2026Q4,Kerala,Kochi,Pre-Draped Tissue,Tissue,Office/Event,Offline Store,6100,5,2,11590.0,4.2
+PP10042,2026-03-14,March,2026Q1,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Wedding,Online Website,4600,5,1,4370.0,4.2
+PP10043,2026-07-29,July,2026Q3,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Festival,Online Website,5750,10,1,5175.0,4.1
+PP10044,2026-09-22,September,2026Q3,Maharashtra,Mumbai,Pre-Pleated Georgette,Georgette,Reception,Offline Store,3850,0,2,7700.0,4.2
+PP10045,2026-11-24,November,2026Q4,Tamil Nadu,Coimbatore,Pre-Draped Tissue,Tissue,Wedding,Marketplace,3200,5,2,6080.0,4.3
+PP10046,2026-05-21,May,2026Q2,Karnataka,Bengaluru,Pre-Stitched Silk,Silk,Party,Instagram/WhatsApp,5500,15,2,9350.0,4.5
+PP10047,2026-12-17,December,2026Q4,Delhi NCR,Delhi,Pre-Draped Tissue,Tissue,Reception,Online Website,4350,10,2,7830.0,4.7
+PP10048,2026-07-11,July,2026Q3,Maharashtra,Pune,Pre-Pleated Georgette,Georgette,Festival,Marketplace,3350,0,1,3350.0,4.3
+PP10049,2026-08-14,August,2026Q3,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Festival,Online Website,4400,10,2,7920.0,4.3
+PP10050,2026-05-31,May,2026Q2,Kerala,Kochi,Pre-Draped Satin,Satin,Wedding,Marketplace,3650,0,1,3650.0,3.7
+PP10051,2026-08-02,August,2026Q3,Telangana,Hyderabad,Ready Pleated Cotton,Cotton,Office/Event,Offline Store,2050,0,1,2050.0,4.5
+PP10052,2026-04-08,April,2026Q2,Maharashtra,Pune,Pre-Pleated Georgette,Georgette,Reception,Instagram/WhatsApp,3000,15,3,7650.0,5.0
+PP10053,2026-11-19,November,2026Q4,Tamil Nadu,Coimbatore,Pre-Draped Satin,Satin,Wedding,Online Website,4700,15,2,7990.0,4.3
+PP10054,2026-09-05,September,2026Q3,Maharashtra,Mumbai,Pre-Pleated Georgette,Georgette,Party,Instagram/WhatsApp,3200,15,2,5440.0,3.9
+PP10055,2026-11-21,November,2026Q4,Kerala,Kochi,Pre-Stitched Silk,Silk,Wedding,Online Website,4850,20,2,7760.0,4.8
+PP10056,2026-04-23,April,2026Q2,Tamil Nadu,Chennai,Pre-Draped Tissue,Tissue,Sangeet,Instagram/WhatsApp,5350,20,2,8560.0,4.6
+PP10057,2026-10-10,October,2026Q4,Tamil Nadu,Chennai,Pre-Draped Tissue,Tissue,Wedding,Online Website,6100,15,1,5185.0,4.6
+PP10058,2026-05-24,May,2026Q2,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Wedding,Instagram/WhatsApp,3350,5,2,6365.0,4.9
+PP10059,2026-09-18,September,2026Q3,Telangana,Hyderabad,Pre-Stitched Silk,Silk,Wedding,Instagram/WhatsApp,5350,10,2,9630.0,4.5
+PP10060,2026-01-28,January,2026Q1,Tamil Nadu,Coimbatore,Pre-Stitched Silk,Silk,Festival,Offline Store,5750,5,2,10925.0,4.6
+PP10061,2026-10-16,October,2026Q4,Tamil Nadu,Coimbatore,Ready Pleated Cotton,Cotton,Festival,Online Website,2100,5,2,3990.0,4.1
+PP10062,2026-04-08,April,2026Q2,Karnataka,Bengaluru,Pre-Pleated Georgette,Georgette,Sangeet,Instagram/WhatsApp,3500,15,2,5950.0,4.6
+PP10063,2026-02-13,February,2026Q1,Delhi NCR,Delhi,Pre-Stitched Silk,Silk,Party,Online Website,4800,5,2,9120.0,4.5
+PP10064,2026-07-25,July,2026Q3,Maharashtra,Pune,Ready Pleated Cotton,Cotton,Festival,Online Website,1600,20,2,2560.0,4.4
+PP10065,2026-02-11,February,2026Q1,Telangana,Hyderabad,Ready-to-Wear Organza,Organza,Party,Offline Store,5050,0,1,5050.0,4.4
+PP10066,2026-03-19,March,2026Q1,Tamil Nadu,Chennai,Pre-Draped Satin,Satin,Festival,Marketplace,4350,15,2,7395.0,4.4
+PP10067,2026-02-16,February,2026Q1,Tamil Nadu,Coimbatore,Pre-Pleated Georgette,Georgette,Sangeet,Instagram/WhatsApp,4100,15,2,6970.0,4.7
+PP10068,2026-03-20,March,2026Q1,Tamil Nadu,Coimbatore,Pre-Draped Satin,Satin,Festival,Marketplace,5950,0,1,5950.0,4.3
+PP10069,2026-01-24,January,2026Q1,Delhi NCR,Delhi,Ready Pleated Cotton,Cotton,Office/Event,Offline Store,2600,0,2,5200.0,4.6
+PP10070,2026-07-07,July,2026Q3,Maharashtra,Pune,Ready-to-Wear Organza,Organza,Sangeet,Offline Store,2950,15,2,5015.0,4.3
+PP10071,2026-12-12,December,2026Q4,Tamil Nadu,Coimbatore,Pre-Draped Tissue,Tissue,Reception,Online Website,4150,5,1,3942.5,4.9
+PP10072,2026-06-04,June,2026Q2,Tamil Nadu,Chennai,Pre-Draped Satin,Satin,Festival,Offline Store,5200,5,1,4940.0,4.2
+PP10073,2026-09-03,September,2026Q3,Delhi NCR,Delhi,Pre-Draped Tissue,Tissue,Sangeet,Offline Store,3300,0,2,6600.0,4.4
+PP10074,2026-02-21,February,2026Q1,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Party,Online Website,4000,0,1,4000.0,3.7
+PP10075,2026-02-23,February,2026Q1,Maharashtra,Mumbai,Ready Pleated Cotton,Cotton,Wedding,Offline Store,1900,5,1,1805.0,4.7
+PP10076,2026-09-11,September,2026Q3,Tamil Nadu,Coimbatore,Pre-Draped Satin,Satin,Wedding,Offline Store,5050,20,2,8080.0,4.3
+PP10077,2026-08-08,August,2026Q3,Telangana,Hyderabad,Ready Pleated Cotton,Cotton,Sangeet,Marketplace,2600,15,2,4420.0,4.3
+PP10078,2026-10-20,October,2026Q4,Tamil Nadu,Coimbatore,Pre-Draped Tissue,Tissue,Festival,Instagram/WhatsApp,5950,10,2,10710.0,4.3
+PP10079,2026-07-28,July,2026Q3,Telangana,Hyderabad,Ready Pleated Cotton,Cotton,Reception,Offline Store,2800,5,2,5320.0,3.8
+PP10080,2026-12-22,December,2026Q4,Tamil Nadu,Coimbatore,Pre-Pleated Georgette,Georgette,Wedding,Offline Store,3750,5,2,7125.0,4.8
+PP10081,2026-09-04,September,2026Q3,Kerala,Kochi,Pre-Stitched Silk,Silk,Reception,Offline Store,5150,5,1,4892.5,4.7
+PP10082,2026-11-06,November,2026Q4,Karnataka,Bengaluru,Ready Pleated Cotton,Cotton,Party,Online Website,2150,15,2,3655.0,4.4
+PP10083,2026-08-07,August,2026Q3,Tamil Nadu,Coimbatore,Pre-Draped Tissue,Tissue,Wedding,Marketplace,6100,10,2,10980.0,5.0
+PP10084,2026-01-13,January,2026Q1,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Reception,Offline Store,3200,5,1,3040.0,3.8
+PP10085,2026-05-08,May,2026Q2,Maharashtra,Mumbai,Pre-Draped Tissue,Tissue,Party,Marketplace,6150,15,3,15682.5,4.2
+PP10086,2026-10-29,October,2026Q4,Delhi NCR,Delhi,Pre-Stitched Silk,Silk,Wedding,Offline Store,7250,15,1,6162.5,4.2
+PP10087,2026-04-26,April,2026Q2,Tamil Nadu,Coimbatore,Pre-Pleated Georgette,Georgette,Wedding,Offline Store,3950,5,2,7505.0,5.0
+PP10088,2026-09-18,September,2026Q3,Karnataka,Bengaluru,Pre-Stitched Silk,Silk,Wedding,Offline Store,5800,10,2,10440.0,4.6
+PP10089,2026-02-14,February,2026Q1,Telangana,Hyderabad,Pre-Stitched Silk,Silk,Wedding,Online Website,6700,5,2,12730.0,4.2
+PP10090,2026-05-29,May,2026Q2,Telangana,Hyderabad,Ready-to-Wear Organza,Organza,Festival,Online Website,4750,0,1,4750.0,4.2
+PP10091,2026-10-11,October,2026Q4,Kerala,Kochi,Pre-Draped Tissue,Tissue,Party,Online Website,3800,0,2,7600.0,4.3
+PP10092,2026-07-03,July,2026Q3,Tamil Nadu,Chennai,Pre-Draped Tissue,Tissue,Office/Event,Online Website,4900,5,1,4655.0,4.5
+PP10093,2026-08-02,August,2026Q3,Tamil Nadu,Chennai,Pre-Draped Satin,Satin,Party,Online Website,3150,15,3,8032.5,4.4
+PP10094,2026-07-18,July,2026Q3,Tamil Nadu,Chennai,Ready-to-Wear Organza,Organza,Party,Instagram/WhatsApp,3200,0,1,3200.0,4.3
+PP10095,2026-05-29,May,2026Q2,Tamil Nadu,Chennai,Pre-Draped Tissue,Tissue,Party,Marketplace,3450,0,1,3450.0,4.6
+PP10096,2026-12-18,December,2026Q4,Tamil Nadu,Coimbatore,Pre-Pleated Georgette,Georgette,Festival,Online Website,3450,10,2,6210.0,4.4
+PP10097,2026-07-06,July,2026Q3,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Wedding,Offline Store,4250,0,1,4250.0,3.8
+PP10098,2026-04-08,April,2026Q2,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Sangeet,Offline Store,6200,15,2,10540.0,3.9
+PP10099,2026-04-17,April,2026Q2,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Reception,Marketplace,5250,10,2,9450.0,5.0
+PP10100,2026-07-20,July,2026Q3,Kerala,Kochi,Pre-Draped Tissue,Tissue,Party,Online Website,4850,15,2,8245.0,3.7
+PP10101,2026-05-13,May,2026Q2,Maharashtra,Pune,Pre-Draped Satin,Satin,Festival,Instagram/WhatsApp,4300,0,3,12900.0,4.3
+PP10102,2026-06-02,June,2026Q2,Tamil Nadu,Coimbatore,Pre-Pleated Georgette,Georgette,Sangeet,Offline Store,3250,0,1,3250.0,4.7
+PP10103,2026-08-26,August,2026Q3,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Sangeet,Instagram/WhatsApp,4250,15,1,3612.5,4.3
+PP10104,2026-09-03,September,2026Q3,Telangana,Hyderabad,Ready-to-Wear Organza,Organza,Office/Event,Instagram/WhatsApp,4800,5,2,9120.0,4.3
+PP10105,2026-11-23,November,2026Q4,Kerala,Kochi,Ready Pleated Cotton,Cotton,Festival,Offline Store,2300,10,1,2070.0,4.2
+PP10106,2026-08-28,August,2026Q3,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Party,Online Website,4300,10,2,7740.0,4.7
+PP10107,2026-09-01,September,2026Q3,Tamil Nadu,Coimbatore,Pre-Stitched Silk,Silk,Office/Event,Offline Store,5850,10,2,10530.0,3.2
+PP10108,2026-02-04,February,2026Q1,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Reception,Online Website,3850,0,1,3850.0,4.2
+PP10109,2026-04-25,April,2026Q2,Tamil Nadu,Coimbatore,Pre-Stitched Silk,Silk,Sangeet,Instagram/WhatsApp,5550,10,3,14985.0,3.8
+PP10110,2026-12-24,December,2026Q4,Delhi NCR,Delhi,Pre-Draped Tissue,Tissue,Festival,Offline Store,3600,5,2,6840.0,3.9
+PP10111,2026-06-25,June,2026Q2,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Party,Online Website,3500,10,1,3150.0,4.5
+PP10112,2026-07-04,July,2026Q3,Maharashtra,Mumbai,Ready Pleated Cotton,Cotton,Sangeet,Marketplace,1900,20,2,3040.0,4.4
+PP10113,2026-11-02,November,2026Q4,Maharashtra,Pune,Pre-Stitched Silk,Silk,Reception,Offline Store,5900,0,2,11800.0,4.0
+PP10114,2026-06-01,June,2026Q2,Kerala,Kochi,Ready Pleated Cotton,Cotton,Festival,Marketplace,1650,15,2,2805.0,3.7
+PP10115,2026-11-22,November,2026Q4,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Reception,Offline Store,3850,5,2,7315.0,3.8
+PP10116,2026-04-23,April,2026Q2,Karnataka,Bengaluru,Pre-Draped Tissue,Tissue,Wedding,Instagram/WhatsApp,4350,5,2,8265.0,3.7
+PP10117,2026-02-04,February,2026Q1,Maharashtra,Mumbai,Pre-Draped Satin,Satin,Reception,Instagram/WhatsApp,5650,10,1,5085.0,4.6
+PP10118,2026-12-19,December,2026Q4,Maharashtra,Mumbai,Pre-Pleated Georgette,Georgette,Wedding,Instagram/WhatsApp,3050,15,1,2592.5,5.0
+PP10119,2026-08-17,August,2026Q3,Kerala,Kochi,Pre-Stitched Silk,Silk,Wedding,Online Website,6950,5,1,6602.5,4.0
+PP10120,2026-08-12,August,2026Q3,Kerala,Kochi,Pre-Pleated Georgette,Georgette,Wedding,Marketplace,2300,0,2,4600.0,5.0
+PP10121,2026-12-16,December,2026Q4,Tamil Nadu,Coimbatore,Pre-Draped Satin,Satin,Sangeet,Offline Store,5350,15,1,4547.5,3.6
+PP10122,2026-01-05,January,2026Q1,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Wedding,Marketplace,2900,0,2,5800.0,4.0
+PP10123,2026-08-14,August,2026Q3,Maharashtra,Mumbai,Pre-Draped Satin,Satin,Party,Instagram/WhatsApp,5800,10,1,5220.0,4.4
+PP10124,2026-07-21,July,2026Q3,Delhi NCR,Delhi,Pre-Draped Tissue,Tissue,Office/Event,Offline Store,4250,0,2,8500.0,4.6
+PP10125,2026-01-28,January,2026Q1,Telangana,Hyderabad,Pre-Draped Tissue,Tissue,Wedding,Marketplace,4000,0,1,4000.0,4.4
+PP10126,2026-11-15,November,2026Q4,Tamil Nadu,Chennai,Pre-Draped Tissue,Tissue,Festival,Instagram/WhatsApp,5950,5,1,5652.5,4.5
+PP10127,2026-10-22,October,2026Q4,Delhi NCR,Delhi,Pre-Stitched Silk,Silk,Wedding,Online Website,6350,15,2,10795.0,3.9
+PP10128,2026-02-04,February,2026Q1,Maharashtra,Pune,Ready-to-Wear Organza,Organza,Wedding,Online Website,4050,15,2,6885.0,4.9
+PP10129,2026-05-04,May,2026Q2,Maharashtra,Pune,Ready Pleated Cotton,Cotton,Party,Offline Store,2650,0,2,5300.0,4.0
+PP10130,2026-02-25,February,2026Q1,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Sangeet,Marketplace,5350,10,1,4815.0,4.4
+PP10131,2026-04-24,April,2026Q2,Maharashtra,Mumbai,Pre-Draped Satin,Satin,Festival,Online Website,5150,0,1,5150.0,4.6
+PP10132,2026-05-08,May,2026Q2,Telangana,Hyderabad,Pre-Draped Satin,Satin,Reception,Offline Store,4500,0,2,9000.0,4.7
+PP10133,2026-07-12,July,2026Q3,Tamil Nadu,Chennai,Pre-Draped Satin,Satin,Wedding,Online Website,5300,0,1,5300.0,4.8
+PP10134,2026-02-24,February,2026Q1,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Wedding,Instagram/WhatsApp,3200,10,1,2880.0,3.8
+PP10135,2026-04-29,April,2026Q2,Tamil Nadu,Coimbatore,Ready-to-Wear Organza,Organza,Reception,Offline Store,4950,0,1,4950.0,3.8
+PP10136,2026-06-19,June,2026Q2,Maharashtra,Pune,Pre-Draped Satin,Satin,Festival,Instagram/WhatsApp,4400,10,2,7920.0,4.5
+PP10137,2026-11-13,November,2026Q4,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Party,Offline Store,4300,10,1,3870.0,4.3
+PP10138,2026-12-21,December,2026Q4,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Reception,Instagram/WhatsApp,3150,5,2,5985.0,3.8
+PP10139,2026-08-04,August,2026Q3,Delhi NCR,Delhi,Pre-Pleated Georgette,Georgette,Wedding,Offline Store,3300,15,2,5610.0,4.7
+PP10140,2026-12-14,December,2026Q4,Telangana,Hyderabad,Pre-Stitched Silk,Silk,Wedding,Online Website,8100,15,1,6885.0,4.6
+PP10141,2026-02-10,February,2026Q1,Maharashtra,Mumbai,Ready Pleated Cotton,Cotton,Reception,Online Website,2600,0,2,5200.0,4.6
+PP10142,2026-04-10,April,2026Q2,Telangana,Hyderabad,Pre-Draped Tissue,Tissue,Sangeet,Online Website,6100,5,2,11590.0,4.5
+PP10143,2026-08-23,August,2026Q3,Maharashtra,Pune,Pre-Stitched Silk,Silk,Festival,Marketplace,6450,0,2,12900.0,4.5
+PP10144,2026-09-16,September,2026Q3,Kerala,Kochi,Pre-Stitched Silk,Silk,Reception,Offline Store,6050,0,1,6050.0,4.5
+PP10145,2026-03-30,March,2026Q1,Delhi NCR,Delhi,Ready Pleated Cotton,Cotton,Festival,Offline Store,2600,15,1,2210.0,5.0
+PP10146,2026-03-08,March,2026Q1,Tamil Nadu,Chennai,Pre-Draped Tissue,Tissue,Reception,Online Website,6050,15,1,5142.5,4.7
+PP10147,2026-01-30,January,2026Q1,Maharashtra,Pune,Pre-Pleated Georgette,Georgette,Festival,Instagram/WhatsApp,3900,0,2,7800.0,4.1
+PP10148,2026-08-01,August,2026Q3,Karnataka,Bengaluru,Pre-Draped Tissue,Tissue,Reception,Online Website,3650,10,2,6570.0,3.7
+PP10149,2026-01-02,January,2026Q1,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Party,Instagram/WhatsApp,5600,0,1,5600.0,5.0
+PP10150,2026-03-18,March,2026Q1,Kerala,Kochi,Pre-Pleated Georgette,Georgette,Sangeet,Instagram/WhatsApp,2950,0,1,2950.0,4.0
+PP10151,2026-05-15,May,2026Q2,Delhi NCR,Delhi,Pre-Pleated Georgette,Georgette,Reception,Marketplace,3150,5,2,5985.0,4.4
+PP10152,2026-02-05,February,2026Q1,Tamil Nadu,Coimbatore,Pre-Draped Satin,Satin,Festival,Online Website,3000,20,1,2400.0,4.4
+PP10153,2026-08-05,August,2026Q3,Telangana,Hyderabad,Ready Pleated Cotton,Cotton,Office/Event,Offline Store,2450,20,2,3920.0,4.5
+PP10154,2026-02-25,February,2026Q1,Tamil Nadu,Coimbatore,Ready Pleated Cotton,Cotton,Festival,Marketplace,2250,15,2,3825.0,3.6
+PP10155,2026-11-30,November,2026Q4,Maharashtra,Mumbai,Pre-Draped Satin,Satin,Sangeet,Online Website,5650,0,2,11300.0,3.8
+PP10156,2026-07-18,July,2026Q3,Delhi NCR,Delhi,Pre-Draped Satin,Satin,Reception,Online Website,3200,5,2,6080.0,4.7
+PP10157,2026-11-10,November,2026Q4,Maharashtra,Mumbai,Pre-Pleated Georgette,Georgette,Sangeet,Online Website,3100,0,1,3100.0,4.9
+PP10158,2026-12-08,December,2026Q4,Maharashtra,Pune,Ready Pleated Cotton,Cotton,Wedding,Online Website,2600,0,2,5200.0,4.1
+PP10159,2026-04-27,April,2026Q2,Tamil Nadu,Chennai,Ready-to-Wear Organza,Organza,Sangeet,Marketplace,5200,0,3,15600.0,4.0
+PP10160,2026-08-29,August,2026Q3,Kerala,Kochi,Pre-Stitched Silk,Silk,Wedding,Instagram/WhatsApp,5750,10,1,5175.0,4.0
+PP10161,2026-08-01,August,2026Q3,Maharashtra,Mumbai,Ready Pleated Cotton,Cotton,Office/Event,Marketplace,2150,20,2,3440.0,4.0
+PP10162,2026-09-02,September,2026Q3,Tamil Nadu,Coimbatore,Ready Pleated Cotton,Cotton,Party,Online Website,1600,10,2,2880.0,4.5
+PP10163,2026-09-05,September,2026Q3,Delhi NCR,Delhi,Pre-Pleated Georgette,Georgette,Party,Online Website,3300,0,1,3300.0,4.3
+PP10164,2026-10-14,October,2026Q4,Kerala,Kochi,Pre-Stitched Silk,Silk,Reception,Instagram/WhatsApp,7100,0,3,21300.0,3.8
+PP10165,2026-03-14,March,2026Q1,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Wedding,Offline Store,3300,10,1,2970.0,4.6
+PP10166,2026-05-03,May,2026Q2,Delhi NCR,Delhi,Pre-Draped Satin,Satin,Sangeet,Offline Store,5200,0,1,5200.0,3.7
+PP10167,2026-02-19,February,2026Q1,Telangana,Hyderabad,Pre-Stitched Silk,Silk,Festival,Instagram/WhatsApp,7300,0,2,14600.0,4.7
+PP10168,2026-03-11,March,2026Q1,Karnataka,Bengaluru,Pre-Pleated Georgette,Georgette,Wedding,Online Website,2550,0,1,2550.0,4.0
+PP10169,2026-09-02,September,2026Q3,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Wedding,Marketplace,5950,5,2,11305.0,4.5
+PP10170,2026-12-12,December,2026Q4,Telangana,Hyderabad,Pre-Draped Tissue,Tissue,Reception,Offline Store,5200,5,2,9880.0,5.0
+PP10171,2026-07-28,July,2026Q3,Maharashtra,Mumbai,Pre-Stitched Silk,Silk,Reception,Offline Store,6700,0,1,6700.0,4.8
+PP10172,2026-07-16,July,2026Q3,Delhi NCR,Delhi,Ready Pleated Cotton,Cotton,Office/Event,Online Website,2150,0,1,2150.0,4.5
+PP10173,2026-11-23,November,2026Q4,Tamil Nadu,Chennai,Pre-Draped Satin,Satin,Sangeet,Marketplace,3450,0,1,3450.0,4.5
+PP10174,2026-05-10,May,2026Q2,Kerala,Kochi,Pre-Stitched Silk,Silk,Festival,Instagram/WhatsApp,7550,10,1,6795.0,4.2
+PP10175,2026-04-10,April,2026Q2,Tamil Nadu,Chennai,Ready-to-Wear Organza,Organza,Wedding,Marketplace,3300,0,1,3300.0,4.0
+PP10176,2026-04-30,April,2026Q2,Tamil Nadu,Coimbatore,Ready Pleated Cotton,Cotton,Reception,Online Website,1800,10,3,4860.0,4.2
+PP10177,2026-01-06,January,2026Q1,Kerala,Kochi,Pre-Draped Satin,Satin,Sangeet,Instagram/WhatsApp,3550,20,2,5680.0,4.3
+PP10178,2026-05-10,May,2026Q2,Telangana,Hyderabad,Ready-to-Wear Organza,Organza,Festival,Offline Store,3400,5,1,3230.0,4.1
+PP10179,2026-05-30,May,2026Q2,Kerala,Kochi,Pre-Draped Tissue,Tissue,Sangeet,Online Website,5100,15,3,13005.0,4.6
+PP10180,2026-04-12,April,2026Q2,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Festival,Instagram/WhatsApp,4450,10,2,8010.0,4.7
+PP10181,2026-09-17,September,2026Q3,Kerala,Kochi,Ready-to-Wear Organza,Organza,Party,Offline Store,4050,10,3,10935.0,4.5
+PP10182,2026-08-12,August,2026Q3,Maharashtra,Mumbai,Pre-Draped Tissue,Tissue,Party,Instagram/WhatsApp,6400,15,1,5440.0,4.4
+PP10183,2026-09-12,September,2026Q3,Maharashtra,Mumbai,Pre-Draped Satin,Satin,Reception,Instagram/WhatsApp,5400,5,3,15390.0,4.0
+PP10184,2026-06-04,June,2026Q2,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Sangeet,Offline Store,4250,5,2,8075.0,4.2
+PP10185,2026-12-30,December,2026Q4,Tamil Nadu,Chennai,Ready Pleated Cotton,Cotton,Wedding,Offline Store,2500,15,1,2125.0,4.4
+PP10186,2026-04-27,April,2026Q2,Delhi NCR,Delhi,Pre-Stitched Silk,Silk,Wedding,Online Website,6400,15,2,10880.0,4.1
+PP10187,2026-02-22,February,2026Q1,Tamil Nadu,Chennai,Ready-to-Wear Organza,Organza,Festival,Online Website,3800,10,2,6840.0,4.4
+PP10188,2026-05-22,May,2026Q2,Tamil Nadu,Chennai,Ready Pleated Cotton,Cotton,Sangeet,Instagram/WhatsApp,1450,0,3,4350.0,4.7
+PP10189,2026-04-09,April,2026Q2,Tamil Nadu,Coimbatore,Pre-Draped Tissue,Tissue,Festival,Online Website,5100,15,1,4335.0,4.5
+PP10190,2026-11-14,November,2026Q4,Tamil Nadu,Coimbatore,Pre-Draped Satin,Satin,Reception,Online Website,3900,5,2,7410.0,3.9
+PP10191,2026-08-18,August,2026Q3,Delhi NCR,Delhi,Pre-Draped Satin,Satin,Sangeet,Offline Store,3950,0,1,3950.0,4.3
+PP10192,2026-10-17,October,2026Q4,Maharashtra,Pune,Ready-to-Wear Organza,Organza,Festival,Offline Store,3550,0,1,3550.0,4.3
+PP10193,2026-11-27,November,2026Q4,Kerala,Kochi,Ready-to-Wear Organza,Organza,Reception,Online Website,3250,5,2,6175.0,4.3
+PP10194,2026-06-17,June,2026Q2,Delhi NCR,Delhi,Ready-to-Wear Organza,Organza,Office/Event,Instagram/WhatsApp,2900,15,2,4930.0,3.7
+PP10195,2026-11-02,November,2026Q4,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Sangeet,Online Website,3200,10,1,2880.0,4.2
+PP10196,2026-05-10,May,2026Q2,Telangana,Hyderabad,Ready Pleated Cotton,Cotton,Wedding,Instagram/WhatsApp,2350,20,1,1880.0,4.8
+PP10197,2026-12-15,December,2026Q4,Delhi NCR,Delhi,Pre-Draped Tissue,Tissue,Festival,Offline Store,3300,15,1,2805.0,4.0
+PP10198,2026-01-05,January,2026Q1,Tamil Nadu,Chennai,Ready-to-Wear Organza,Organza,Wedding,Instagram/WhatsApp,4900,10,2,8820.0,5.0
+PP10199,2026-09-20,September,2026Q3,Telangana,Hyderabad,Pre-Pleated Georgette,Georgette,Sangeet,Offline Store,4100,5,2,7790.0,3.5
+PP10200,2026-03-09,March,2026Q1,Telangana,Hyderabad,Pre-Pleated Georgette,Georgette,Reception,Marketplace,3150,10,2,5670.0,4.5
+PP10201,2026-09-20,September,2026Q3,Delhi NCR,Delhi,Pre-Stitched Silk,Silk,Party,Online Website,5300,15,2,9010.0,4.7
+PP10202,2026-11-10,November,2026Q4,Delhi NCR,Delhi,Pre-Pleated Georgette,Georgette,Wedding,Offline Store,3600,0,1,3600.0,3.6
+PP10203,2026-12-04,December,2026Q4,Karnataka,Bengaluru,Pre-Draped Tissue,Tissue,Festival,Instagram/WhatsApp,4200,5,2,7980.0,4.3
+PP10204,2026-12-29,December,2026Q4,Kerala,Kochi,Pre-Pleated Georgette,Georgette,Party,Online Website,4100,10,1,3690.0,4.6
+PP10205,2026-02-17,February,2026Q1,Tamil Nadu,Coimbatore,Pre-Stitched Silk,Silk,Festival,Instagram/WhatsApp,5950,15,2,10115.0,3.8
+PP10206,2026-09-11,September,2026Q3,Delhi NCR,Delhi,Ready-to-Wear Organza,Organza,Sangeet,Marketplace,3950,5,2,7505.0,3.6
+PP10207,2026-07-08,July,2026Q3,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Reception,Online Website,5150,5,2,9785.0,3.8
+PP10208,2026-12-13,December,2026Q4,Telangana,Hyderabad,Pre-Draped Satin,Satin,Sangeet,Instagram/WhatsApp,5900,0,1,5900.0,4.5
+PP10209,2026-03-12,March,2026Q1,Delhi NCR,Delhi,Ready-to-Wear Organza,Organza,Wedding,Offline Store,5000,10,2,9000.0,4.1
+PP10210,2026-06-26,June,2026Q2,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Sangeet,Marketplace,3750,10,1,3375.0,4.7
+PP10211,2026-05-15,May,2026Q2,Delhi NCR,Delhi,Pre-Draped Satin,Satin,Festival,Offline Store,4300,5,2,8170.0,4.7
+PP10212,2026-12-20,December,2026Q4,Tamil Nadu,Coimbatore,Pre-Pleated Georgette,Georgette,Sangeet,Instagram/WhatsApp,3350,0,2,6700.0,4.9
+PP10213,2026-09-20,September,2026Q3,Telangana,Hyderabad,Ready Pleated Cotton,Cotton,Festival,Offline Store,1500,0,1,1500.0,4.9
+PP10214,2026-02-12,February,2026Q1,Tamil Nadu,Coimbatore,Ready Pleated Cotton,Cotton,Sangeet,Instagram/WhatsApp,1500,5,1,1425.0,4.0
+PP10215,2026-02-06,February,2026Q1,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Festival,Offline Store,6600,10,1,5940.0,4.2
+PP10216,2026-02-22,February,2026Q1,Tamil Nadu,Coimbatore,Ready Pleated Cotton,Cotton,Reception,Instagram/WhatsApp,1950,10,1,1755.0,4.3
+PP10217,2026-05-03,May,2026Q2,Kerala,Kochi,Pre-Draped Satin,Satin,Festival,Offline Store,6000,10,1,5400.0,4.4
+PP10218,2026-06-28,June,2026Q2,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Festival,Instagram/WhatsApp,4300,20,1,3440.0,3.9
+PP10219,2026-01-10,January,2026Q1,Delhi NCR,Delhi,Pre-Draped Tissue,Tissue,Reception,Marketplace,3950,15,2,6715.0,5.0
+PP10220,2026-12-09,December,2026Q4,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Festival,Marketplace,4950,10,2,8910.0,4.0
+PP10221,2026-05-28,May,2026Q2,Maharashtra,Mumbai,Pre-Stitched Silk,Silk,Festival,Marketplace,4750,5,2,9025.0,4.5
+PP10222,2026-07-28,July,2026Q3,Tamil Nadu,Coimbatore,Pre-Pleated Georgette,Georgette,Festival,Instagram/WhatsApp,3950,5,2,7505.0,4.6
+PP10223,2026-03-14,March,2026Q1,Telangana,Hyderabad,Pre-Draped Satin,Satin,Wedding,Offline Store,5350,10,2,9630.0,4.2
+PP10224,2026-08-10,August,2026Q3,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Party,Online Website,3900,20,2,6240.0,4.1
+PP10225,2026-06-21,June,2026Q2,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Sangeet,Marketplace,3850,5,2,7315.0,3.6
+PP10226,2026-05-28,May,2026Q2,Tamil Nadu,Chennai,Pre-Draped Satin,Satin,Wedding,Offline Store,3900,10,2,7020.0,3.6
+PP10227,2026-04-04,April,2026Q2,Telangana,Hyderabad,Pre-Stitched Silk,Silk,Sangeet,Instagram/WhatsApp,5950,15,2,10115.0,4.1
+PP10228,2026-02-17,February,2026Q1,Kerala,Kochi,Pre-Draped Tissue,Tissue,Party,Online Website,5250,5,1,4987.5,4.6
+PP10229,2026-05-15,May,2026Q2,Maharashtra,Mumbai,Pre-Draped Satin,Satin,Wedding,Instagram/WhatsApp,5400,0,1,5400.0,4.1
+PP10230,2026-04-03,April,2026Q2,Maharashtra,Mumbai,Pre-Pleated Georgette,Georgette,Party,Marketplace,4000,10,2,7200.0,4.3
+PP10231,2026-04-18,April,2026Q2,Tamil Nadu,Coimbatore,Pre-Pleated Georgette,Georgette,Festival,Marketplace,3500,0,1,3500.0,4.2
+PP10232,2026-02-26,February,2026Q1,Tamil Nadu,Chennai,Ready-to-Wear Organza,Organza,Party,Instagram/WhatsApp,4400,5,1,4180.0,3.3
+PP10233,2026-05-03,May,2026Q2,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Wedding,Online Website,4800,5,1,4560.0,3.5
+PP10234,2026-07-02,July,2026Q3,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Wedding,Instagram/WhatsApp,3150,0,1,3150.0,4.1
+PP10235,2026-03-14,March,2026Q1,Maharashtra,Mumbai,Pre-Pleated Georgette,Georgette,Festival,Online Website,3100,0,1,3100.0,3.5
+PP10236,2026-11-01,November,2026Q4,Kerala,Kochi,Pre-Stitched Silk,Silk,Reception,Instagram/WhatsApp,5450,10,2,9810.0,3.7
+PP10237,2026-10-14,October,2026Q4,Telangana,Hyderabad,Pre-Draped Satin,Satin,Wedding,Instagram/WhatsApp,5300,0,2,10600.0,4.3
+PP10238,2026-05-23,May,2026Q2,Maharashtra,Pune,Pre-Draped Satin,Satin,Wedding,Instagram/WhatsApp,5400,0,1,5400.0,4.6
+PP10239,2026-11-20,November,2026Q4,Kerala,Kochi,Pre-Draped Tissue,Tissue,Party,Offline Store,6200,10,3,16740.0,4.9
+PP10240,2026-01-04,January,2026Q1,Karnataka,Bengaluru,Pre-Stitched Silk,Silk,Reception,Marketplace,5100,0,1,5100.0,4.1
+PP10241,2026-05-14,May,2026Q2,Tamil Nadu,Coimbatore,Pre-Draped Satin,Satin,Reception,Instagram/WhatsApp,3150,10,1,2835.0,4.0
+PP10242,2026-09-07,September,2026Q3,Tamil Nadu,Chennai,Pre-Draped Tissue,Tissue,Sangeet,Marketplace,3750,5,1,3562.5,4.1
+PP10243,2026-10-12,October,2026Q4,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Reception,Online Website,5900,0,2,11800.0,4.4
+PP10244,2026-08-04,August,2026Q3,Tamil Nadu,Coimbatore,Pre-Stitched Silk,Silk,Reception,Offline Store,6350,15,2,10795.0,3.5
+PP10245,2026-10-09,October,2026Q4,Kerala,Kochi,Ready-to-Wear Organza,Organza,Reception,Offline Store,4300,0,1,4300.0,4.6
+PP10246,2026-12-12,December,2026Q4,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Reception,Online Website,8100,15,3,20655.0,4.7
+PP10247,2026-03-16,March,2026Q1,Tamil Nadu,Coimbatore,Ready-to-Wear Organza,Organza,Office/Event,Online Website,4700,15,1,3995.0,4.2
+PP10248,2026-05-30,May,2026Q2,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Reception,Instagram/WhatsApp,7950,0,2,15900.0,4.4
+PP10249,2026-05-14,May,2026Q2,Tamil Nadu,Coimbatore,Ready-to-Wear Organza,Organza,Festival,Online Website,3500,15,2,5950.0,4.3
+PP10250,2026-12-14,December,2026Q4,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Sangeet,Online Website,4550,0,2,9100.0,4.7
+PP10251,2026-12-22,December,2026Q4,Karnataka,Bengaluru,Pre-Pleated Georgette,Georgette,Party,Online Website,3750,5,2,7125.0,4.2
+PP10252,2026-03-25,March,2026Q1,Karnataka,Bengaluru,Pre-Stitched Silk,Silk,Party,Marketplace,5600,0,1,5600.0,5.0
+PP10253,2026-01-19,January,2026Q1,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Reception,Online Website,6350,0,2,12700.0,3.9
+PP10254,2026-03-10,March,2026Q1,Kerala,Kochi,Ready Pleated Cotton,Cotton,Reception,Offline Store,2400,10,2,4320.0,3.8
+PP10255,2026-08-01,August,2026Q3,Kerala,Kochi,Ready-to-Wear Organza,Organza,Office/Event,Online Website,4650,5,2,8835.0,4.1
+PP10256,2026-12-04,December,2026Q4,Delhi NCR,Delhi,Ready Pleated Cotton,Cotton,Reception,Online Website,1900,10,2,3420.0,5.0
+PP10257,2026-04-06,April,2026Q2,Kerala,Kochi,Ready-to-Wear Organza,Organza,Wedding,Online Website,3650,10,2,6570.0,4.0
+PP10258,2026-10-28,October,2026Q4,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Festival,Offline Store,6000,15,1,5100.0,4.3
+PP10259,2026-07-19,July,2026Q3,Maharashtra,Pune,Pre-Pleated Georgette,Georgette,Wedding,Marketplace,2700,0,2,5400.0,4.9
+PP10260,2026-02-26,February,2026Q1,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Reception,Offline Store,3900,5,2,7410.0,4.7
+PP10261,2026-03-06,March,2026Q1,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Office/Event,Offline Store,6650,5,2,12635.0,4.6
+PP10262,2026-01-16,January,2026Q1,Maharashtra,Pune,Pre-Pleated Georgette,Georgette,Wedding,Offline Store,3700,5,2,7030.0,4.2
+PP10263,2026-08-10,August,2026Q3,Maharashtra,Pune,Ready Pleated Cotton,Cotton,Wedding,Instagram/WhatsApp,2100,15,1,1785.0,5.0
+PP10264,2026-06-14,June,2026Q2,Telangana,Hyderabad,Ready-to-Wear Organza,Organza,Wedding,Instagram/WhatsApp,3000,10,1,2700.0,5.0
+PP10265,2026-03-27,March,2026Q1,Karnataka,Bengaluru,Ready Pleated Cotton,Cotton,Wedding,Marketplace,1750,5,2,3325.0,4.5
+PP10266,2026-05-14,May,2026Q2,Maharashtra,Pune,Ready-to-Wear Organza,Organza,Office/Event,Offline Store,3700,5,1,3515.0,4.4
+PP10267,2026-09-02,September,2026Q3,Kerala,Kochi,Pre-Draped Satin,Satin,Wedding,Offline Store,3800,20,3,9120.0,4.5
+PP10268,2026-06-07,June,2026Q2,Karnataka,Bengaluru,Ready Pleated Cotton,Cotton,Sangeet,Instagram/WhatsApp,2450,10,1,2205.0,5.0
+PP10269,2026-10-25,October,2026Q4,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Sangeet,Online Website,4500,10,2,8100.0,4.3
+PP10270,2026-03-27,March,2026Q1,Telangana,Hyderabad,Ready Pleated Cotton,Cotton,Sangeet,Instagram/WhatsApp,2450,0,1,2450.0,4.1
+PP10271,2026-07-11,July,2026Q3,Kerala,Kochi,Pre-Stitched Silk,Silk,Wedding,Online Website,5800,0,2,11600.0,4.3
+PP10272,2026-08-21,August,2026Q3,Maharashtra,Mumbai,Pre-Draped Satin,Satin,Sangeet,Online Website,3400,20,2,5440.0,4.8
+PP10273,2026-07-05,July,2026Q3,Maharashtra,Mumbai,Pre-Draped Satin,Satin,Sangeet,Online Website,4900,0,1,4900.0,4.0
+PP10274,2026-09-06,September,2026Q3,Maharashtra,Mumbai,Pre-Draped Tissue,Tissue,Festival,Instagram/WhatsApp,3300,0,1,3300.0,4.0
+PP10275,2026-02-10,February,2026Q1,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Office/Event,Instagram/WhatsApp,3700,0,1,3700.0,4.4
+PP10276,2026-01-08,January,2026Q1,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Festival,Online Website,3950,0,2,7900.0,3.8
+PP10277,2026-07-10,July,2026Q3,Maharashtra,Pune,Pre-Stitched Silk,Silk,Wedding,Offline Store,4950,15,1,4207.5,4.3
+PP10278,2026-12-10,December,2026Q4,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Wedding,Marketplace,4750,15,3,12112.5,4.4
+PP10279,2026-07-21,July,2026Q3,Telangana,Hyderabad,Pre-Pleated Georgette,Georgette,Festival,Instagram/WhatsApp,2900,10,1,2610.0,4.4
+PP10280,2026-11-17,November,2026Q4,Telangana,Hyderabad,Ready Pleated Cotton,Cotton,Sangeet,Online Website,1550,0,2,3100.0,4.6
+PP10281,2026-01-08,January,2026Q1,Telangana,Hyderabad,Pre-Stitched Silk,Silk,Wedding,Marketplace,6600,5,1,6270.0,4.3
+PP10282,2026-10-20,October,2026Q4,Karnataka,Bengaluru,Pre-Stitched Silk,Silk,Wedding,Instagram/WhatsApp,4700,0,2,9400.0,4.4
+PP10283,2026-11-23,November,2026Q4,Tamil Nadu,Chennai,Ready Pleated Cotton,Cotton,Festival,Offline Store,1950,5,3,5557.5,3.8
+PP10284,2026-11-15,November,2026Q4,Telangana,Hyderabad,Pre-Draped Satin,Satin,Reception,Marketplace,5750,10,1,5175.0,4.5
+PP10285,2026-03-29,March,2026Q1,Telangana,Hyderabad,Pre-Draped Satin,Satin,Wedding,Online Website,5300,20,2,8480.0,4.9
+PP10286,2026-10-07,October,2026Q4,Maharashtra,Pune,Pre-Draped Satin,Satin,Wedding,Online Website,5450,5,3,15532.5,4.6
+PP10287,2026-12-17,December,2026Q4,Kerala,Kochi,Pre-Stitched Silk,Silk,Party,Marketplace,7550,15,1,6417.5,4.3
+PP10288,2026-02-21,February,2026Q1,Karnataka,Bengaluru,Ready Pleated Cotton,Cotton,Reception,Offline Store,2350,10,1,2115.0,4.4
+PP10289,2026-07-03,July,2026Q3,Karnataka,Bengaluru,Pre-Draped Tissue,Tissue,Wedding,Marketplace,4300,10,2,7740.0,4.8
+PP10290,2026-10-02,October,2026Q4,Maharashtra,Pune,Pre-Stitched Silk,Silk,Reception,Online Website,4650,5,3,13252.5,4.3
+PP10291,2026-10-13,October,2026Q4,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Reception,Instagram/WhatsApp,3250,0,1,3250.0,4.3
+PP10292,2026-06-08,June,2026Q2,Kerala,Kochi,Pre-Draped Satin,Satin,Reception,Marketplace,5850,15,1,4972.5,4.1
+PP10293,2026-11-12,November,2026Q4,Telangana,Hyderabad,Pre-Draped Tissue,Tissue,Wedding,Offline Store,6300,5,1,5985.0,3.8
+PP10294,2026-10-15,October,2026Q4,Maharashtra,Mumbai,Pre-Stitched Silk,Silk,Wedding,Instagram/WhatsApp,5600,10,2,10080.0,4.3
+PP10295,2026-10-15,October,2026Q4,Kerala,Kochi,Ready Pleated Cotton,Cotton,Wedding,Online Website,2400,15,1,2040.0,3.9
+PP10296,2026-02-15,February,2026Q1,Karnataka,Bengaluru,Pre-Draped Tissue,Tissue,Wedding,Instagram/WhatsApp,5800,10,1,5220.0,5.0
+PP10297,2026-04-19,April,2026Q2,Tamil Nadu,Coimbatore,Ready-to-Wear Organza,Organza,Wedding,Offline Store,3300,10,1,2970.0,4.2
+PP10298,2026-01-20,January,2026Q1,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Reception,Online Website,5450,20,1,4360.0,4.8
+PP10299,2026-06-08,June,2026Q2,Maharashtra,Mumbai,Ready Pleated Cotton,Cotton,Wedding,Instagram/WhatsApp,2100,0,2,4200.0,4.3
+PP10300,2026-03-03,March,2026Q1,Maharashtra,Mumbai,Pre-Draped Tissue,Tissue,Wedding,Online Website,4350,0,1,4350.0,4.4
+PP10301,2026-08-21,August,2026Q3,Delhi NCR,Delhi,Pre-Pleated Georgette,Georgette,Reception,Instagram/WhatsApp,2450,15,2,4165.0,4.0
+PP10302,2026-06-20,June,2026Q2,Kerala,Kochi,Pre-Pleated Georgette,Georgette,Office/Event,Online Website,2900,20,2,4640.0,3.8
+PP10303,2026-04-27,April,2026Q2,Maharashtra,Pune,Ready Pleated Cotton,Cotton,Reception,Online Website,1900,15,2,3230.0,4.8
+PP10304,2026-07-06,July,2026Q3,Delhi NCR,Delhi,Pre-Draped Tissue,Tissue,Reception,Instagram/WhatsApp,6300,15,2,10710.0,3.9
+PP10305,2026-04-21,April,2026Q2,Karnataka,Bengaluru,Ready Pleated Cotton,Cotton,Wedding,Online Website,1700,0,2,3400.0,3.9
+PP10306,2026-06-13,June,2026Q2,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Sangeet,Offline Store,3150,5,2,5985.0,3.7
+PP10307,2026-02-22,February,2026Q1,Tamil Nadu,Chennai,Ready Pleated Cotton,Cotton,Festival,Offline Store,2550,15,1,2167.5,4.6
+PP10308,2026-04-15,April,2026Q2,Karnataka,Bengaluru,Pre-Stitched Silk,Silk,Sangeet,Marketplace,7500,10,1,6750.0,4.5
+PP10309,2026-01-19,January,2026Q1,Maharashtra,Pune,Ready-to-Wear Organza,Organza,Reception,Marketplace,4200,10,1,3780.0,5.0
+PP10310,2026-04-11,April,2026Q2,Tamil Nadu,Coimbatore,Pre-Draped Tissue,Tissue,Party,Instagram/WhatsApp,4800,10,1,4320.0,4.5
+PP10311,2026-03-20,March,2026Q1,Kerala,Kochi,Pre-Stitched Silk,Silk,Festival,Offline Store,7750,10,1,6975.0,4.0
+PP10312,2026-11-28,November,2026Q4,Telangana,Hyderabad,Pre-Pleated Georgette,Georgette,Wedding,Instagram/WhatsApp,2450,0,2,4900.0,3.8
+PP10313,2026-06-25,June,2026Q2,Kerala,Kochi,Pre-Draped Satin,Satin,Festival,Marketplace,5400,15,2,9180.0,5.0
+PP10314,2026-01-11,January,2026Q1,Telangana,Hyderabad,Pre-Stitched Silk,Silk,Festival,Offline Store,5900,15,1,5015.0,4.1
+PP10315,2026-11-08,November,2026Q4,Telangana,Hyderabad,Ready Pleated Cotton,Cotton,Festival,Online Website,1500,5,2,2850.0,4.5
+PP10316,2026-09-18,September,2026Q3,Delhi NCR,Delhi,Ready Pleated Cotton,Cotton,Sangeet,Online Website,2100,15,2,3570.0,4.2
+PP10317,2026-01-31,January,2026Q1,Kerala,Kochi,Ready-to-Wear Organza,Organza,Wedding,Marketplace,4750,5,1,4512.5,4.4
+PP10318,2026-05-26,May,2026Q2,Tamil Nadu,Coimbatore,Pre-Pleated Georgette,Georgette,Festival,Online Website,2800,0,2,5600.0,4.4
+PP10319,2026-01-28,January,2026Q1,Maharashtra,Pune,Ready-to-Wear Organza,Organza,Festival,Offline Store,5050,5,1,4797.5,4.2
+PP10320,2026-07-17,July,2026Q3,Delhi NCR,Delhi,Ready-to-Wear Organza,Organza,Festival,Marketplace,4450,0,2,8900.0,4.0
+PP10321,2026-11-27,November,2026Q4,Kerala,Kochi,Pre-Pleated Georgette,Georgette,Reception,Instagram/WhatsApp,2800,5,1,2660.0,4.1
+PP10322,2026-06-23,June,2026Q2,Karnataka,Bengaluru,Pre-Draped Tissue,Tissue,Reception,Marketplace,3300,10,1,2970.0,4.4
+PP10323,2026-07-27,July,2026Q3,Kerala,Kochi,Pre-Stitched Silk,Silk,Reception,Offline Store,8200,5,1,7790.0,4.5
+PP10324,2026-04-23,April,2026Q2,Tamil Nadu,Chennai,Ready Pleated Cotton,Cotton,Festival,Instagram/WhatsApp,1650,5,2,3135.0,4.0
+PP10325,2026-08-01,August,2026Q3,Delhi NCR,Delhi,Pre-Pleated Georgette,Georgette,Festival,Instagram/WhatsApp,3550,15,2,6035.0,4.6
+PP10326,2026-05-20,May,2026Q2,Telangana,Hyderabad,Ready-to-Wear Organza,Organza,Sangeet,Offline Store,4450,15,3,11347.5,4.9
+PP10327,2026-11-21,November,2026Q4,Tamil Nadu,Chennai,Pre-Draped Tissue,Tissue,Office/Event,Online Website,5400,0,2,10800.0,4.6
+PP10328,2026-03-17,March,2026Q1,Tamil Nadu,Coimbatore,Pre-Pleated Georgette,Georgette,Sangeet,Instagram/WhatsApp,2750,15,1,2337.5,4.1
+PP10329,2026-07-19,July,2026Q3,Tamil Nadu,Chennai,Pre-Draped Satin,Satin,Party,Marketplace,5850,10,1,5265.0,4.1
+PP10330,2026-06-01,June,2026Q2,Maharashtra,Mumbai,Pre-Stitched Silk,Silk,Sangeet,Marketplace,7300,10,2,13140.0,4.5
+PP10331,2026-03-14,March,2026Q1,Tamil Nadu,Chennai,Pre-Draped Tissue,Tissue,Reception,Offline Store,5000,15,2,8500.0,4.6
+PP10332,2026-08-18,August,2026Q3,Kerala,Kochi,Pre-Draped Satin,Satin,Wedding,Offline Store,5900,10,2,10620.0,4.5
+PP10333,2026-09-26,September,2026Q3,Karnataka,Bengaluru,Ready Pleated Cotton,Cotton,Festival,Offline Store,1650,0,2,3300.0,4.6
+PP10334,2026-03-23,March,2026Q1,Kerala,Kochi,Ready-to-Wear Organza,Organza,Reception,Online Website,4500,10,2,8100.0,4.4
+PP10335,2026-10-18,October,2026Q4,Tamil Nadu,Chennai,Ready-to-Wear Organza,Organza,Office/Event,Online Website,3450,15,1,2932.5,4.0
+PP10336,2026-08-21,August,2026Q3,Telangana,Hyderabad,Ready Pleated Cotton,Cotton,Reception,Online Website,2450,0,1,2450.0,4.0
+PP10337,2026-07-26,July,2026Q3,Tamil Nadu,Chennai,Ready-to-Wear Organza,Organza,Festival,Online Website,4300,10,1,3870.0,5.0
+PP10338,2026-06-20,June,2026Q2,Tamil Nadu,Coimbatore,Pre-Stitched Silk,Silk,Wedding,Offline Store,8300,10,1,7470.0,3.9
+PP10339,2026-05-10,May,2026Q2,Maharashtra,Mumbai,Pre-Stitched Silk,Silk,Festival,Offline Store,6450,0,1,6450.0,4.4
+PP10340,2026-03-20,March,2026Q1,Maharashtra,Pune,Ready Pleated Cotton,Cotton,Sangeet,Marketplace,2300,10,2,4140.0,4.3
+PP10341,2026-02-21,February,2026Q1,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Festival,Instagram/WhatsApp,3050,10,2,5490.0,4.2
+PP10342,2026-04-22,April,2026Q2,Delhi NCR,Delhi,Pre-Stitched Silk,Silk,Sangeet,Instagram/WhatsApp,8050,15,3,20527.5,4.7
+PP10343,2026-03-21,March,2026Q1,Maharashtra,Mumbai,Pre-Draped Satin,Satin,Wedding,Online Website,3100,5,1,2945.0,3.6
+PP10344,2026-03-23,March,2026Q1,Maharashtra,Mumbai,Pre-Draped Tissue,Tissue,Festival,Online Website,5400,10,1,4860.0,5.0
+PP10345,2026-01-25,January,2026Q1,Karnataka,Bengaluru,Ready Pleated Cotton,Cotton,Sangeet,Online Website,1500,0,3,4500.0,4.4
+PP10346,2026-09-23,September,2026Q3,Kerala,Kochi,Pre-Draped Tissue,Tissue,Reception,Online Website,3950,10,1,3555.0,4.7
+PP10347,2026-02-22,February,2026Q1,Telangana,Hyderabad,Ready Pleated Cotton,Cotton,Office/Event,Marketplace,2200,10,1,1980.0,4.6
+PP10348,2026-05-06,May,2026Q2,Maharashtra,Pune,Pre-Draped Satin,Satin,Party,Offline Store,4400,10,1,3960.0,3.6
+PP10349,2026-12-12,December,2026Q4,Maharashtra,Mumbai,Pre-Pleated Georgette,Georgette,Wedding,Marketplace,3500,15,2,5950.0,4.2
+PP10350,2026-04-12,April,2026Q2,Telangana,Hyderabad,Pre-Stitched Silk,Silk,Festival,Online Website,6200,10,2,11160.0,4.7
+PP10351,2026-10-31,October,2026Q4,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Sangeet,Marketplace,3700,10,1,3330.0,4.0
+PP10352,2026-03-28,March,2026Q1,Maharashtra,Pune,Ready Pleated Cotton,Cotton,Reception,Online Website,1850,20,1,1480.0,3.7
+PP10353,2026-03-02,March,2026Q1,Karnataka,Bengaluru,Pre-Draped Tissue,Tissue,Reception,Offline Store,6400,5,1,6080.0,4.5
+PP10354,2026-08-26,August,2026Q3,Tamil Nadu,Coimbatore,Pre-Stitched Silk,Silk,Wedding,Online Website,6550,10,2,11790.0,4.3
+PP10355,2026-11-26,November,2026Q4,Delhi NCR,Delhi,Pre-Stitched Silk,Silk,Festival,Online Website,5650,10,2,10170.0,4.6
+PP10356,2026-11-02,November,2026Q4,Karnataka,Bengaluru,Pre-Stitched Silk,Silk,Sangeet,Online Website,7650,0,2,15300.0,4.7
+PP10357,2026-03-02,March,2026Q1,Kerala,Kochi,Ready Pleated Cotton,Cotton,Wedding,Marketplace,1950,15,2,3315.0,4.9
+PP10358,2026-07-16,July,2026Q3,Maharashtra,Pune,Pre-Pleated Georgette,Georgette,Wedding,Online Website,2300,10,2,4140.0,4.4
+PP10359,2026-06-16,June,2026Q2,Kerala,Kochi,Pre-Draped Satin,Satin,Wedding,Marketplace,5800,15,1,4930.0,5.0
+PP10360,2026-05-24,May,2026Q2,Delhi NCR,Delhi,Pre-Draped Satin,Satin,Party,Marketplace,3050,10,1,2745.0,3.8
+PP10361,2026-10-29,October,2026Q4,Delhi NCR,Delhi,Pre-Stitched Silk,Silk,Wedding,Offline Store,7400,5,1,7030.0,3.9
+PP10362,2026-10-28,October,2026Q4,Maharashtra,Mumbai,Pre-Pleated Georgette,Georgette,Sangeet,Instagram/WhatsApp,3950,20,1,3160.0,3.6
+PP10363,2026-08-12,August,2026Q3,Kerala,Kochi,Ready Pleated Cotton,Cotton,Wedding,Instagram/WhatsApp,1550,0,2,3100.0,4.4
+PP10364,2026-11-22,November,2026Q4,Tamil Nadu,Coimbatore,Pre-Draped Tissue,Tissue,Party,Marketplace,4700,10,1,4230.0,4.3
+PP10365,2026-05-09,May,2026Q2,Maharashtra,Mumbai,Pre-Pleated Georgette,Georgette,Wedding,Marketplace,3700,15,1,3145.0,4.4
+PP10366,2026-12-15,December,2026Q4,Telangana,Hyderabad,Ready-to-Wear Organza,Organza,Festival,Instagram/WhatsApp,3700,5,2,7030.0,3.7
+PP10367,2026-11-14,November,2026Q4,Maharashtra,Mumbai,Pre-Draped Tissue,Tissue,Party,Offline Store,3800,5,1,3610.0,3.9
+PP10368,2026-10-25,October,2026Q4,Maharashtra,Mumbai,Pre-Stitched Silk,Silk,Wedding,Offline Store,7500,15,2,12750.0,4.8
+PP10369,2026-10-18,October,2026Q4,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Reception,Online Website,5350,10,1,4815.0,3.9
+PP10370,2026-01-10,January,2026Q1,Karnataka,Bengaluru,Pre-Pleated Georgette,Georgette,Reception,Online Website,3300,0,1,3300.0,4.2
+PP10371,2026-11-17,November,2026Q4,Maharashtra,Mumbai,Pre-Stitched Silk,Silk,Wedding,Offline Store,7500,10,2,13500.0,4.0
+PP10372,2026-09-13,September,2026Q3,Tamil Nadu,Coimbatore,Ready Pleated Cotton,Cotton,Office/Event,Instagram/WhatsApp,2450,0,3,7350.0,4.1
+PP10373,2026-03-01,March,2026Q1,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Festival,Instagram/WhatsApp,6300,5,1,5985.0,4.0
+PP10374,2026-11-09,November,2026Q4,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Sangeet,Online Website,5100,15,1,4335.0,4.8
+PP10375,2026-09-21,September,2026Q3,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Office/Event,Online Website,4650,10,2,8370.0,3.5
+PP10376,2026-10-07,October,2026Q4,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Wedding,Online Website,4400,5,1,4180.0,4.0
+PP10377,2026-01-31,January,2026Q1,Maharashtra,Mumbai,Ready Pleated Cotton,Cotton,Office/Event,Instagram/WhatsApp,2200,10,3,5940.0,4.5
+PP10378,2026-08-08,August,2026Q3,Tamil Nadu,Coimbatore,Ready Pleated Cotton,Cotton,Reception,Instagram/WhatsApp,2000,5,3,5700.0,4.3
+PP10379,2026-04-23,April,2026Q2,Telangana,Hyderabad,Ready Pleated Cotton,Cotton,Office/Event,Instagram/WhatsApp,2400,10,2,4320.0,4.2
+PP10380,2026-07-15,July,2026Q3,Kerala,Kochi,Ready Pleated Cotton,Cotton,Wedding,Instagram/WhatsApp,2250,0,2,4500.0,5.0
+PP10381,2026-11-11,November,2026Q4,Tamil Nadu,Coimbatore,Pre-Stitched Silk,Silk,Office/Event,Online Website,5250,0,3,15750.0,4.0
+PP10382,2026-08-11,August,2026Q3,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Wedding,Marketplace,4150,15,2,7055.0,4.3
+PP10383,2026-12-19,December,2026Q4,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Sangeet,Offline Store,6150,20,2,9840.0,4.2
+PP10384,2026-12-23,December,2026Q4,Maharashtra,Pune,Ready Pleated Cotton,Cotton,Party,Marketplace,1600,20,2,2560.0,4.1
+PP10385,2026-11-06,November,2026Q4,Tamil Nadu,Coimbatore,Pre-Stitched Silk,Silk,Office/Event,Offline Store,4950,15,1,4207.5,4.9
+PP10386,2026-08-25,August,2026Q3,Tamil Nadu,Coimbatore,Ready Pleated Cotton,Cotton,Office/Event,Marketplace,1800,15,3,4590.0,3.9
+PP10387,2026-04-13,April,2026Q2,Tamil Nadu,Coimbatore,Pre-Draped Tissue,Tissue,Party,Instagram/WhatsApp,4500,5,1,4275.0,4.5
+PP10388,2026-02-26,February,2026Q1,Karnataka,Bengaluru,Pre-Draped Tissue,Tissue,Reception,Marketplace,4150,0,2,8300.0,4.5
+PP10389,2026-05-30,May,2026Q2,Kerala,Kochi,Pre-Draped Tissue,Tissue,Festival,Online Website,4300,5,2,8170.0,4.3
+PP10390,2026-04-13,April,2026Q2,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Sangeet,Online Website,3800,5,1,3610.0,4.2
+PP10391,2026-07-17,July,2026Q3,Delhi NCR,Delhi,Pre-Draped Satin,Satin,Sangeet,Marketplace,4650,20,1,3720.0,4.4
+PP10392,2026-10-24,October,2026Q4,Delhi NCR,Delhi,Ready Pleated Cotton,Cotton,Festival,Online Website,2550,5,1,2422.5,4.2
+PP10393,2026-11-16,November,2026Q4,Tamil Nadu,Chennai,Pre-Draped Tissue,Tissue,Festival,Online Website,5400,20,2,8640.0,4.5
+PP10394,2026-09-25,September,2026Q3,Delhi NCR,Delhi,Pre-Draped Tissue,Tissue,Reception,Marketplace,4950,0,1,4950.0,4.5
+PP10395,2026-10-01,October,2026Q4,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Office/Event,Online Website,3800,15,2,6460.0,4.9
+PP10396,2026-02-28,February,2026Q1,Kerala,Kochi,Pre-Draped Tissue,Tissue,Wedding,Instagram/WhatsApp,4250,5,1,4037.5,4.5
+PP10397,2026-11-29,November,2026Q4,Karnataka,Bengaluru,Pre-Stitched Silk,Silk,Festival,Offline Store,5300,10,2,9540.0,4.6
+PP10398,2026-01-21,January,2026Q1,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Reception,Marketplace,4050,0,3,12150.0,3.5
+PP10399,2026-05-04,May,2026Q2,Maharashtra,Mumbai,Ready Pleated Cotton,Cotton,Festival,Marketplace,2600,0,3,7800.0,3.8
+PP10400,2026-09-26,September,2026Q3,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Party,Offline Store,4800,10,2,8640.0,4.1
+PP10401,2026-05-22,May,2026Q2,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Wedding,Online Website,4750,15,1,4037.5,4.3
+PP10402,2026-06-14,June,2026Q2,Maharashtra,Pune,Pre-Stitched Silk,Silk,Reception,Marketplace,6000,15,1,5100.0,4.7
+PP10403,2026-04-21,April,2026Q2,Kerala,Kochi,Pre-Stitched Silk,Silk,Reception,Instagram/WhatsApp,6200,10,1,5580.0,4.4
+PP10404,2026-10-01,October,2026Q4,Tamil Nadu,Chennai,Pre-Draped Tissue,Tissue,Festival,Offline Store,5000,0,2,10000.0,4.3
+PP10405,2026-06-19,June,2026Q2,Maharashtra,Mumbai,Ready Pleated Cotton,Cotton,Festival,Marketplace,2650,0,2,5300.0,3.6
+PP10406,2026-07-11,July,2026Q3,Delhi NCR,Delhi,Ready-to-Wear Organza,Organza,Festival,Instagram/WhatsApp,5050,10,1,4545.0,4.6
+PP10407,2026-09-16,September,2026Q3,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Office/Event,Online Website,5650,10,3,15255.0,4.3
+PP10408,2026-07-11,July,2026Q3,Telangana,Hyderabad,Pre-Draped Satin,Satin,Party,Offline Store,3350,0,1,3350.0,4.9
+PP10409,2026-11-22,November,2026Q4,Telangana,Hyderabad,Pre-Stitched Silk,Silk,Reception,Offline Store,6100,0,1,6100.0,3.3
+PP10410,2026-02-11,February,2026Q1,Maharashtra,Pune,Pre-Draped Satin,Satin,Party,Online Website,5750,10,2,10350.0,3.8
+PP10411,2026-01-29,January,2026Q1,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Festival,Marketplace,4850,10,2,8730.0,4.5
+PP10412,2026-06-24,June,2026Q2,Kerala,Kochi,Pre-Draped Tissue,Tissue,Sangeet,Marketplace,3600,15,2,6120.0,4.1
+PP10413,2026-10-29,October,2026Q4,Tamil Nadu,Chennai,Pre-Draped Satin,Satin,Sangeet,Online Website,4100,15,1,3485.0,4.1
+PP10414,2026-01-10,January,2026Q1,Kerala,Kochi,Pre-Draped Satin,Satin,Sangeet,Online Website,3450,0,2,6900.0,4.5
+PP10415,2026-01-14,January,2026Q1,Maharashtra,Pune,Ready Pleated Cotton,Cotton,Reception,Online Website,2750,0,2,5500.0,4.8
+PP10416,2026-03-08,March,2026Q1,Kerala,Kochi,Pre-Stitched Silk,Silk,Reception,Offline Store,6350,0,2,12700.0,4.9
+PP10417,2026-03-27,March,2026Q1,Maharashtra,Pune,Pre-Draped Satin,Satin,Office/Event,Marketplace,3650,15,2,6205.0,4.6
+PP10418,2026-08-24,August,2026Q3,Maharashtra,Mumbai,Pre-Draped Tissue,Tissue,Festival,Online Website,5100,15,2,8670.0,4.7
+PP10419,2026-06-10,June,2026Q2,Kerala,Kochi,Pre-Stitched Silk,Silk,Festival,Offline Store,6650,15,1,5652.5,4.0
+PP10420,2026-10-04,October,2026Q4,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Festival,Offline Store,3300,10,2,5940.0,4.2
+PP10421,2026-02-06,February,2026Q1,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Sangeet,Marketplace,4600,0,1,4600.0,3.6
+PP10422,2026-06-11,June,2026Q2,Tamil Nadu,Coimbatore,Pre-Draped Tissue,Tissue,Festival,Instagram/WhatsApp,6250,15,1,5312.5,4.8
+PP10423,2026-08-31,August,2026Q3,Tamil Nadu,Chennai,Ready Pleated Cotton,Cotton,Reception,Offline Store,2300,5,1,2185.0,4.6
+PP10424,2026-01-03,January,2026Q1,Tamil Nadu,Coimbatore,Ready-to-Wear Organza,Organza,Wedding,Marketplace,4550,5,2,8645.0,4.5
+PP10425,2026-02-05,February,2026Q1,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Reception,Offline Store,4000,0,1,4000.0,4.3
+PP10426,2026-10-17,October,2026Q4,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Reception,Marketplace,4000,15,1,3400.0,4.4
+PP10427,2026-01-26,January,2026Q1,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Office/Event,Instagram/WhatsApp,3150,0,2,6300.0,4.2
+PP10428,2026-11-19,November,2026Q4,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Reception,Online Website,3900,15,3,9945.0,4.9
+PP10429,2026-06-16,June,2026Q2,Tamil Nadu,Coimbatore,Ready-to-Wear Organza,Organza,Office/Event,Instagram/WhatsApp,3250,15,1,2762.5,4.5
+PP10430,2026-01-02,January,2026Q1,Delhi NCR,Delhi,Ready-to-Wear Organza,Organza,Wedding,Online Website,4050,0,1,4050.0,3.7
+PP10431,2026-07-15,July,2026Q3,Karnataka,Bengaluru,Pre-Stitched Silk,Silk,Wedding,Online Website,5700,10,2,10260.0,4.2
+PP10432,2026-07-12,July,2026Q3,Maharashtra,Pune,Pre-Draped Tissue,Tissue,Wedding,Instagram/WhatsApp,5300,0,2,10600.0,4.6
+PP10433,2026-03-25,March,2026Q1,Kerala,Kochi,Pre-Draped Tissue,Tissue,Festival,Online Website,4000,5,1,3800.0,4.8
+PP10434,2026-09-08,September,2026Q3,Tamil Nadu,Chennai,Ready-to-Wear Organza,Organza,Festival,Online Website,4850,10,3,13095.0,4.3
+PP10435,2026-01-13,January,2026Q1,Karnataka,Bengaluru,Pre-Draped Tissue,Tissue,Wedding,Instagram/WhatsApp,6400,15,1,5440.0,4.0
+PP10436,2026-04-08,April,2026Q2,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Wedding,Online Website,4900,5,1,4655.0,4.7
+PP10437,2026-05-26,May,2026Q2,Tamil Nadu,Chennai,Ready-to-Wear Organza,Organza,Festival,Instagram/WhatsApp,3400,5,2,6460.0,4.2
+PP10438,2026-11-17,November,2026Q4,Telangana,Hyderabad,Pre-Draped Tissue,Tissue,Festival,Instagram/WhatsApp,5000,10,3,13500.0,4.4
+PP10439,2026-09-14,September,2026Q3,Maharashtra,Mumbai,Ready Pleated Cotton,Cotton,Reception,Marketplace,2150,5,1,2042.5,4.2
+PP10440,2026-06-03,June,2026Q2,Delhi NCR,Delhi,Pre-Draped Satin,Satin,Wedding,Marketplace,4950,15,1,4207.5,4.5
+PP10441,2026-01-12,January,2026Q1,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Reception,Online Website,5000,5,2,9500.0,4.2
+PP10442,2026-04-30,April,2026Q2,Telangana,Hyderabad,Pre-Draped Satin,Satin,Reception,Instagram/WhatsApp,4150,20,2,6640.0,4.1
+PP10443,2026-03-31,March,2026Q1,Tamil Nadu,Coimbatore,Pre-Draped Satin,Satin,Reception,Marketplace,4500,15,1,3825.0,4.4
+PP10444,2026-02-25,February,2026Q1,Tamil Nadu,Coimbatore,Pre-Pleated Georgette,Georgette,Wedding,Offline Store,3150,0,2,6300.0,4.8
+PP10445,2026-02-24,February,2026Q1,Tamil Nadu,Chennai,Ready-to-Wear Organza,Organza,Sangeet,Online Website,3100,10,1,2790.0,4.6
+PP10446,2026-07-12,July,2026Q3,Karnataka,Bengaluru,Pre-Draped Satin,Satin,Wedding,Marketplace,5800,10,2,10440.0,4.4
+PP10447,2026-06-16,June,2026Q2,Telangana,Hyderabad,Pre-Draped Satin,Satin,Party,Offline Store,4750,10,1,4275.0,4.1
+PP10448,2026-09-06,September,2026Q3,Maharashtra,Pune,Pre-Pleated Georgette,Georgette,Wedding,Offline Store,3650,0,2,7300.0,3.6
+PP10449,2026-01-29,January,2026Q1,Tamil Nadu,Coimbatore,Pre-Draped Satin,Satin,Wedding,Instagram/WhatsApp,4750,0,1,4750.0,4.6
+PP10450,2026-10-11,October,2026Q4,Kerala,Kochi,Pre-Draped Satin,Satin,Office/Event,Online Website,4350,10,2,7830.0,4.5
+PP10451,2026-04-11,April,2026Q2,Delhi NCR,Delhi,Pre-Draped Tissue,Tissue,Party,Marketplace,4750,5,2,9025.0,4.1
+PP10452,2026-02-16,February,2026Q1,Tamil Nadu,Chennai,Pre-Draped Satin,Satin,Wedding,Offline Store,3250,0,1,3250.0,3.8
+PP10453,2026-08-10,August,2026Q3,Delhi NCR,Delhi,Pre-Pleated Georgette,Georgette,Festival,Online Website,2850,5,1,2707.5,5.0
+PP10454,2026-09-05,September,2026Q3,Maharashtra,Mumbai,Pre-Stitched Silk,Silk,Reception,Marketplace,7850,15,1,6672.5,4.1
+PP10455,2026-05-20,May,2026Q2,Kerala,Kochi,Pre-Draped Tissue,Tissue,Reception,Instagram/WhatsApp,3700,10,2,6660.0,5.0
+PP10456,2026-06-30,June,2026Q2,Karnataka,Bengaluru,Ready-to-Wear Organza,Organza,Festival,Offline Store,3450,15,2,5865.0,3.9
+PP10457,2026-11-09,November,2026Q4,Tamil Nadu,Coimbatore,Ready Pleated Cotton,Cotton,Wedding,Marketplace,2750,5,2,5225.0,4.5
+PP10458,2026-11-29,November,2026Q4,Maharashtra,Mumbai,Pre-Draped Tissue,Tissue,Sangeet,Instagram/WhatsApp,3800,5,2,7220.0,3.5
+PP10459,2026-06-30,June,2026Q2,Tamil Nadu,Coimbatore,Ready-to-Wear Organza,Organza,Festival,Offline Store,4450,20,1,3560.0,4.2
+PP10460,2026-10-17,October,2026Q4,Tamil Nadu,Coimbatore,Pre-Draped Tissue,Tissue,Festival,Marketplace,4200,0,1,4200.0,4.0
+PP10461,2026-05-07,May,2026Q2,Karnataka,Bengaluru,Ready Pleated Cotton,Cotton,Festival,Offline Store,1800,0,1,1800.0,4.1
+PP10462,2026-06-30,June,2026Q2,Tamil Nadu,Chennai,Ready Pleated Cotton,Cotton,Party,Offline Store,1600,10,1,1440.0,4.3
+PP10463,2026-01-05,January,2026Q1,Maharashtra,Mumbai,Pre-Stitched Silk,Silk,Office/Event,Offline Store,5300,0,1,5300.0,4.0
+PP10464,2026-11-19,November,2026Q4,Delhi NCR,Delhi,Ready-to-Wear Organza,Organza,Sangeet,Marketplace,4850,10,1,4365.0,4.7
+PP10465,2026-05-01,May,2026Q2,Delhi NCR,Delhi,Pre-Pleated Georgette,Georgette,Party,Online Website,3900,15,1,3315.0,5.0
+PP10466,2026-05-17,May,2026Q2,Maharashtra,Mumbai,Ready Pleated Cotton,Cotton,Wedding,Online Website,2600,10,2,4680.0,4.6
+PP10467,2026-08-06,August,2026Q3,Tamil Nadu,Chennai,Ready Pleated Cotton,Cotton,Wedding,Online Website,2700,0,1,2700.0,4.6
+PP10468,2026-05-24,May,2026Q2,Tamil Nadu,Coimbatore,Pre-Draped Satin,Satin,Sangeet,Marketplace,5700,15,2,9690.0,4.3
+PP10469,2026-02-23,February,2026Q1,Maharashtra,Mumbai,Pre-Draped Satin,Satin,Festival,Online Website,4650,15,2,7905.0,3.3
+PP10470,2026-08-31,August,2026Q3,Tamil Nadu,Chennai,Ready Pleated Cotton,Cotton,Office/Event,Offline Store,2700,10,1,2430.0,4.5
+PP10471,2026-01-21,January,2026Q1,Telangana,Hyderabad,Pre-Draped Tissue,Tissue,Reception,Online Website,4950,5,1,4702.5,4.5
+PP10472,2026-05-02,May,2026Q2,Karnataka,Bengaluru,Pre-Draped Tissue,Tissue,Festival,Marketplace,6200,5,1,5890.0,4.1
+PP10473,2026-11-22,November,2026Q4,Kerala,Kochi,Pre-Draped Tissue,Tissue,Festival,Online Website,3300,0,2,6600.0,4.4
+PP10474,2026-12-06,December,2026Q4,Karnataka,Bengaluru,Pre-Stitched Silk,Silk,Reception,Online Website,6450,5,1,6127.5,4.0
+PP10475,2026-09-19,September,2026Q3,Delhi NCR,Delhi,Pre-Pleated Georgette,Georgette,Reception,Offline Store,3900,5,2,7410.0,3.9
+PP10476,2026-11-24,November,2026Q4,Tamil Nadu,Coimbatore,Pre-Draped Satin,Satin,Reception,Online Website,4550,10,1,4095.0,4.2
+PP10477,2026-03-01,March,2026Q1,Tamil Nadu,Chennai,Pre-Pleated Georgette,Georgette,Party,Online Website,2800,5,1,2660.0,4.2
+PP10478,2026-03-09,March,2026Q1,Maharashtra,Pune,Ready-to-Wear Organza,Organza,Sangeet,Online Website,3200,0,1,3200.0,3.7
+PP10479,2026-04-07,April,2026Q2,Maharashtra,Mumbai,Pre-Pleated Georgette,Georgette,Wedding,Offline Store,2300,0,1,2300.0,3.7
+PP10480,2026-02-20,February,2026Q1,Karnataka,Bengaluru,Pre-Pleated Georgette,Georgette,Wedding,Online Website,2500,0,1,2500.0,4.3
+PP10481,2026-12-08,December,2026Q4,Karnataka,Bengaluru,Pre-Stitched Silk,Silk,Party,Marketplace,5550,5,2,10545.0,4.5
+PP10482,2026-06-11,June,2026Q2,Telangana,Hyderabad,Pre-Stitched Silk,Silk,Sangeet,Online Website,5600,20,2,8960.0,4.6
+PP10483,2026-09-23,September,2026Q3,Tamil Nadu,Chennai,Ready Pleated Cotton,Cotton,Office/Event,Offline Store,1550,15,2,2635.0,4.0
+PP10484,2026-12-11,December,2026Q4,Telangana,Hyderabad,Pre-Draped Satin,Satin,Office/Event,Instagram/WhatsApp,5250,0,2,10500.0,4.3
+PP10485,2026-08-16,August,2026Q3,Tamil Nadu,Chennai,Ready Pleated Cotton,Cotton,Office/Event,Online Website,1750,15,2,2975.0,4.8
+PP10486,2026-11-08,November,2026Q4,Tamil Nadu,Coimbatore,Ready Pleated Cotton,Cotton,Festival,Marketplace,2750,15,2,4675.0,4.0
+PP10487,2026-08-05,August,2026Q3,Tamil Nadu,Coimbatore,Pre-Stitched Silk,Silk,Festival,Offline Store,4550,5,2,8645.0,4.3
+PP10488,2026-08-14,August,2026Q3,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Office/Event,Online Website,2850,0,2,5700.0,4.2
+PP10489,2026-04-23,April,2026Q2,Tamil Nadu,Chennai,Pre-Stitched Silk,Silk,Reception,Online Website,5800,10,2,10440.0,4.0
+PP10490,2026-10-25,October,2026Q4,Tamil Nadu,Coimbatore,Pre-Stitched Silk,Silk,Festival,Offline Store,6350,10,2,11430.0,3.9
+PP10491,2026-02-21,February,2026Q1,Karnataka,Bengaluru,Pre-Pleated Georgette,Georgette,Party,Offline Store,3900,5,2,7410.0,5.0
+PP10492,2026-11-01,November,2026Q4,Delhi NCR,Delhi,Pre-Pleated Georgette,Georgette,Sangeet,Offline Store,3050,10,1,2745.0,5.0
+PP10493,2026-07-28,July,2026Q3,Delhi NCR,Delhi,Ready-to-Wear Organza,Organza,Party,Marketplace,3350,5,2,6365.0,4.1
+PP10494,2026-11-25,November,2026Q4,Karnataka,Bengaluru,Pre-Stitched Silk,Silk,Reception,Online Website,5700,0,3,17100.0,3.7
+PP10495,2026-06-24,June,2026Q2,Maharashtra,Mumbai,Ready-to-Wear Organza,Organza,Office/Event,Online Website,3550,0,2,7100.0,4.4
+PP10496,2026-11-06,November,2026Q4,Telangana,Hyderabad,Ready-to-Wear Organza,Organza,Office/Event,Offline Store,3950,20,2,6320.0,4.2
+PP10497,2026-10-28,October,2026Q4,Maharashtra,Mumbai,Pre-Draped Satin,Satin,Reception,Marketplace,3050,10,2,5490.0,4.5
+PP10498,2026-11-29,November,2026Q4,Delhi NCR,Delhi,Ready Pleated Cotton,Cotton,Sangeet,Online Website,2400,0,3,7200.0,4.1
+PP10499,2026-12-30,December,2026Q4,Maharashtra,Pune,Pre-Draped Satin,Satin,Office/Event,Marketplace,3200,0,2,6400.0,4.1
+PP10500,2026-04-27,April,2026Q2,Maharashtra,Pune,Ready-to-Wear Organza,Organza,Wedding,Marketplace,2850,10,2,5130.0,4.7

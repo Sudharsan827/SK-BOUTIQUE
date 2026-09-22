@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Month,Quarter,Region,City,Saree_Type,Fabric,Occasion,Sales_Channel,Customer_Age,Unit_Price_INR,Discount_Pct,Units_Sold,Revenue_INR,Customer_Rating
+SAR10001,2026-09-15,September,2026Q3,Maharashtra,Mumbai,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,46,5350,0,7,37450.0,4.0
+SAR10002,2026-10-10,October,2026Q4,Tamil Nadu,Madurai,Cotton,Cotton,Gift,Online Website,42,1700,0,9,15300.0,4.5
+SAR10003,2026-03-19,March,2026Q1,Telangana,Hyderabad,Handloom,Handloom,Wedding,Online Website,37,4800,10,4,17280.0,4.8
+SAR10004,2026-11-30,November,2026Q4,Tamil Nadu,Erode,Cotton,Cotton,Daily Wear,Marketplace,27,950,15,9,7267.5,3.8
+SAR10005,2026-01-30,January,2026Q1,Maharashtra,Mumbai,Ready-to-Wear,Synthetic Blend,Wedding,Marketplace,38,2250,5,5,10687.5,4.7
+SAR10006,2026-04-27,April,2026Q2,Telangana,Hyderabad,Ready-to-Wear,Synthetic Blend,Party,Marketplace,42,2300,15,5,9775.0,4.9
+SAR10007,2026-01-29,January,2026Q1,Tamil Nadu,Chennai,Cotton,Cotton,Wedding,Offline Store,27,950,5,13,11732.5,4.2
+SAR10008,2026-05-11,May,2026Q2,Telangana,Warangal,Designer,Synthetic Blend,Festival,Online Website,34,5800,10,5,26100.0,3.3
+SAR10009,2026-07-25,July,2026Q3,Kerala,Thrissur,Handloom,Handloom,Festival,Online Website,38,1850,10,3,4995.0,4.3
+SAR10010,2026-01-28,January,2026Q1,Maharashtra,Mumbai,Ready-to-Wear,Synthetic Blend,Daily Wear,Social Commerce,35,2850,0,7,19950.0,3.5
+SAR10011,2026-09-07,September,2026Q3,Tamil Nadu,Erode,Linen,Linen,Wedding,Social Commerce,34,3250,10,6,17550.0,5.0
+SAR10012,2026-09-21,September,2026Q3,Karnataka,Mysuru,Banarasi Silk,Silk,Festival,Offline Store,34,9900,5,4,37620.0,4.5
+SAR10013,2026-04-07,April,2026Q2,Gujarat,Surat,Ready-to-Wear,Synthetic Blend,Daily Wear,Online Website,34,2550,0,9,22950.0,4.2
+SAR10014,2026-05-16,May,2026Q2,Kerala,Thrissur,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,43,5050,5,12,57570.0,4.2
+SAR10015,2026-04-22,April,2026Q2,Kerala,Thrissur,Ready-to-Wear,Synthetic Blend,Party,Online Website,35,4050,20,8,25920.0,4.0
+SAR10016,2026-11-01,November,2026Q4,Tamil Nadu,Coimbatore,Organza,Organza,Party,Offline Store,35,2350,10,5,10575.0,4.6
+SAR10017,2026-10-22,October,2026Q4,Telangana,Warangal,Banarasi Silk,Silk,Festival,Offline Store,45,8400,5,6,47880.0,3.9
+SAR10018,2026-01-26,January,2026Q1,Maharashtra,Pune,Ready-to-Wear,Synthetic Blend,Festival,Online Website,29,2850,10,6,15390.0,4.2
+SAR10019,2026-11-21,November,2026Q4,Maharashtra,Pune,Designer,Synthetic Blend,Party,Offline Store,46,4300,5,3,12255.0,4.2
+SAR10020,2026-04-23,April,2026Q2,Tamil Nadu,Erode,Georgette,Georgette,Daily Wear,Social Commerce,44,1450,10,8,10440.0,4.2
+SAR10021,2026-11-13,November,2026Q4,Delhi NCR,Gurugram,Ready-to-Wear,Synthetic Blend,Office Wear,Marketplace,50,3850,15,10,32725.0,3.7
+SAR10022,2026-01-18,January,2026Q1,Maharashtra,Mumbai,Organza,Organza,Festival,Social Commerce,35,4050,15,5,17212.5,4.1
+SAR10023,2026-09-08,September,2026Q3,Karnataka,Mysuru,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,32,4600,5,11,48070.0,4.8
+SAR10024,2026-07-21,July,2026Q3,Kerala,Thrissur,Handloom,Handloom,Festival,Offline Store,27,3800,15,8,25840.0,3.1
+SAR10025,2026-04-27,April,2026Q2,Maharashtra,Pune,Georgette,Georgette,Wedding,Offline Store,40,1700,0,13,22100.0,3.8
+SAR10026,2026-02-17,February,2026Q1,Tamil Nadu,Coimbatore,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,32,3600,10,8,25920.0,5.0
+SAR10027,2026-05-29,May,2026Q2,Maharashtra,Mumbai,Ready-to-Wear,Synthetic Blend,Wedding,Offline Store,26,3500,10,7,22050.0,4.0
+SAR10028,2026-12-28,December,2026Q4,Telangana,Warangal,Ready-to-Wear,Synthetic Blend,Gift,Social Commerce,27,5050,25,8,30300.0,4.4
+SAR10029,2026-12-18,December,2026Q4,Tamil Nadu,Erode,Designer,Synthetic Blend,Wedding,Offline Store,47,4550,20,3,10920.0,4.3
+SAR10030,2026-11-23,November,2026Q4,Kerala,Kochi,Kanjivaram Silk,Silk,Festival,Online Website,25,10200,5,5,48450.0,4.2
+SAR10031,2026-09-07,September,2026Q3,West Bengal,Howrah,Organza,Organza,Party,Offline Store,37,2400,5,8,18240.0,4.5
+SAR10032,2026-10-24,October,2026Q4,Delhi NCR,Noida,Linen,Linen,Wedding,Online Website,26,2450,15,11,22907.5,4.3
+SAR10033,2026-09-03,September,2026Q3,Gujarat,Ahmedabad,Cotton,Cotton,Festival,Offline Store,18,1150,15,12,11730.0,4.3
+SAR10034,2026-01-04,January,2026Q1,West Bengal,Kolkata,Cotton,Cotton,Party,Social Commerce,36,1400,10,8,10080.0,4.2
+SAR10035,2026-10-20,October,2026Q4,Delhi NCR,Noida,Chiffon,Chiffon,Wedding,Offline Store,36,1750,10,11,17325.0,3.8
+SAR10036,2026-05-18,May,2026Q2,Karnataka,Mysuru,Banarasi Silk,Silk,Party,Online Website,47,6000,5,3,17100.0,3.8
+SAR10037,2026-06-02,June,2026Q2,West Bengal,Howrah,Kanjivaram Silk,Silk,Daily Wear,Marketplace,30,6500,0,2,13000.0,4.1
+SAR10038,2026-02-19,February,2026Q1,Delhi NCR,Delhi,Handloom,Handloom,Wedding,Online Website,41,3600,15,6,18360.0,4.7
+SAR10039,2026-08-15,August,2026Q3,Kerala,Kochi,Georgette,Georgette,Daily Wear,Online Website,38,2450,5,12,27930.0,4.0
+SAR10040,2026-10-19,October,2026Q4,Telangana,Warangal,Kanjivaram Silk,Silk,Festival,Offline Store,35,8750,0,3,26250.0,4.5
+SAR10041,2026-08-05,August,2026Q3,Karnataka,Mysuru,Cotton,Cotton,Gift,Offline Store,36,1100,5,8,8360.0,4.5
+SAR10042,2026-06-09,June,2026Q2,Delhi NCR,Noida,Linen,Linen,Daily Wear,Marketplace,34,2400,0,3,7200.0,4.3
+SAR10043,2026-11-08,November,2026Q4,Maharashtra,Mumbai,Chiffon,Chiffon,Daily Wear,Offline Store,39,2200,0,12,26400.0,4.7
+SAR10044,2026-09-17,September,2026Q3,Kerala,Kochi,Banarasi Silk,Silk,Daily Wear,Offline Store,33,4900,15,3,12495.0,3.9
+SAR10045,2026-03-15,March,2026Q1,West Bengal,Howrah,Cotton,Cotton,Wedding,Online Website,45,1300,10,8,9360.0,3.7
+SAR10046,2026-10-22,October,2026Q4,Karnataka,Mysuru,Banarasi Silk,Silk,Wedding,Offline Store,42,9650,0,4,38600.0,4.9
+SAR10047,2026-10-16,October,2026Q4,Karnataka,Mysuru,Organza,Organza,Daily Wear,Offline Store,32,3050,5,10,28975.0,3.6
+SAR10048,2026-04-12,April,2026Q2,Karnataka,Mysuru,Ready-to-Wear,Synthetic Blend,Wedding,Online Website,60,5150,5,6,29355.0,5.0
+SAR10049,2026-02-28,February,2026Q1,Tamil Nadu,Chennai,Chiffon,Chiffon,Office Wear,Marketplace,34,2150,5,8,16340.0,4.0
+SAR10050,2026-01-23,January,2026Q1,Gujarat,Surat,Cotton,Cotton,Gift,Marketplace,61,1600,5,10,15200.0,4.0
+SAR10051,2026-03-21,March,2026Q1,Delhi NCR,Gurugram,Ready-to-Wear,Synthetic Blend,Party,Online Website,34,2800,10,5,12600.0,4.1
+SAR10052,2026-03-17,March,2026Q1,Kerala,Thrissur,Designer,Synthetic Blend,Office Wear,Offline Store,23,6350,0,2,12700.0,4.7
+SAR10053,2026-05-20,May,2026Q2,Delhi NCR,Noida,Designer,Synthetic Blend,Daily Wear,Offline Store,44,6450,0,5,32250.0,4.1
+SAR10054,2026-09-09,September,2026Q3,Maharashtra,Mumbai,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,44,3300,5,8,25080.0,4.1
+SAR10055,2026-01-15,January,2026Q1,Telangana,Warangal,Linen,Linen,Daily Wear,Offline Store,25,1750,20,13,18200.0,5.0
+SAR10056,2026-10-16,October,2026Q4,Karnataka,Bengaluru,Georgette,Georgette,Daily Wear,Social Commerce,27,3000,0,7,21000.0,4.1
+SAR10057,2026-07-14,July,2026Q3,Karnataka,Bengaluru,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,31,3150,10,9,25515.0,4.7
+SAR10058,2026-10-04,October,2026Q4,Gujarat,Surat,Cotton,Cotton,Wedding,Offline Store,32,1550,10,7,9765.0,3.6
+SAR10059,2026-11-14,November,2026Q4,Telangana,Warangal,Ready-to-Wear,Synthetic Blend,Party,Online Website,18,2300,10,7,14490.0,4.2
+SAR10060,2026-06-14,June,2026Q2,West Bengal,Howrah,Organza,Organza,Daily Wear,Online Website,28,2350,20,6,11280.0,4.0
+SAR10061,2026-10-16,October,2026Q4,Kerala,Kochi,Cotton,Cotton,Party,Marketplace,23,1550,5,7,10307.5,4.2
+SAR10062,2026-08-01,August,2026Q3,Tamil Nadu,Coimbatore,Ready-to-Wear,Synthetic Blend,Festival,Online Website,36,3500,10,8,25200.0,4.9
+SAR10063,2026-06-11,June,2026Q2,Gujarat,Surat,Georgette,Georgette,Daily Wear,Online Website,45,1550,0,8,12400.0,4.2
+SAR10064,2026-03-08,March,2026Q1,Maharashtra,Mumbai,Organza,Organza,Festival,Online Website,45,1950,10,6,10530.0,3.8
+SAR10065,2026-11-17,November,2026Q4,West Bengal,Kolkata,Organza,Organza,Wedding,Offline Store,46,2800,15,7,16660.0,4.0
+SAR10066,2026-02-13,February,2026Q1,Telangana,Warangal,Organza,Organza,Festival,Offline Store,35,4500,10,9,36450.0,5.0
+SAR10067,2026-12-01,December,2026Q4,Tamil Nadu,Madurai,Banarasi Silk,Silk,Daily Wear,Online Website,34,6650,0,4,26600.0,4.8
+SAR10068,2026-09-10,September,2026Q3,Tamil Nadu,Coimbatore,Ready-to-Wear,Synthetic Blend,Wedding,Online Website,45,3350,5,6,19095.0,4.9
+SAR10069,2026-11-04,November,2026Q4,Kerala,Thrissur,Cotton,Cotton,Wedding,Online Website,42,1050,0,5,5250.0,4.3
+SAR10070,2026-04-23,April,2026Q2,Delhi NCR,Gurugram,Chiffon,Chiffon,Daily Wear,Offline Store,41,2450,10,6,13230.0,4.2
+SAR10071,2026-07-08,July,2026Q3,Maharashtra,Pune,Chiffon,Chiffon,Office Wear,Online Website,33,1950,20,4,6240.0,3.4
+SAR10072,2026-03-09,March,2026Q1,Gujarat,Surat,Designer,Synthetic Blend,Party,Online Website,22,4100,20,4,13120.0,4.6
+SAR10073,2026-01-20,January,2026Q1,Tamil Nadu,Chennai,Handloom,Handloom,Office Wear,Offline Store,36,4550,5,8,34580.0,4.4
+SAR10074,2026-01-03,January,2026Q1,Delhi NCR,Delhi,Designer,Synthetic Blend,Office Wear,Offline Store,27,4700,0,5,23500.0,3.5
+SAR10075,2026-03-31,March,2026Q1,Telangana,Warangal,Chiffon,Chiffon,Festival,Marketplace,28,1300,5,5,6175.0,5.0
+SAR10076,2026-03-11,March,2026Q1,Maharashtra,Pune,Banarasi Silk,Silk,Festival,Online Website,45,4850,0,3,14550.0,3.3
+SAR10077,2026-11-08,November,2026Q4,Tamil Nadu,Coimbatore,Cotton,Cotton,Office Wear,Offline Store,30,1250,10,15,16875.0,4.0
+SAR10078,2026-09-28,September,2026Q3,Karnataka,Mysuru,Handloom,Handloom,Office Wear,Offline Store,44,3050,5,5,14487.5,3.8
+SAR10079,2026-12-26,December,2026Q4,West Bengal,Kolkata,Designer,Synthetic Blend,Festival,Marketplace,27,5450,0,2,10900.0,3.9
+SAR10080,2026-12-31,December,2026Q4,West Bengal,Kolkata,Ready-to-Wear,Synthetic Blend,Gift,Online Website,40,5450,5,9,46597.5,3.6
+SAR10081,2026-09-07,September,2026Q3,Telangana,Warangal,Designer,Synthetic Blend,Wedding,Offline Store,44,5150,5,4,19570.0,4.5
+SAR10082,2026-08-04,August,2026Q3,West Bengal,Kolkata,Handloom,Handloom,Gift,Offline Store,18,2500,20,9,18000.0,4.2
+SAR10083,2026-07-15,July,2026Q3,West Bengal,Kolkata,Designer,Synthetic Blend,Wedding,Offline Store,31,5200,15,2,8840.0,4.0
+SAR10084,2026-10-05,October,2026Q4,Kerala,Kochi,Ready-to-Wear,Synthetic Blend,Party,Offline Store,51,5100,0,9,45900.0,3.6
+SAR10085,2026-02-03,February,2026Q1,West Bengal,Kolkata,Banarasi Silk,Silk,Office Wear,Online Website,48,11650,5,2,22135.0,4.4
+SAR10086,2026-08-18,August,2026Q3,Kerala,Thrissur,Organza,Organza,Wedding,Online Website,30,2900,15,9,22185.0,4.1
+SAR10087,2026-08-10,August,2026Q3,Maharashtra,Mumbai,Cotton,Cotton,Daily Wear,Marketplace,30,1000,15,6,5100.0,4.8
+SAR10088,2026-09-27,September,2026Q3,Tamil Nadu,Coimbatore,Ready-to-Wear,Synthetic Blend,Festival,Offline Store,27,3050,15,10,25925.0,3.9
+SAR10089,2026-08-03,August,2026Q3,Karnataka,Mysuru,Banarasi Silk,Silk,Daily Wear,Online Website,56,9400,15,4,31960.0,4.5
+SAR10090,2026-03-27,March,2026Q1,Gujarat,Surat,Georgette,Georgette,Wedding,Online Website,24,3100,0,8,24800.0,3.8
+SAR10091,2026-12-06,December,2026Q4,Maharashtra,Mumbai,Handloom,Handloom,Party,Offline Store,23,1950,0,7,13650.0,4.3
+SAR10092,2026-09-22,September,2026Q3,Gujarat,Ahmedabad,Organza,Organza,Festival,Online Website,25,2900,20,7,16240.0,3.9
+SAR10093,2026-02-05,February,2026Q1,Delhi NCR,Delhi,Chiffon,Chiffon,Gift,Offline Store,39,2300,20,7,12880.0,4.2
+SAR10094,2026-12-20,December,2026Q4,West Bengal,Howrah,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,25,4900,15,7,29155.0,4.5
+SAR10095,2026-04-06,April,2026Q2,Delhi NCR,Delhi,Organza,Organza,Party,Offline Store,23,2250,5,5,10687.5,4.1
+SAR10096,2026-05-13,May,2026Q2,Karnataka,Bengaluru,Chiffon,Chiffon,Office Wear,Offline Store,46,2300,10,6,12420.0,4.2
+SAR10097,2026-02-08,February,2026Q1,Kerala,Kochi,Cotton,Cotton,Office Wear,Marketplace,40,1450,20,6,6960.0,3.7
+SAR10098,2026-04-03,April,2026Q2,Maharashtra,Mumbai,Banarasi Silk,Silk,Office Wear,Online Website,36,10000,15,6,51000.0,4.6
+SAR10099,2026-01-23,January,2026Q1,Telangana,Warangal,Banarasi Silk,Silk,Daily Wear,Online Website,35,5650,0,2,11300.0,5.0
+SAR10100,2026-04-09,April,2026Q2,Kerala,Kochi,Cotton,Cotton,Party,Online Website,52,1000,15,10,8500.0,4.9
+SAR10101,2026-09-14,September,2026Q3,Tamil Nadu,Coimbatore,Cotton,Cotton,Gift,Offline Store,21,900,10,7,5670.0,4.1
+SAR10102,2026-07-02,July,2026Q3,Karnataka,Bengaluru,Linen,Linen,Gift,Offline Store,37,3050,10,7,19215.0,4.8
+SAR10103,2026-05-05,May,2026Q2,Delhi NCR,Noida,Designer,Synthetic Blend,Wedding,Offline Store,41,4500,10,2,8100.0,4.4
+SAR10104,2026-02-02,February,2026Q1,Telangana,Warangal,Banarasi Silk,Silk,Wedding,Offline Store,40,7150,0,4,28600.0,4.7
+SAR10105,2026-04-19,April,2026Q2,Tamil Nadu,Madurai,Linen,Linen,Wedding,Online Website,34,3750,0,5,18750.0,4.2
+SAR10106,2026-11-25,November,2026Q4,Tamil Nadu,Chennai,Handloom,Handloom,Office Wear,Marketplace,18,3100,0,4,12400.0,4.5
+SAR10107,2026-09-30,September,2026Q3,Telangana,Hyderabad,Linen,Linen,Gift,Marketplace,18,2400,15,9,18360.0,4.1
+SAR10108,2026-06-21,June,2026Q2,Karnataka,Bengaluru,Linen,Linen,Office Wear,Offline Store,32,3300,0,7,23100.0,5.0
+SAR10109,2026-03-31,March,2026Q1,West Bengal,Kolkata,Cotton,Cotton,Festival,Offline Store,39,1500,0,9,13500.0,3.8
+SAR10110,2026-04-08,April,2026Q2,Tamil Nadu,Chennai,Cotton,Cotton,Party,Offline Store,44,1500,5,7,9975.0,3.9
+SAR10111,2026-11-21,November,2026Q4,Tamil Nadu,Chennai,Georgette,Georgette,Wedding,Offline Store,26,2200,0,9,19800.0,4.3
+SAR10112,2026-03-05,March,2026Q1,Telangana,Warangal,Ready-to-Wear,Synthetic Blend,Festival,Offline Store,33,3600,5,6,20520.0,4.8
+SAR10113,2026-09-24,September,2026Q3,Telangana,Hyderabad,Linen,Linen,Party,Offline Store,18,1700,5,11,17765.0,4.6
+SAR10114,2026-07-29,July,2026Q3,Tamil Nadu,Coimbatore,Cotton,Cotton,Party,Online Website,39,1250,25,6,5625.0,4.1
+SAR10115,2026-01-21,January,2026Q1,Karnataka,Mysuru,Designer,Synthetic Blend,Wedding,Offline Store,44,4450,0,5,22250.0,3.7
+SAR10116,2026-11-16,November,2026Q4,Tamil Nadu,Madurai,Kanjivaram Silk,Silk,Daily Wear,Offline Store,33,6050,10,2,10890.0,3.1
+SAR10117,2026-03-12,March,2026Q1,Delhi NCR,Noida,Ready-to-Wear,Synthetic Blend,Daily Wear,Marketplace,39,5400,5,7,35910.0,3.8
+SAR10118,2026-11-13,November,2026Q4,Maharashtra,Mumbai,Chiffon,Chiffon,Daily Wear,Online Website,21,2450,15,11,22907.5,4.1
+SAR10119,2026-04-28,April,2026Q2,Gujarat,Surat,Organza,Organza,Party,Offline Store,19,2000,10,7,12600.0,4.2
+SAR10120,2026-02-21,February,2026Q1,Karnataka,Bengaluru,Cotton,Cotton,Party,Offline Store,36,1100,5,12,12540.0,4.3
+SAR10121,2026-08-08,August,2026Q3,Maharashtra,Pune,Linen,Linen,Daily Wear,Offline Store,29,2300,25,6,10350.0,3.9
+SAR10122,2026-07-22,July,2026Q3,Delhi NCR,Gurugram,Georgette,Georgette,Festival,Social Commerce,28,2450,15,5,10412.5,3.7
+SAR10123,2026-08-20,August,2026Q3,Delhi NCR,Delhi,Organza,Organza,Wedding,Marketplace,27,2200,15,5,9350.0,4.7
+SAR10124,2026-02-18,February,2026Q1,Telangana,Warangal,Banarasi Silk,Silk,Office Wear,Offline Store,41,11400,20,3,27360.0,3.9
+SAR10125,2026-03-01,March,2026Q1,Tamil Nadu,Coimbatore,Kanjivaram Silk,Silk,Office Wear,Marketplace,22,6350,5,2,12065.0,4.3
+SAR10126,2026-06-17,June,2026Q2,Telangana,Warangal,Linen,Linen,Festival,Offline Store,48,2000,15,7,11900.0,3.9
+SAR10127,2026-11-22,November,2026Q4,Tamil Nadu,Madurai,Banarasi Silk,Silk,Daily Wear,Marketplace,38,5950,20,4,19040.0,4.7
+SAR10128,2026-05-04,May,2026Q2,Delhi NCR,Delhi,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,48,3650,20,7,20440.0,4.8
+SAR10129,2026-04-04,April,2026Q2,Tamil Nadu,Coimbatore,Organza,Organza,Festival,Offline Store,39,3150,5,7,20947.5,5.0
+SAR10130,2026-07-07,July,2026Q3,West Bengal,Howrah,Cotton,Cotton,Festival,Social Commerce,31,1650,10,4,5940.0,4.5
+SAR10131,2026-12-29,December,2026Q4,Delhi NCR,Noida,Cotton,Cotton,Wedding,Online Website,31,950,15,7,5652.5,3.5
+SAR10132,2026-09-22,September,2026Q3,West Bengal,Kolkata,Kanjivaram Silk,Silk,Gift,Offline Store,22,11700,5,5,55575.0,4.9
+SAR10133,2026-06-03,June,2026Q2,Tamil Nadu,Chennai,Banarasi Silk,Silk,Office Wear,Online Website,47,11150,15,3,28432.5,3.7
+SAR10134,2026-08-13,August,2026Q3,West Bengal,Kolkata,Georgette,Georgette,Wedding,Offline Store,23,2000,5,9,17100.0,4.3
+SAR10135,2026-07-12,July,2026Q3,Kerala,Kochi,Ready-to-Wear,Synthetic Blend,Daily Wear,Social Commerce,41,4300,10,6,23220.0,5.0
+SAR10136,2026-02-17,February,2026Q1,West Bengal,Howrah,Handloom,Handloom,Daily Wear,Marketplace,28,3900,10,5,17550.0,4.3
+SAR10137,2026-08-30,August,2026Q3,Tamil Nadu,Chennai,Cotton,Cotton,Daily Wear,Social Commerce,42,1700,0,5,8500.0,3.4
+SAR10138,2026-10-25,October,2026Q4,Gujarat,Ahmedabad,Cotton,Cotton,Wedding,Online Website,26,1650,5,10,15675.0,3.8
+SAR10139,2026-07-29,July,2026Q3,West Bengal,Kolkata,Ready-to-Wear,Synthetic Blend,Party,Offline Store,18,5150,10,8,37080.0,4.1
+SAR10140,2026-02-15,February,2026Q1,Tamil Nadu,Madurai,Banarasi Silk,Silk,Festival,Online Website,39,11650,5,4,44270.0,4.0
+SAR10141,2026-04-27,April,2026Q2,West Bengal,Kolkata,Organza,Organza,Wedding,Online Website,21,3050,25,6,13725.0,4.0
+SAR10142,2026-03-09,March,2026Q1,Gujarat,Ahmedabad,Ready-to-Wear,Synthetic Blend,Festival,Offline Store,18,3550,25,7,18637.5,4.2
+SAR10143,2026-08-01,August,2026Q3,Telangana,Hyderabad,Ready-to-Wear,Synthetic Blend,Daily Wear,Marketplace,44,4550,20,7,25480.0,3.7
+SAR10144,2026-06-29,June,2026Q2,Kerala,Kochi,Georgette,Georgette,Festival,Social Commerce,28,2350,15,5,9987.5,4.5
+SAR10145,2026-03-24,March,2026Q1,Tamil Nadu,Chennai,Georgette,Georgette,Daily Wear,Online Website,27,2950,10,7,18585.0,4.3
+SAR10146,2026-11-10,November,2026Q4,Gujarat,Surat,Organza,Organza,Festival,Online Website,34,2250,10,7,14175.0,5.0
+SAR10147,2026-05-10,May,2026Q2,Delhi NCR,Noida,Cotton,Cotton,Office Wear,Offline Store,53,1200,15,9,9180.0,4.2
+SAR10148,2026-04-29,April,2026Q2,Tamil Nadu,Madurai,Kanjivaram Silk,Silk,Wedding,Offline Store,43,12350,10,4,44460.0,3.4
+SAR10149,2026-10-09,October,2026Q4,Delhi NCR,Delhi,Kanjivaram Silk,Silk,Office Wear,Online Website,25,8350,15,4,28390.0,3.7
+SAR10150,2026-11-30,November,2026Q4,Karnataka,Bengaluru,Chiffon,Chiffon,Festival,Online Website,47,2600,10,4,9360.0,4.6
+SAR10151,2026-12-19,December,2026Q4,Kerala,Thrissur,Cotton,Cotton,Daily Wear,Online Website,18,1100,20,9,7920.0,3.9
+SAR10152,2026-09-25,September,2026Q3,Gujarat,Ahmedabad,Ready-to-Wear,Synthetic Blend,Daily Wear,Online Website,49,4750,15,7,28262.5,4.4
+SAR10153,2026-08-21,August,2026Q3,Gujarat,Surat,Organza,Organza,Office Wear,Offline Store,20,4300,15,8,29240.0,4.6
+SAR10154,2026-03-10,March,2026Q1,West Bengal,Howrah,Georgette,Georgette,Office Wear,Marketplace,18,3150,0,4,12600.0,4.9
+SAR10155,2026-08-17,August,2026Q3,Tamil Nadu,Erode,Handloom,Handloom,Office Wear,Online Website,43,3900,10,4,14040.0,4.5
+SAR10156,2026-02-06,February,2026Q1,Kerala,Thrissur,Georgette,Georgette,Wedding,Online Website,29,2600,10,6,14040.0,3.8
+SAR10157,2026-09-01,September,2026Q3,Kerala,Kochi,Chiffon,Chiffon,Wedding,Offline Store,41,2000,15,6,10200.0,4.2
+SAR10158,2026-08-27,August,2026Q3,Delhi NCR,Delhi,Linen,Linen,Daily Wear,Offline Store,41,1700,15,6,8670.0,4.7
+SAR10159,2026-10-14,October,2026Q4,Karnataka,Mysuru,Cotton,Cotton,Office Wear,Offline Store,28,1250,15,10,10625.0,4.8
+SAR10160,2026-08-12,August,2026Q3,Maharashtra,Mumbai,Cotton,Cotton,Daily Wear,Online Website,26,1150,5,9,9832.5,4.8
+SAR10161,2026-08-30,August,2026Q3,Tamil Nadu,Erode,Linen,Linen,Wedding,Online Website,37,2650,15,9,20272.5,4.3
+SAR10162,2026-05-01,May,2026Q2,Kerala,Thrissur,Ready-to-Wear,Synthetic Blend,Festival,Offline Store,43,2700,10,9,21870.0,4.1
+SAR10163,2026-08-12,August,2026Q3,Karnataka,Bengaluru,Ready-to-Wear,Synthetic Blend,Gift,Offline Store,28,4150,20,7,23240.0,4.6
+SAR10164,2026-01-14,January,2026Q1,Tamil Nadu,Madurai,Designer,Synthetic Blend,Daily Wear,Offline Store,40,3700,0,4,14800.0,3.9
+SAR10165,2026-03-12,March,2026Q1,Kerala,Kochi,Banarasi Silk,Silk,Office Wear,Social Commerce,44,11550,15,2,19635.0,4.6
+SAR10166,2026-05-28,May,2026Q2,Tamil Nadu,Erode,Chiffon,Chiffon,Office Wear,Marketplace,38,1950,15,10,16575.0,4.6
+SAR10167,2026-06-16,June,2026Q2,Kerala,Kochi,Georgette,Georgette,Wedding,Online Website,46,2050,0,5,10250.0,4.5
+SAR10168,2026-04-19,April,2026Q2,Maharashtra,Pune,Linen,Linen,Daily Wear,Marketplace,34,2050,5,9,17527.5,4.5
+SAR10169,2026-07-02,July,2026Q3,Delhi NCR,Delhi,Organza,Organza,Party,Social Commerce,34,2250,0,2,4500.0,4.2
+SAR10170,2026-01-10,January,2026Q1,Maharashtra,Mumbai,Ready-to-Wear,Synthetic Blend,Festival,Online Website,51,3300,10,11,32670.0,4.0
+SAR10171,2026-04-15,April,2026Q2,Tamil Nadu,Erode,Chiffon,Chiffon,Daily Wear,Social Commerce,65,1650,0,4,6600.0,4.1
+SAR10172,2026-12-09,December,2026Q4,Karnataka,Mysuru,Designer,Synthetic Blend,Festival,Offline Store,18,4800,20,4,15360.0,3.6
+SAR10173,2026-03-10,March,2026Q1,Maharashtra,Pune,Ready-to-Wear,Synthetic Blend,Wedding,Offline Store,22,3650,15,10,31025.0,5.0
+SAR10174,2026-12-07,December,2026Q4,Tamil Nadu,Madurai,Cotton,Cotton,Gift,Offline Store,33,950,10,8,6840.0,4.5
+SAR10175,2026-05-27,May,2026Q2,Maharashtra,Pune,Chiffon,Chiffon,Wedding,Social Commerce,37,1500,0,6,9000.0,3.6
+SAR10176,2026-08-26,August,2026Q3,Tamil Nadu,Erode,Georgette,Georgette,Party,Offline Store,34,2600,0,13,33800.0,4.3
+SAR10177,2026-07-05,July,2026Q3,Tamil Nadu,Coimbatore,Kanjivaram Silk,Silk,Festival,Online Website,21,7350,0,2,14700.0,4.3
+SAR10178,2026-03-31,March,2026Q1,Delhi NCR,Noida,Chiffon,Chiffon,Festival,Online Website,33,1600,15,5,6800.0,3.9
+SAR10179,2026-10-15,October,2026Q4,Maharashtra,Pune,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,25,2400,5,5,11400.0,5.0
+SAR10180,2026-08-01,August,2026Q3,Gujarat,Surat,Organza,Organza,Daily Wear,Offline Store,61,2150,25,10,16125.0,4.5
+SAR10181,2026-12-12,December,2026Q4,Karnataka,Mysuru,Handloom,Handloom,Daily Wear,Online Website,31,2900,5,5,13775.0,4.8
+SAR10182,2026-06-05,June,2026Q2,Tamil Nadu,Chennai,Cotton,Cotton,Daily Wear,Online Website,27,1650,0,4,6600.0,3.9
+SAR10183,2026-08-29,August,2026Q3,Tamil Nadu,Coimbatore,Cotton,Cotton,Festival,Online Website,21,1150,15,5,4887.5,4.7
+SAR10184,2026-08-11,August,2026Q3,Tamil Nadu,Chennai,Handloom,Handloom,Party,Online Website,20,4400,20,9,31680.0,4.3
+SAR10185,2026-10-29,October,2026Q4,Gujarat,Surat,Cotton,Cotton,Office Wear,Online Website,26,1700,15,7,10115.0,4.7
+SAR10186,2026-08-20,August,2026Q3,Karnataka,Bengaluru,Organza,Organza,Daily Wear,Offline Store,35,3600,20,8,23040.0,4.3
+SAR10187,2026-06-26,June,2026Q2,Telangana,Warangal,Cotton,Cotton,Wedding,Social Commerce,45,1100,0,3,3300.0,4.1
+SAR10188,2026-11-04,November,2026Q4,Karnataka,Mysuru,Georgette,Georgette,Party,Online Website,28,2100,25,9,14175.0,4.8
+SAR10189,2026-06-24,June,2026Q2,Karnataka,Bengaluru,Organza,Organza,Wedding,Offline Store,38,3450,0,7,24150.0,4.1
+SAR10190,2026-10-31,October,2026Q4,Telangana,Hyderabad,Kanjivaram Silk,Silk,Gift,Marketplace,50,11650,5,4,44270.0,4.8
+SAR10191,2026-08-20,August,2026Q3,Delhi NCR,Noida,Cotton,Cotton,Wedding,Marketplace,35,1150,0,10,11500.0,4.6
+SAR10192,2026-12-02,December,2026Q4,Delhi NCR,Gurugram,Organza,Organza,Wedding,Social Commerce,24,2200,10,6,11880.0,4.8
+SAR10193,2026-01-01,January,2026Q1,Karnataka,Mysuru,Georgette,Georgette,Party,Online Website,31,1550,10,7,9765.0,3.5
+SAR10194,2026-08-17,August,2026Q3,Tamil Nadu,Erode,Ready-to-Wear,Synthetic Blend,Office Wear,Online Website,32,2250,5,5,10687.5,3.9
+SAR10195,2026-12-26,December,2026Q4,Delhi NCR,Gurugram,Cotton,Cotton,Party,Online Website,37,1750,25,8,10500.0,4.8
+SAR10196,2026-09-29,September,2026Q3,Kerala,Thrissur,Cotton,Cotton,Party,Offline Store,56,1350,0,7,9450.0,4.6
+SAR10197,2026-10-23,October,2026Q4,Karnataka,Mysuru,Kanjivaram Silk,Silk,Festival,Online Website,32,5650,15,3,14407.5,4.2
+SAR10198,2026-05-23,May,2026Q2,Tamil Nadu,Madurai,Georgette,Georgette,Festival,Offline Store,32,3000,20,10,24000.0,4.3
+SAR10199,2026-05-31,May,2026Q2,Telangana,Warangal,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,37,2550,10,7,16065.0,4.8
+SAR10200,2026-09-28,September,2026Q3,Maharashtra,Mumbai,Kanjivaram Silk,Silk,Daily Wear,Online Website,31,10300,15,3,26265.0,4.7
+SAR10201,2026-05-01,May,2026Q2,Karnataka,Mysuru,Banarasi Silk,Silk,Office Wear,Offline Store,32,5100,5,6,29070.0,5.0
+SAR10202,2026-03-27,March,2026Q1,Tamil Nadu,Chennai,Designer,Synthetic Blend,Daily Wear,Marketplace,25,8000,10,3,21600.0,4.0
+SAR10203,2026-01-10,January,2026Q1,Delhi NCR,Delhi,Designer,Synthetic Blend,Daily Wear,Online Website,27,6050,5,5,28737.5,4.1
+SAR10204,2026-08-16,August,2026Q3,Kerala,Thrissur,Ready-to-Wear,Synthetic Blend,Office Wear,Online Website,26,3350,15,7,19932.5,3.8
+SAR10205,2026-04-21,April,2026Q2,Karnataka,Bengaluru,Handloom,Handloom,Daily Wear,Offline Store,36,3050,5,6,17385.0,4.5
+SAR10206,2026-04-15,April,2026Q2,Karnataka,Bengaluru,Cotton,Cotton,Wedding,Marketplace,49,1200,15,8,8160.0,3.7
+SAR10207,2026-02-04,February,2026Q1,Tamil Nadu,Coimbatore,Georgette,Georgette,Office Wear,Social Commerce,39,1600,15,7,9520.0,4.5
+SAR10208,2026-11-07,November,2026Q4,Karnataka,Bengaluru,Linen,Linen,Festival,Online Website,21,1800,10,9,14580.0,4.5
+SAR10209,2026-01-26,January,2026Q1,Karnataka,Bengaluru,Linen,Linen,Festival,Online Website,21,1600,0,10,16000.0,4.9
+SAR10210,2026-11-05,November,2026Q4,Maharashtra,Mumbai,Ready-to-Wear,Synthetic Blend,Party,Online Website,35,3750,10,6,20250.0,4.0
+SAR10211,2026-04-04,April,2026Q2,Maharashtra,Mumbai,Designer,Synthetic Blend,Daily Wear,Social Commerce,27,5300,15,2,9010.0,3.6
+SAR10212,2026-05-30,May,2026Q2,Tamil Nadu,Erode,Cotton,Cotton,Daily Wear,Online Website,33,1300,10,7,8190.0,3.1
+SAR10213,2026-07-29,July,2026Q3,Gujarat,Ahmedabad,Linen,Linen,Festival,Offline Store,28,3650,15,6,18615.0,4.5
+SAR10214,2026-09-22,September,2026Q3,Delhi NCR,Gurugram,Chiffon,Chiffon,Office Wear,Marketplace,52,2500,15,4,8500.0,4.1
+SAR10215,2026-03-21,March,2026Q1,Delhi NCR,Gurugram,Designer,Synthetic Blend,Party,Offline Store,36,7400,5,3,21090.0,4.0
+SAR10216,2026-06-26,June,2026Q2,Karnataka,Mysuru,Designer,Synthetic Blend,Daily Wear,Offline Store,25,6800,20,3,16320.0,3.9
+SAR10217,2026-08-06,August,2026Q3,Gujarat,Ahmedabad,Organza,Organza,Daily Wear,Marketplace,22,4350,15,8,29580.0,4.4
+SAR10218,2026-01-20,January,2026Q1,Delhi NCR,Gurugram,Cotton,Cotton,Daily Wear,Online Website,30,1150,10,6,6210.0,3.9
+SAR10219,2026-10-20,October,2026Q4,West Bengal,Howrah,Banarasi Silk,Silk,Wedding,Offline Store,28,9200,10,3,24840.0,4.2
+SAR10220,2026-03-19,March,2026Q1,Telangana,Warangal,Designer,Synthetic Blend,Party,Offline Store,22,4150,15,3,10582.5,3.2
+SAR10221,2026-06-13,June,2026Q2,Gujarat,Surat,Linen,Linen,Daily Wear,Online Website,49,1600,15,7,9520.0,4.8
+SAR10222,2026-10-29,October,2026Q4,Delhi NCR,Delhi,Cotton,Cotton,Party,Online Website,50,1400,15,13,15470.0,4.4
+SAR10223,2026-12-01,December,2026Q4,Gujarat,Surat,Cotton,Cotton,Festival,Offline Store,28,1500,5,14,19950.0,4.3
+SAR10224,2026-06-28,June,2026Q2,Delhi NCR,Noida,Cotton,Cotton,Wedding,Offline Store,38,1000,10,7,6300.0,4.2
+SAR10225,2026-01-27,January,2026Q1,Gujarat,Ahmedabad,Ready-to-Wear,Synthetic Blend,Daily Wear,Online Website,27,3100,5,9,26505.0,4.5
+SAR10226,2026-11-04,November,2026Q4,Maharashtra,Mumbai,Designer,Synthetic Blend,Office Wear,Offline Store,37,7900,20,3,18960.0,3.4
+SAR10227,2026-01-10,January,2026Q1,Tamil Nadu,Erode,Georgette,Georgette,Gift,Online Website,27,1550,15,8,10540.0,4.6
+SAR10228,2026-10-06,October,2026Q4,West Bengal,Kolkata,Kanjivaram Silk,Silk,Festival,Social Commerce,54,13350,10,2,24030.0,3.8
+SAR10229,2026-12-16,December,2026Q4,Kerala,Thrissur,Cotton,Cotton,Daily Wear,Marketplace,24,1100,10,7,6930.0,4.8
+SAR10230,2026-08-12,August,2026Q3,Tamil Nadu,Madurai,Cotton,Cotton,Daily Wear,Offline Store,27,1150,5,13,14202.5,4.7
+SAR10231,2026-12-14,December,2026Q4,Tamil Nadu,Chennai,Designer,Synthetic Blend,Daily Wear,Online Website,34,6250,10,3,16875.0,4.3
+SAR10232,2026-01-10,January,2026Q1,Gujarat,Surat,Organza,Organza,Party,Online Website,18,4150,25,9,28012.5,3.8
+SAR10233,2026-06-19,June,2026Q2,Karnataka,Mysuru,Linen,Linen,Wedding,Social Commerce,46,2750,10,5,12375.0,3.6
+SAR10234,2026-05-10,May,2026Q2,West Bengal,Kolkata,Organza,Organza,Daily Wear,Online Website,25,3050,20,9,21960.0,4.1
+SAR10235,2026-11-08,November,2026Q4,Gujarat,Ahmedabad,Organza,Organza,Gift,Marketplace,28,3000,10,8,21600.0,4.7
+SAR10236,2026-03-07,March,2026Q1,Delhi NCR,Gurugram,Chiffon,Chiffon,Festival,Offline Store,46,1250,0,10,12500.0,4.7
+SAR10237,2026-11-23,November,2026Q4,Kerala,Thrissur,Linen,Linen,Festival,Offline Store,48,3150,15,7,18742.5,3.9
+SAR10238,2026-07-21,July,2026Q3,Kerala,Thrissur,Georgette,Georgette,Daily Wear,Offline Store,18,2700,10,9,21870.0,3.9
+SAR10239,2026-01-05,January,2026Q1,Maharashtra,Pune,Georgette,Georgette,Wedding,Online Website,43,2050,0,5,10250.0,3.8
+SAR10240,2026-06-30,June,2026Q2,Tamil Nadu,Coimbatore,Ready-to-Wear,Synthetic Blend,Festival,Online Website,37,4850,15,8,32980.0,3.8
+SAR10241,2026-12-08,December,2026Q4,Telangana,Hyderabad,Georgette,Georgette,Daily Wear,Marketplace,39,2050,20,8,13120.0,4.3
+SAR10242,2026-05-21,May,2026Q2,West Bengal,Howrah,Kanjivaram Silk,Silk,Wedding,Offline Store,35,10400,20,4,33280.0,4.3
+SAR10243,2026-02-23,February,2026Q1,Karnataka,Mysuru,Banarasi Silk,Silk,Gift,Marketplace,22,5600,5,2,10640.0,4.8
+SAR10244,2026-02-13,February,2026Q1,Delhi NCR,Noida,Ready-to-Wear,Synthetic Blend,Party,Offline Store,29,3900,15,7,23205.0,4.1
+SAR10245,2026-12-17,December,2026Q4,Maharashtra,Mumbai,Linen,Linen,Festival,Offline Store,42,3250,10,5,14625.0,3.5
+SAR10246,2026-08-20,August,2026Q3,Tamil Nadu,Madurai,Chiffon,Chiffon,Party,Offline Store,29,1950,10,12,21060.0,4.0
+SAR10247,2026-02-16,February,2026Q1,Tamil Nadu,Coimbatore,Cotton,Cotton,Wedding,Offline Store,32,1750,15,9,13387.5,4.0
+SAR10248,2026-10-16,October,2026Q4,Delhi NCR,Delhi,Cotton,Cotton,Daily Wear,Offline Store,21,1400,10,6,7560.0,4.9
+SAR10249,2026-03-11,March,2026Q1,Gujarat,Ahmedabad,Cotton,Cotton,Festival,Online Website,44,1500,25,4,4500.0,3.3
+SAR10250,2026-05-18,May,2026Q2,Maharashtra,Pune,Handloom,Handloom,Party,Marketplace,18,2850,5,8,21660.0,3.9
+SAR10251,2026-09-10,September,2026Q3,Tamil Nadu,Chennai,Linen,Linen,Gift,Marketplace,34,2700,5,10,25650.0,4.0
+SAR10252,2026-08-08,August,2026Q3,West Bengal,Kolkata,Linen,Linen,Party,Social Commerce,36,1850,15,9,14152.5,4.3
+SAR10253,2026-04-21,April,2026Q2,Kerala,Kochi,Cotton,Cotton,Festival,Offline Store,39,1150,5,9,9832.5,4.4
+SAR10254,2026-11-15,November,2026Q4,Karnataka,Mysuru,Organza,Organza,Festival,Offline Store,18,3850,15,5,16362.5,5.0
+SAR10255,2026-02-02,February,2026Q1,Delhi NCR,Noida,Organza,Organza,Festival,Offline Store,52,2900,10,8,20880.0,4.2
+SAR10256,2026-01-20,January,2026Q1,Karnataka,Mysuru,Handloom,Handloom,Festival,Marketplace,50,2100,10,8,15120.0,3.6
+SAR10257,2026-02-22,February,2026Q1,Maharashtra,Pune,Georgette,Georgette,Office Wear,Offline Store,35,1650,5,5,7837.5,4.2
+SAR10258,2026-03-30,March,2026Q1,Kerala,Kochi,Chiffon,Chiffon,Wedding,Offline Store,38,1350,15,5,5737.5,4.4
+SAR10259,2026-09-08,September,2026Q3,West Bengal,Kolkata,Designer,Synthetic Blend,Office Wear,Offline Store,40,6050,15,6,30855.0,4.2
+SAR10260,2026-06-12,June,2026Q2,Maharashtra,Mumbai,Organza,Organza,Party,Offline Store,28,2300,20,4,7360.0,3.3
+SAR10261,2026-01-05,January,2026Q1,Karnataka,Mysuru,Designer,Synthetic Blend,Gift,Offline Store,29,4650,0,4,18600.0,3.8
+SAR10262,2026-09-06,September,2026Q3,Karnataka,Bengaluru,Georgette,Georgette,Gift,Offline Store,28,2650,15,6,13515.0,3.7
+SAR10263,2026-11-12,November,2026Q4,Kerala,Kochi,Banarasi Silk,Silk,Festival,Offline Store,49,11350,0,4,45400.0,4.4
+SAR10264,2026-09-27,September,2026Q3,Maharashtra,Pune,Handloom,Handloom,Party,Offline Store,27,3050,25,9,20587.5,5.0
+SAR10265,2026-02-16,February,2026Q1,Tamil Nadu,Madurai,Georgette,Georgette,Office Wear,Offline Store,36,2400,10,7,15120.0,4.2
+SAR10266,2026-01-23,January,2026Q1,Maharashtra,Pune,Cotton,Cotton,Party,Offline Store,39,1500,10,9,12150.0,4.8
+SAR10267,2026-10-30,October,2026Q4,Telangana,Warangal,Kanjivaram Silk,Silk,Wedding,Online Website,42,5500,15,3,14025.0,4.2
+SAR10268,2026-08-26,August,2026Q3,West Bengal,Howrah,Cotton,Cotton,Daily Wear,Online Website,45,1650,10,13,19305.0,4.5
+SAR10269,2026-10-27,October,2026Q4,Gujarat,Surat,Linen,Linen,Office Wear,Online Website,33,2100,0,11,23100.0,4.0
+SAR10270,2026-09-06,September,2026Q3,Telangana,Warangal,Organza,Organza,Daily Wear,Online Website,42,3800,5,8,28880.0,4.4
+SAR10271,2026-05-06,May,2026Q2,Maharashtra,Mumbai,Organza,Organza,Daily Wear,Online Website,36,2250,0,10,22500.0,4.4
+SAR10272,2026-10-13,October,2026Q4,Kerala,Thrissur,Chiffon,Chiffon,Wedding,Offline Store,52,2150,10,7,13545.0,3.8
+SAR10273,2026-11-03,November,2026Q4,Karnataka,Mysuru,Linen,Linen,Office Wear,Offline Store,28,2500,15,5,10625.0,4.7
+SAR10274,2026-03-16,March,2026Q1,Maharashtra,Pune,Kanjivaram Silk,Silk,Office Wear,Offline Store,47,8850,5,4,33630.0,4.3
+SAR10275,2026-04-04,April,2026Q2,Kerala,Kochi,Kanjivaram Silk,Silk,Festival,Offline Store,32,7950,20,6,38160.0,4.2
+SAR10276,2026-12-05,December,2026Q4,Maharashtra,Pune,Designer,Synthetic Blend,Wedding,Offline Store,42,6550,5,6,37335.0,3.9
+SAR10277,2026-02-08,February,2026Q1,West Bengal,Kolkata,Designer,Synthetic Blend,Party,Offline Store,38,5350,20,4,17120.0,4.1
+SAR10278,2026-03-06,March,2026Q1,Telangana,Warangal,Georgette,Georgette,Party,Offline Store,42,1700,20,10,13600.0,3.6
+SAR10279,2026-10-05,October,2026Q4,Gujarat,Ahmedabad,Organza,Organza,Daily Wear,Offline Store,28,2950,5,10,28025.0,3.8
+SAR10280,2026-06-20,June,2026Q2,Delhi NCR,Gurugram,Handloom,Handloom,Wedding,Offline Store,25,3600,15,6,18360.0,4.8
+SAR10281,2026-04-16,April,2026Q2,Maharashtra,Pune,Ready-to-Wear,Synthetic Blend,Gift,Offline Store,18,5000,10,9,40500.0,4.0
+SAR10282,2026-03-02,March,2026Q1,Karnataka,Mysuru,Georgette,Georgette,Daily Wear,Offline Store,28,3100,25,5,11625.0,4.2
+SAR10283,2026-11-15,November,2026Q4,Telangana,Warangal,Georgette,Georgette,Festival,Marketplace,38,2300,0,9,20700.0,4.5
+SAR10284,2026-03-23,March,2026Q1,Kerala,Kochi,Organza,Organza,Office Wear,Online Website,46,2950,15,7,17552.5,3.9
+SAR10285,2026-03-05,March,2026Q1,Gujarat,Surat,Georgette,Georgette,Festival,Offline Store,38,3150,0,8,25200.0,3.7
+SAR10286,2026-08-27,August,2026Q3,Maharashtra,Mumbai,Linen,Linen,Festival,Offline Store,34,2100,10,13,24570.0,4.0
+SAR10287,2026-10-26,October,2026Q4,Maharashtra,Pune,Linen,Linen,Wedding,Offline Store,34,1950,15,9,14917.5,4.7
+SAR10288,2026-11-22,November,2026Q4,Tamil Nadu,Chennai,Cotton,Cotton,Festival,Offline Store,38,1750,15,11,16362.5,3.4
+SAR10289,2026-10-03,October,2026Q4,West Bengal,Howrah,Ready-to-Wear,Synthetic Blend,Daily Wear,Marketplace,38,3650,10,8,26280.0,3.4
+SAR10290,2026-06-02,June,2026Q2,Maharashtra,Pune,Ready-to-Wear,Synthetic Blend,Office Wear,Online Website,41,2500,10,6,13500.0,4.2
+SAR10291,2026-04-01,April,2026Q2,Maharashtra,Mumbai,Organza,Organza,Festival,Online Website,37,2550,20,7,14280.0,4.6
+SAR10292,2026-06-17,June,2026Q2,Tamil Nadu,Chennai,Organza,Organza,Gift,Offline Store,40,3500,5,5,16625.0,4.0
+SAR10293,2026-04-17,April,2026Q2,Delhi NCR,Delhi,Cotton,Cotton,Party,Offline Store,28,1450,0,9,13050.0,4.5
+SAR10294,2026-07-13,July,2026Q3,Gujarat,Surat,Cotton,Cotton,Office Wear,Online Website,38,1550,0,7,10850.0,3.9
+SAR10295,2026-05-03,May,2026Q2,Delhi NCR,Noida,Georgette,Georgette,Gift,Offline Store,43,1700,20,5,6800.0,4.3
+SAR10296,2026-07-13,July,2026Q3,Gujarat,Ahmedabad,Handloom,Handloom,Festival,Marketplace,38,1900,10,6,10260.0,3.8
+SAR10297,2026-01-25,January,2026Q1,Kerala,Kochi,Chiffon,Chiffon,Party,Social Commerce,61,1250,15,6,6375.0,4.9
+SAR10298,2026-05-04,May,2026Q2,West Bengal,Howrah,Linen,Linen,Wedding,Marketplace,19,1900,10,7,11970.0,4.3
+SAR10299,2026-01-10,January,2026Q1,Maharashtra,Pune,Georgette,Georgette,Wedding,Online Website,36,1450,15,11,13557.5,4.4
+SAR10300,2026-11-23,November,2026Q4,Delhi NCR,Gurugram,Kanjivaram Silk,Silk,Party,Online Website,51,9150,0,5,45750.0,3.7
+SAR10301,2026-04-04,April,2026Q2,Delhi NCR,Gurugram,Organza,Organza,Daily Wear,Online Website,18,3850,10,4,13860.0,4.4
+SAR10302,2026-03-05,March,2026Q1,West Bengal,Kolkata,Designer,Synthetic Blend,Office Wear,Marketplace,27,8350,5,2,15865.0,4.8
+SAR10303,2026-11-05,November,2026Q4,Gujarat,Surat,Organza,Organza,Wedding,Online Website,42,4100,5,8,31160.0,4.1
+SAR10304,2026-03-09,March,2026Q1,Tamil Nadu,Erode,Linen,Linen,Daily Wear,Offline Store,45,2600,25,10,19500.0,4.5
+SAR10305,2026-05-09,May,2026Q2,Karnataka,Bengaluru,Cotton,Cotton,Wedding,Offline Store,25,1700,5,14,22610.0,4.5
+SAR10306,2026-06-30,June,2026Q2,Delhi NCR,Gurugram,Georgette,Georgette,Wedding,Online Website,32,2050,10,3,5535.0,4.2
+SAR10307,2026-04-05,April,2026Q2,Maharashtra,Pune,Kanjivaram Silk,Silk,Daily Wear,Offline Store,46,10000,15,4,34000.0,4.5
+SAR10308,2026-12-13,December,2026Q4,Maharashtra,Pune,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,38,2900,15,5,12325.0,3.7
+SAR10309,2026-12-12,December,2026Q4,Kerala,Kochi,Designer,Synthetic Blend,Office Wear,Offline Store,36,7050,10,6,38070.0,4.2
+SAR10310,2026-09-06,September,2026Q3,Delhi NCR,Noida,Cotton,Cotton,Festival,Online Website,38,1700,0,5,8500.0,4.5
+SAR10311,2026-08-18,August,2026Q3,Tamil Nadu,Madurai,Cotton,Cotton,Party,Social Commerce,44,1150,20,9,8280.0,3.9
+SAR10312,2026-09-24,September,2026Q3,Kerala,Kochi,Designer,Synthetic Blend,Office Wear,Offline Store,65,6600,15,6,33660.0,4.8
+SAR10313,2026-08-18,August,2026Q3,Maharashtra,Pune,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,42,4700,0,11,51700.0,4.0
+SAR10314,2026-11-11,November,2026Q4,Tamil Nadu,Erode,Cotton,Cotton,Party,Online Website,18,1650,15,8,11220.0,4.6
+SAR10315,2026-12-10,December,2026Q4,Tamil Nadu,Chennai,Ready-to-Wear,Synthetic Blend,Daily Wear,Marketplace,35,2800,10,5,12600.0,4.4
+SAR10316,2026-05-09,May,2026Q2,Kerala,Thrissur,Georgette,Georgette,Office Wear,Marketplace,29,2750,10,8,19800.0,5.0
+SAR10317,2026-09-30,September,2026Q3,Telangana,Warangal,Designer,Synthetic Blend,Office Wear,Offline Store,47,8950,15,4,30430.0,4.3
+SAR10318,2026-04-18,April,2026Q2,Karnataka,Mysuru,Ready-to-Wear,Synthetic Blend,Party,Offline Store,51,2700,15,11,25245.0,4.9
+SAR10319,2026-06-29,June,2026Q2,Gujarat,Surat,Chiffon,Chiffon,Party,Online Website,58,1400,10,3,3780.0,4.1
+SAR10320,2026-06-22,June,2026Q2,West Bengal,Kolkata,Organza,Organza,Festival,Online Website,38,3500,15,6,17850.0,4.4
+SAR10321,2026-04-09,April,2026Q2,Karnataka,Bengaluru,Linen,Linen,Party,Offline Store,32,2600,0,8,20800.0,4.3
+SAR10322,2026-03-17,March,2026Q1,Telangana,Warangal,Cotton,Cotton,Daily Wear,Online Website,55,1550,0,5,7750.0,3.7
+SAR10323,2026-10-04,October,2026Q4,Maharashtra,Pune,Chiffon,Chiffon,Daily Wear,Online Website,20,1850,25,7,9712.5,4.0
+SAR10324,2026-10-01,October,2026Q4,Delhi NCR,Gurugram,Georgette,Georgette,Festival,Offline Store,43,2450,15,12,24990.0,3.6
+SAR10325,2026-01-11,January,2026Q1,Tamil Nadu,Madurai,Linen,Linen,Festival,Online Website,19,2450,10,11,24255.0,3.9
+SAR10326,2026-08-02,August,2026Q3,Kerala,Kochi,Linen,Linen,Daily Wear,Marketplace,24,2300,15,7,13685.0,3.9
+SAR10327,2026-09-30,September,2026Q3,Delhi NCR,Noida,Designer,Synthetic Blend,Office Wear,Marketplace,33,4700,10,3,12690.0,4.7
+SAR10328,2026-11-22,November,2026Q4,Telangana,Warangal,Georgette,Georgette,Office Wear,Online Website,24,2200,20,10,17600.0,4.1
+SAR10329,2026-11-17,November,2026Q4,Delhi NCR,Noida,Chiffon,Chiffon,Party,Online Website,25,2750,5,6,15675.0,3.8
+SAR10330,2026-07-22,July,2026Q3,Gujarat,Surat,Cotton,Cotton,Festival,Offline Store,18,1300,5,6,7410.0,3.7
+SAR10331,2026-11-29,November,2026Q4,Delhi NCR,Noida,Georgette,Georgette,Gift,Offline Store,35,2050,15,13,22652.5,3.9
+SAR10332,2026-10-15,October,2026Q4,Gujarat,Surat,Linen,Linen,Office Wear,Marketplace,28,2300,5,7,15295.0,3.8
+SAR10333,2026-05-17,May,2026Q2,Delhi NCR,Delhi,Ready-to-Wear,Synthetic Blend,Daily Wear,Social Commerce,41,4900,25,4,14700.0,4.4
+SAR10334,2026-03-29,March,2026Q1,Delhi NCR,Delhi,Ready-to-Wear,Synthetic Blend,Gift,Marketplace,22,2500,5,7,16625.0,4.4
+SAR10335,2026-09-14,September,2026Q3,Karnataka,Mysuru,Ready-to-Wear,Synthetic Blend,Wedding,Online Website,37,3200,15,8,21760.0,4.6
+SAR10336,2026-06-22,June,2026Q2,Kerala,Kochi,Cotton,Cotton,Wedding,Offline Store,21,1300,10,6,7020.0,3.4
+SAR10337,2026-05-12,May,2026Q2,Delhi NCR,Delhi,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,24,4200,0,8,33600.0,3.6
+SAR10338,2026-05-31,May,2026Q2,Tamil Nadu,Madurai,Chiffon,Chiffon,Daily Wear,Marketplace,26,1900,15,7,11305.0,3.1
+SAR10339,2026-06-06,June,2026Q2,Delhi NCR,Delhi,Designer,Synthetic Blend,Festival,Offline Store,26,3050,15,4,10370.0,3.3
+SAR10340,2026-11-23,November,2026Q4,Tamil Nadu,Coimbatore,Cotton,Cotton,Daily Wear,Offline Store,38,1500,20,10,12000.0,4.0
+SAR10341,2026-08-17,August,2026Q3,Karnataka,Bengaluru,Organza,Organza,Wedding,Offline Store,18,1850,15,10,15725.0,4.0
+SAR10342,2026-11-05,November,2026Q4,Gujarat,Surat,Georgette,Georgette,Wedding,Offline Store,37,1450,0,13,18850.0,3.7
+SAR10343,2026-03-19,March,2026Q1,Kerala,Thrissur,Cotton,Cotton,Office Wear,Marketplace,22,1700,15,6,8670.0,4.9
+SAR10344,2026-12-11,December,2026Q4,Telangana,Warangal,Ready-to-Wear,Synthetic Blend,Office Wear,Online Website,32,3700,0,8,29600.0,3.3
+SAR10345,2026-08-30,August,2026Q3,Gujarat,Ahmedabad,Kanjivaram Silk,Silk,Office Wear,Marketplace,22,6400,15,4,21760.0,5.0
+SAR10346,2026-09-06,September,2026Q3,Gujarat,Ahmedabad,Organza,Organza,Office Wear,Online Website,20,3200,20,5,12800.0,4.7
+SAR10347,2026-03-19,March,2026Q1,Kerala,Kochi,Handloom,Handloom,Wedding,Offline Store,47,3200,10,6,17280.0,3.8
+SAR10348,2026-09-17,September,2026Q3,Tamil Nadu,Madurai,Kanjivaram Silk,Silk,Gift,Marketplace,44,6700,0,3,20100.0,4.3
+SAR10349,2026-02-05,February,2026Q1,Tamil Nadu,Erode,Georgette,Georgette,Daily Wear,Offline Store,22,1650,5,6,9405.0,4.2
+SAR10350,2026-12-10,December,2026Q4,Telangana,Warangal,Linen,Linen,Daily Wear,Social Commerce,26,3350,15,4,11390.0,3.3
+SAR10351,2026-11-10,November,2026Q4,Delhi NCR,Delhi,Organza,Organza,Gift,Offline Store,37,2250,10,10,20250.0,3.9
+SAR10352,2026-04-16,April,2026Q2,Karnataka,Mysuru,Cotton,Cotton,Gift,Online Website,39,1600,0,10,16000.0,3.7
+SAR10353,2026-08-27,August,2026Q3,Maharashtra,Pune,Georgette,Georgette,Daily Wear,Online Website,34,1450,0,7,10150.0,4.3
+SAR10354,2026-08-06,August,2026Q3,West Bengal,Kolkata,Designer,Synthetic Blend,Gift,Marketplace,54,6950,15,4,23630.0,4.7
+SAR10355,2026-05-13,May,2026Q2,Delhi NCR,Gurugram,Designer,Synthetic Blend,Party,Offline Store,35,3450,0,3,10350.0,4.8
+SAR10356,2026-07-11,July,2026Q3,Karnataka,Mysuru,Organza,Organza,Daily Wear,Offline Store,18,2650,5,7,17622.5,4.5
+SAR10357,2026-12-18,December,2026Q4,Tamil Nadu,Erode,Kanjivaram Silk,Silk,Wedding,Offline Store,27,9000,20,6,43200.0,4.2
+SAR10358,2026-04-17,April,2026Q2,Telangana,Warangal,Georgette,Georgette,Gift,Marketplace,30,2800,10,7,17640.0,4.7
+SAR10359,2026-08-23,August,2026Q3,Maharashtra,Mumbai,Ready-to-Wear,Synthetic Blend,Office Wear,Online Website,22,2300,20,11,20240.0,4.3
+SAR10360,2026-10-15,October,2026Q4,Tamil Nadu,Chennai,Banarasi Silk,Silk,Party,Marketplace,43,5200,10,3,14040.0,4.1
+SAR10361,2026-12-11,December,2026Q4,Karnataka,Bengaluru,Handloom,Handloom,Wedding,Offline Store,45,2800,5,10,26600.0,3.6
+SAR10362,2026-07-09,July,2026Q3,Gujarat,Surat,Handloom,Handloom,Party,Social Commerce,44,3250,10,4,11700.0,4.2
+SAR10363,2026-12-23,December,2026Q4,Maharashtra,Pune,Kanjivaram Silk,Silk,Daily Wear,Online Website,28,13500,10,4,48600.0,4.3
+SAR10364,2026-05-08,May,2026Q2,Karnataka,Bengaluru,Cotton,Cotton,Gift,Online Website,21,1600,15,12,16320.0,4.1
+SAR10365,2026-01-13,January,2026Q1,Tamil Nadu,Madurai,Organza,Organza,Office Wear,Marketplace,38,3400,5,3,9690.0,4.1
+SAR10366,2026-08-05,August,2026Q3,West Bengal,Kolkata,Cotton,Cotton,Daily Wear,Offline Store,38,1500,15,9,11475.0,5.0
+SAR10367,2026-09-27,September,2026Q3,Gujarat,Surat,Georgette,Georgette,Wedding,Marketplace,25,3200,5,9,27360.0,4.3
+SAR10368,2026-07-18,July,2026Q3,Delhi NCR,Delhi,Linen,Linen,Gift,Offline Store,27,1750,0,6,10500.0,4.4
+SAR10369,2026-03-24,March,2026Q1,Karnataka,Bengaluru,Handloom,Handloom,Party,Offline Store,31,3550,10,7,22365.0,4.0
+SAR10370,2026-10-02,October,2026Q4,Tamil Nadu,Madurai,Handloom,Handloom,Wedding,Marketplace,28,4150,5,5,19712.5,3.2
+SAR10371,2026-02-10,February,2026Q1,Tamil Nadu,Erode,Georgette,Georgette,Daily Wear,Offline Store,33,2650,5,9,22657.5,3.9
+SAR10372,2026-11-21,November,2026Q4,West Bengal,Kolkata,Cotton,Cotton,Gift,Offline Store,36,1300,15,15,16575.0,3.9
+SAR10373,2026-10-26,October,2026Q4,Gujarat,Surat,Banarasi Silk,Silk,Gift,Offline Store,23,10550,15,6,53805.0,4.3
+SAR10374,2026-12-22,December,2026Q4,Gujarat,Ahmedabad,Cotton,Cotton,Gift,Social Commerce,47,1700,20,8,10880.0,4.3
+SAR10375,2026-05-06,May,2026Q2,Delhi NCR,Delhi,Ready-to-Wear,Synthetic Blend,Gift,Offline Store,41,3000,5,7,19950.0,4.3
+SAR10376,2026-06-07,June,2026Q2,Karnataka,Bengaluru,Cotton,Cotton,Daily Wear,Online Website,25,1050,0,7,7350.0,3.4
+SAR10377,2026-03-30,March,2026Q1,Tamil Nadu,Madurai,Ready-to-Wear,Synthetic Blend,Wedding,Marketplace,44,3300,10,4,11880.0,3.9
+SAR10378,2026-12-22,December,2026Q4,Telangana,Warangal,Designer,Synthetic Blend,Office Wear,Offline Store,32,5450,10,5,24525.0,4.8
+SAR10379,2026-02-15,February,2026Q1,Telangana,Warangal,Organza,Organza,Daily Wear,Marketplace,40,3850,10,3,10395.0,5.0
+SAR10380,2026-01-13,January,2026Q1,Maharashtra,Pune,Kanjivaram Silk,Silk,Daily Wear,Offline Store,20,6150,0,5,30750.0,3.7
+SAR10381,2026-01-12,January,2026Q1,Telangana,Warangal,Kanjivaram Silk,Silk,Office Wear,Offline Store,31,9300,25,6,41850.0,3.6
+SAR10382,2026-02-17,February,2026Q1,Maharashtra,Mumbai,Georgette,Georgette,Office Wear,Offline Store,33,2600,0,10,26000.0,4.4
+SAR10383,2026-08-05,August,2026Q3,Karnataka,Mysuru,Cotton,Cotton,Daily Wear,Online Website,18,1250,5,8,9500.0,3.7
+SAR10384,2026-06-08,June,2026Q2,Tamil Nadu,Chennai,Organza,Organza,Office Wear,Marketplace,24,3050,20,3,7320.0,4.4
+SAR10385,2026-04-16,April,2026Q2,Karnataka,Mysuru,Linen,Linen,Party,Marketplace,36,2800,5,9,23940.0,4.3
+SAR10386,2026-07-15,July,2026Q3,Telangana,Hyderabad,Designer,Synthetic Blend,Wedding,Offline Store,22,3850,5,2,7315.0,4.2
+SAR10387,2026-09-20,September,2026Q3,Karnataka,Mysuru,Ready-to-Wear,Synthetic Blend,Party,Online Website,38,4950,20,11,43560.0,4.3
+SAR10388,2026-11-01,November,2026Q4,Maharashtra,Pune,Organza,Organza,Party,Social Commerce,30,4100,5,3,11685.0,4.8
+SAR10389,2026-10-10,October,2026Q4,Tamil Nadu,Chennai,Linen,Linen,Office Wear,Marketplace,29,1950,0,10,19500.0,4.2
+SAR10390,2026-02-08,February,2026Q1,Karnataka,Mysuru,Cotton,Cotton,Wedding,Offline Store,37,1200,0,7,8400.0,3.8
+SAR10391,2026-08-15,August,2026Q3,Telangana,Warangal,Linen,Linen,Wedding,Offline Store,31,2050,15,6,10455.0,4.1
+SAR10392,2026-07-16,July,2026Q3,Maharashtra,Pune,Banarasi Silk,Silk,Office Wear,Online Website,48,4900,10,2,8820.0,3.9
+SAR10393,2026-07-28,July,2026Q3,Delhi NCR,Gurugram,Cotton,Cotton,Office Wear,Offline Store,40,1300,10,4,4680.0,4.9
+SAR10394,2026-11-02,November,2026Q4,Kerala,Kochi,Cotton,Cotton,Festival,Marketplace,28,1150,15,8,7820.0,4.1
+SAR10395,2026-02-04,February,2026Q1,West Bengal,Kolkata,Designer,Synthetic Blend,Office Wear,Offline Store,35,4500,15,5,19125.0,4.9
+SAR10396,2026-10-04,October,2026Q4,West Bengal,Kolkata,Ready-to-Wear,Synthetic Blend,Party,Offline Store,21,5150,10,5,23175.0,3.7
+SAR10397,2026-08-02,August,2026Q3,Karnataka,Bengaluru,Linen,Linen,Party,Online Website,20,1900,10,11,18810.0,4.4
+SAR10398,2026-03-06,March,2026Q1,Kerala,Thrissur,Linen,Linen,Festival,Offline Store,49,3050,25,4,9150.0,4.5
+SAR10399,2026-04-27,April,2026Q2,Telangana,Warangal,Handloom,Handloom,Festival,Online Website,21,3550,10,6,19170.0,4.2
+SAR10400,2026-05-21,May,2026Q2,Maharashtra,Pune,Organza,Organza,Gift,Offline Store,31,4250,10,6,22950.0,4.0
+SAR10401,2026-05-16,May,2026Q2,Karnataka,Bengaluru,Chiffon,Chiffon,Office Wear,Offline Store,39,2100,5,6,11970.0,4.2
+SAR10402,2026-05-30,May,2026Q2,West Bengal,Howrah,Georgette,Georgette,Wedding,Online Website,45,2700,15,6,13770.0,3.9
+SAR10403,2026-11-20,November,2026Q4,Kerala,Kochi,Designer,Synthetic Blend,Daily Wear,Online Website,18,8700,10,2,15660.0,4.3
+SAR10404,2026-07-10,July,2026Q3,Tamil Nadu,Erode,Ready-to-Wear,Synthetic Blend,Daily Wear,Offline Store,28,2800,15,9,21420.0,4.4
+SAR10405,2026-06-20,June,2026Q2,Telangana,Hyderabad,Linen,Linen,Festival,Online Website,29,2200,5,5,10450.0,3.7
+SAR10406,2026-11-05,November,2026Q4,West Bengal,Kolkata,Ready-to-Wear,Synthetic Blend,Party,Online Website,34,3600,15,11,33660.0,4.6
+SAR10407,2026-01-13,January,2026Q1,Kerala,Kochi,Linen,Linen,Party,Online Website,39,1750,0,6,10500.0,3.9
+SAR10408,2026-01-05,January,2026Q1,Kerala,Kochi,Kanjivaram Silk,Silk,Daily Wear,Offline Store,43,11300,0,5,56500.0,4.6
+SAR10409,2026-09-08,September,2026Q3,Maharashtra,Pune,Georgette,Georgette,Festival,Offline Store,39,2300,15,11,21505.0,4.6
+SAR10410,2026-08-20,August,2026Q3,Tamil Nadu,Madurai,Handloom,Handloom,Office Wear,Offline Store,46,4150,10,11,41085.0,4.1
+SAR10411,2026-09-23,September,2026Q3,West Bengal,Kolkata,Linen,Linen,Daily Wear,Online Website,19,3700,0,10,37000.0,4.0
+SAR10412,2026-12-31,December,2026Q4,West Bengal,Howrah,Organza,Organza,Festival,Offline Store,37,1850,0,10,18500.0,4.7
+SAR10413,2026-07-30,July,2026Q3,Tamil Nadu,Coimbatore,Kanjivaram Silk,Silk,Office Wear,Marketplace,46,9900,10,2,17820.0,3.8
+SAR10414,2026-07-01,July,2026Q3,Tamil Nadu,Coimbatore,Kanjivaram Silk,Silk,Party,Offline Store,35,13850,20,2,22160.0,3.5
+SAR10415,2026-10-04,October,2026Q4,Tamil Nadu,Madurai,Chiffon,Chiffon,Office Wear,Offline Store,18,1250,10,8,9000.0,5.0
+SAR10416,2026-01-08,January,2026Q1,Maharashtra,Pune,Chiffon,Chiffon,Festival,Offline Store,34,2450,10,8,17640.0,3.9
+SAR10417,2026-02-02,February,2026Q1,Tamil Nadu,Madurai,Cotton,Cotton,Festival,Online Website,22,1200,0,6,7200.0,4.2
+SAR10418,2026-12-30,December,2026Q4,Maharashtra,Pune,Banarasi Silk,Silk,Party,Offline Store,44,5050,0,3,15150.0,4.0
+SAR10419,2026-08-18,August,2026Q3,Telangana,Warangal,Kanjivaram Silk,Silk,Wedding,Online Website,19,13800,15,4,46920.0,4.2
+SAR10420,2026-04-02,April,2026Q2,Gujarat,Surat,Banarasi Silk,Silk,Daily Wear,Marketplace,32,8300,25,5,31125.0,4.5
+SAR10421,2026-08-18,August,2026Q3,Maharashtra,Mumbai,Handloom,Handloom,Daily Wear,Social Commerce,45,4900,5,5,23275.0,3.9
+SAR10422,2026-01-28,January,2026Q1,Tamil Nadu,Chennai,Chiffon,Chiffon,Gift,Online Website,28,2350,15,4,7990.0,4.0
+SAR10423,2026-10-01,October,2026Q4,Maharashtra,Pune,Georgette,Georgette,Daily Wear,Online Website,49,2150,10,5,9675.0,4.1
+SAR10424,2026-09-14,September,2026Q3,West Bengal,Howrah,Kanjivaram Silk,Silk,Wedding,Marketplace,18,13550,15,4,46070.0,4.1
+SAR10425,2026-12-13,December,2026Q4,Karnataka,Mysuru,Linen,Linen,Daily Wear,Offline Store,37,1800,5,7,11970.0,3.8
+SAR10426,2026-10-29,October,2026Q4,Kerala,Thrissur,Chiffon,Chiffon,Wedding,Marketplace,39,2100,10,10,18900.0,5.0
+SAR10427,2026-05-26,May,2026Q2,West Bengal,Howrah,Chiffon,Chiffon,Daily Wear,Offline Store,35,1450,0,13,18850.0,4.4
+SAR10428,2026-03-05,March,2026Q1,Maharashtra,Mumbai,Chiffon,Chiffon,Festival,Offline Store,25,2750,5,6,15675.0,4.3
+SAR10429,2026-09-06,September,2026Q3,Delhi NCR,Noida,Linen,Linen,Daily Wear,Offline Store,32,2250,10,10,20250.0,4.0
+SAR10430,2026-05-08,May,2026Q2,West Bengal,Kolkata,Organza,Organza,Office Wear,Marketplace,43,2600,15,8,17680.0,4.3
+SAR10431,2026-09-29,September,2026Q3,Tamil Nadu,Erode,Georgette,Georgette,Office Wear,Online Website,26,2300,20,7,12880.0,3.9
+SAR10432,2026-09-12,September,2026Q3,Telangana,Warangal,Chiffon,Chiffon,Wedding,Marketplace,34,2600,5,9,22230.0,4.0
+SAR10433,2026-04-07,April,2026Q2,Tamil Nadu,Erode,Handloom,Handloom,Wedding,Offline Store,49,3950,10,7,24885.0,4.5
+SAR10434,2026-05-18,May,2026Q2,West Bengal,Howrah,Georgette,Georgette,Office Wear,Offline Store,31,3100,5,6,17670.0,4.3
+SAR10435,2026-10-17,October,2026Q4,Kerala,Thrissur,Ready-to-Wear,Synthetic Blend,Wedding,Offline Store,33,3050,5,11,31872.5,4.6
+SAR10436,2026-03-17,March,2026Q1,Gujarat,Surat,Linen,Linen,Gift,Online Website,18,1750,5,6,9975.0,3.0
+SAR10437,2026-07-03,July,2026Q3,Gujarat,Ahmedabad,Cotton,Cotton,Wedding,Offline Store,38,1750,5,6,9975.0,4.0
+SAR10438,2026-12-17,December,2026Q4,Tamil Nadu,Madurai,Handloom,Handloom,Festival,Offline Store,23,2950,15,7,17552.5,4.3
+SAR10439,2026-12-14,December,2026Q4,Telangana,Hyderabad,Linen,Linen,Daily Wear,Offline Store,37,1600,0,10,16000.0,4.3
+SAR10440,2026-04-20,April,2026Q2,Karnataka,Bengaluru,Ready-to-Wear,Synthetic Blend,Daily Wear,Marketplace,38,3100,15,7,18445.0,4.7
+SAR10441,2026-12-14,December,2026Q4,Telangana,Warangal,Linen,Linen,Office Wear,Marketplace,42,2050,10,9,16605.0,4.5
+SAR10442,2026-04-20,April,2026Q2,Karnataka,Mysuru,Cotton,Cotton,Party,Offline Store,55,1000,15,6,5100.0,3.7
+SAR10443,2026-04-13,April,2026Q2,Tamil Nadu,Madurai,Banarasi Silk,Silk,Daily Wear,Offline Store,18,5300,5,6,30210.0,5.0
+SAR10444,2026-08-24,August,2026Q3,Delhi NCR,Delhi,Designer,Synthetic Blend,Daily Wear,Online Website,31,8450,0,3,25350.0,4.0
+SAR10445,2026-02-04,February,2026Q1,Tamil Nadu,Coimbatore,Designer,Synthetic Blend,Daily Wear,Social Commerce,21,6750,15,2,11475.0,4.3
+SAR10446,2026-01-04,January,2026Q1,Maharashtra,Pune,Cotton,Cotton,Wedding,Offline Store,21,1250,20,6,6000.0,5.0
+SAR10447,2026-02-11,February,2026Q1,Gujarat,Surat,Kanjivaram Silk,Silk,Daily Wear,Offline Store,36,7100,10,2,12780.0,4.2
+SAR10448,2026-04-30,April,2026Q2,Delhi NCR,Gurugram,Cotton,Cotton,Office Wear,Offline Store,39,1000,20,11,8800.0,4.3
+SAR10449,2026-12-24,December,2026Q4,Maharashtra,Pune,Ready-to-Wear,Synthetic Blend,Daily Wear,Marketplace,24,3000,20,4,9600.0,3.9
+SAR10450,2026-09-02,September,2026Q3,Delhi NCR,Noida,Cotton,Cotton,Festival,Marketplace,35,1700,10,5,7650.0,4.4
+SAR10451,2026-05-17,May,2026Q2,Maharashtra,Pune,Linen,Linen,Daily Wear,Online Website,34,2650,10,7,16695.0,3.2
+SAR10452,2026-10-18,October,2026Q4,Karnataka,Bengaluru,Handloom,Handloom,Wedding,Online Website,31,3300,25,9,22275.0,4.2
+SAR10453,2026-08-29,August,2026Q3,Kerala,Kochi,Kanjivaram Silk,Silk,Festival,Marketplace,27,9500,0,3,28500.0,3.4
+SAR10454,2026-05-31,May,2026Q2,Tamil Nadu,Madurai,Georgette,Georgette,Wedding,Social Commerce,30,2600,0,8,20800.0,4.4
+SAR10455,2026-10-04,October,2026Q4,Kerala,Thrissur,Organza,Organza,Wedding,Offline Store,57,3350,5,9,28642.5,4.6
+SAR10456,2026-05-19,May,2026Q2,Maharashtra,Mumbai,Handloom,Handloom,Office Wear,Offline Store,28,3300,10,7,20790.0,3.9
+SAR10457,2026-07-05,July,2026Q3,West Bengal,Howrah,Banarasi Silk,Silk,Daily Wear,Offline Store,39,9700,5,5,46075.0,4.9
+SAR10458,2026-09-19,September,2026Q3,Karnataka,Mysuru,Georgette,Georgette,Daily Wear,Marketplace,35,2050,0,9,18450.0,4.4
+SAR10459,2026-08-03,August,2026Q3,Gujarat,Surat,Georgette,Georgette,Wedding,Online Website,26,2050,20,11,18040.0,4.4
+SAR10460,2026-10-14,October,2026Q4,Telangana,Hyderabad,Cotton,Cotton,Office Wear,Online Website,21,1600,10,7,10080.0,4.7
+SAR10461,2026-02-07,February,2026Q1,Tamil Nadu,Madurai,Cotton,Cotton,Festival,Marketplace,27,1200,10,8,8640.0,3.7
+SAR10462,2026-06-18,June,2026Q2,Telangana,Warangal,Organza,Organza,Office Wear,Offline Store,34,4150,25,7,21787.5,3.6
+SAR10463,2026-09-29,September,2026Q3,Gujarat,Ahmedabad,Designer,Synthetic Blend,Daily Wear,Social Commerce,53,7400,0,2,14800.0,4.2
+SAR10464,2026-10-17,October,2026Q4,Delhi NCR,Gurugram,Ready-to-Wear,Synthetic Blend,Gift,Online Website,23,5200,20,8,33280.0,3.3
+SAR10465,2026-04-10,April,2026Q2,Tamil Nadu,Chennai,Handloom,Handloom,Office Wear,Online Website,26,2200,10,5,9900.0,4.2
+SAR10466,2026-05-17,May,2026Q2,Telangana,Hyderabad,Organza,Organza,Festival,Online Website,27,3350,15,9,25627.5,4.9
+SAR10467,2026-08-08,August,2026Q3,Karnataka,Mysuru,Designer,Synthetic Blend,Daily Wear,Offline Store,32,7400,0,6,44400.0,3.9
+SAR10468,2026-03-10,March,2026Q1,Maharashtra,Mumbai,Ready-to-Wear,Synthetic Blend,Wedding,Offline Store,31,3650,10,9,29565.0,3.7
+SAR10469,2026-11-07,November,2026Q4,Tamil Nadu,Erode,Chiffon,Chiffon,Daily Wear,Offline Store,29,1550,25,6,6975.0,4.6
+SAR10470,2026-11-09,November,2026Q4,Tamil Nadu,Erode,Banarasi Silk,Silk,Wedding,Online Website,32,6200,15,5,26350.0,3.9
+SAR10471,2026-07-09,July,2026Q3,Tamil Nadu,Madurai,Designer,Synthetic Blend,Gift,Offline Store,41,5850,10,4,21060.0,4.0
+SAR10472,2026-08-13,August,2026Q3,Delhi NCR,Noida,Cotton,Cotton,Wedding,Offline Store,43,1550,0,11,17050.0,4.4
+SAR10473,2026-04-27,April,2026Q2,West Bengal,Howrah,Georgette,Georgette,Festival,Social Commerce,40,2900,15,8,19720.0,4.2
+SAR10474,2026-01-16,January,2026Q1,Tamil Nadu,Erode,Organza,Organza,Office Wear,Marketplace,29,2450,10,4,8820.0,3.7
+SAR10475,2026-08-10,August,2026Q3,West Bengal,Howrah,Banarasi Silk,Silk,Daily Wear,Online Website,24,10200,10,3,27540.0,4.4
+SAR10476,2026-09-28,September,2026Q3,Gujarat,Surat,Handloom,Handloom,Wedding,Online Website,44,2600,5,6,14820.0,3.9
+SAR10477,2026-12-29,December,2026Q4,Maharashtra,Mumbai,Cotton,Cotton,Festival,Online Website,38,1200,10,10,10800.0,3.8
+SAR10478,2026-02-25,February,2026Q1,Tamil Nadu,Erode,Chiffon,Chiffon,Daily Wear,Offline Store,46,1700,15,9,13005.0,5.0
+SAR10479,2026-01-04,January,2026Q1,Tamil Nadu,Coimbatore,Banarasi Silk,Silk,Daily Wear,Online Website,48,7350,0,5,36750.0,5.0
+SAR10480,2026-12-24,December,2026Q4,Gujarat,Surat,Ready-to-Wear,Synthetic Blend,Daily Wear,Online Website,42,5150,0,9,46350.0,4.2
+SAR10481,2026-04-27,April,2026Q2,Tamil Nadu,Erode,Designer,Synthetic Blend,Daily Wear,Marketplace,40,8800,15,2,14960.0,4.5
+SAR10482,2026-03-22,March,2026Q1,Maharashtra,Pune,Cotton,Cotton,Daily Wear,Online Website,31,1550,10,4,5580.0,3.9
+SAR10483,2026-10-06,October,2026Q4,Karnataka,Mysuru,Handloom,Handloom,Wedding,Offline Store,44,2550,15,7,15172.5,4.6
+SAR10484,2026-03-29,March,2026Q1,Delhi NCR,Noida,Cotton,Cotton,Daily Wear,Online Website,43,1050,10,9,8505.0,4.2
+SAR10485,2026-02-05,February,2026Q1,Delhi NCR,Noida,Kanjivaram Silk,Silk,Daily Wear,Marketplace,32,13650,0,4,54600.0,5.0
+SAR10486,2026-07-11,July,2026Q3,West Bengal,Howrah,Cotton,Cotton,Wedding,Offline Store,18,1800,10,6,9720.0,4.5
+SAR10487,2026-02-24,February,2026Q1,Maharashtra,Mumbai,Cotton,Cotton,Festival,Online Website,18,1450,10,6,7830.0,4.5
+SAR10488,2026-06-25,June,2026Q2,Tamil Nadu,Erode,Handloom,Handloom,Festival,Offline Store,29,2350,15,7,13982.5,4.4
+SAR10489,2026-12-18,December,2026Q4,Tamil Nadu,Coimbatore,Handloom,Handloom,Wedding,Marketplace,26,3700,20,7,20720.0,2.8
+SAR10490,2026-10-20,October,2026Q4,Telangana,Hyderabad,Ready-to-Wear,Synthetic Blend,Wedding,Offline Store,38,4500,15,6,22950.0,4.2
+SAR10491,2026-08-28,August,2026Q3,Gujarat,Ahmedabad,Cotton,Cotton,Daily Wear,Marketplace,38,1150,0,6,6900.0,3.7
+SAR10492,2026-01-02,January,2026Q1,Kerala,Thrissur,Kanjivaram Silk,Silk,Festival,Social Commerce,36,7750,10,2,13950.0,3.9
+SAR10493,2026-07-30,July,2026Q3,Maharashtra,Pune,Handloom,Handloom,Festival,Marketplace,18,2250,10,4,8100.0,3.7
+SAR10494,2026-03-14,March,2026Q1,Tamil Nadu,Madurai,Georgette,Georgette,Daily Wear,Online Website,48,2250,5,4,8550.0,4.2
+SAR10495,2026-04-15,April,2026Q2,West Bengal,Howrah,Chiffon,Chiffon,Gift,Offline Store,39,2150,5,12,24510.0,5.0
+SAR10496,2026-03-31,March,2026Q1,Maharashtra,Pune,Cotton,Cotton,Party,Marketplace,27,1350,20,6,6480.0,4.8
+SAR10497,2026-05-20,May,2026Q2,Kerala,Kochi,Handloom,Handloom,Wedding,Marketplace,25,3500,10,6,18900.0,4.0
+SAR10498,2026-07-06,July,2026Q3,West Bengal,Howrah,Cotton,Cotton,Daily Wear,Offline Store,22,1550,10,8,11160.0,3.9
+SAR10499,2026-04-07,April,2026Q2,West Bengal,Kolkata,Georgette,Georgette,Daily Wear,Offline Store,33,2050,0,13,26650.0,4.1
+SAR10500,2026-02-12,February,2026Q1,Gujarat,Surat,Banarasi Silk,Silk,Festival,Offline Store,37,8150,0,2,16300.0,3.8
+SAR10501,2026-07-24,July,2026Q3,Karnataka,Bengaluru,Linen,Linen,Festival,Offline Store,25,3100,5,4,11780.0,3.8
+SAR10502,2026-11-23,November,2026Q4,West Bengal,Kolkata,Kanjivaram Silk,Silk,Wedding,Social Commerce,43,13850,15,4,47090.0,2.7
+SAR10503,2026-07-29,July,2026Q3,Gujarat,Surat,Linen,Linen,Daily Wear,Online Website,57,2600,10,5,11700.0,5.0
+SAR10504,2026-01-11,January,2026Q1,Delhi NCR,Gurugram,Organza,Organza,Festival,Online Website,24,4250,5,9,36337.5,3.9
+SAR10505,2026-08-05,August,2026Q3,Kerala,Kochi,Handloom,Handloom,Gift,Online Website,32,2300,15,10,19550.0,3.9
+SAR10506,2026-09-12,September,2026Q3,Tamil Nadu,Erode,Linen,Linen,Gift,Marketplace,26,2200,20,5,8800.0,3.6
+SAR10507,2026-12-14,December,2026Q4,Delhi NCR,Gurugram,Linen,Linen,Party,Marketplace,39,2350,10,9,19035.0,3.9
+SAR10508,2026-07-13,July,2026Q3,Telangana,Hyderabad,Ready-to-Wear,Synthetic Blend,Party,Offline Store,37,4950,5,7,32917.5,3.9
+SAR10509,2026-05-14,May,2026Q2,Tamil Nadu,Erode,Ready-to-Wear,Synthetic Blend,Festival,Online Website,45,2850,5,7,18952.5,3.7
+SAR10510,2026-11-30,November,2026Q4,Telangana,Warangal,Cotton,Cotton,Party,Offline Store,24,1450,10,7,9135.0,4.7
+SAR10511,2026-08-08,August,2026Q3,West Bengal,Kolkata,Ready-to-Wear,Synthetic Blend,Festival,Offline Store,33,4550,5,10,43225.0,4.1
+SAR10512,2026-02-20,February,2026Q1,Kerala,Kochi,Cotton,Cotton,Daily Wear,Online Website,32,1500,10,5,6750.0,3.8
+SAR10513,2026-03-28,March,2026Q1,Kerala,Thrissur,Cotton,Cotton,Festival,Online Website,43,1000,10,11,9900.0,3.9
+SAR10514,2026-07-05,July,2026Q3,Kerala,Kochi,Linen,Linen,Gift,Online Website,36,2100,0,7,14700.0,5.0
+SAR10515,2026-10-08,October,2026Q4,Karnataka,Mysuru,Georgette,Georgette,Gift,Offline Store,34,1400,0,10,14000.0,4.3
+SAR10516,2026-05-03,May,2026Q2,West Bengal,Kolkata,Kanjivaram Silk,Silk,Festival,Offline Store,33,6750,10,3,18225.0,4.9
+SAR10517,2026-09-22,September,2026Q3,Telangana,Hyderabad,Linen,Linen,Festival,Online Website,43,1800,20,6,8640.0,4.3
+SAR10518,2026-11-19,November,2026Q4,Tamil Nadu,Chennai,Ready-to-Wear,Synthetic Blend,Office Wear,Online Website,36,2850,10,6,15390.0,4.4
+SAR10519,2026-02-08,February,2026Q1,Telangana,Hyderabad,Chiffon,Chiffon,Daily Wear,Marketplace,59,2700,0,4,10800.0,4.3
+SAR10520,2026-03-29,March,2026Q1,Telangana,Warangal,Cotton,Cotton,Daily Wear,Offline Store,28,1050,5,10,9975.0,4.1
+SAR10521,2026-05-09,May,2026Q2,Gujarat,Surat,Banarasi Silk,Silk,Festival,Offline Store,33,10100,10,4,36360.0,4.1
+SAR10522,2026-09-13,September,2026Q3,Maharashtra,Pune,Georgette,Georgette,Office Wear,Social Commerce,40,2400,0,6,14400.0,4.5
+SAR10523,2026-04-26,April,2026Q2,Delhi NCR,Delhi,Handloom,Handloom,Daily Wear,Social Commerce,29,2450,20,3,5880.0,3.9
+SAR10524,2026-10-29,October,2026Q4,Gujarat,Ahmedabad,Chiffon,Chiffon,Office Wear,Offline Store,32,2650,15,6,13515.0,4.1
+SAR10525,2026-11-24,November,2026Q4,Telangana,Hyderabad,Georgette,Georgette,Office Wear,Offline Store,25,2850,15,7,16957.5,4.2
+SAR10526,2026-05-31,May,2026Q2,West Bengal,Howrah,Cotton,Cotton,Daily Wear,Marketplace,45,1400,5,11,14630.0,4.1
+SAR10527,2026-09-24,September,2026Q3,Telangana,Hyderabad,Chiffon,Chiffon,Daily Wear,Offline Store,41,2050,5,11,21422.5,4.2
+SAR10528,2026-11-23,November,2026Q4,Maharashtra,Mumbai,Ready-to-Wear,Synthetic Blend,Festival,Offline Store,39,2900,10,10,26100.0,4.4
+SAR10529,2026-10-29,October,2026Q4,Tamil Nadu,Madurai,Linen,Linen,Office Wear,Offline Store,27,3450,5,7,22942.5,4.5
+SAR10530,2026-02-23,February,2026Q1,Tamil Nadu,Coimbatore,Designer,Synthetic Blend,Daily Wear,Online Website,36,8750,15,2,14875.0,4.2
+SAR10531,2026-07-29,July,2026Q3,Delhi NCR,Noida,Chiffon,Chiffon,Daily Wear,Offline Store,38,2550,25,6,11475.0,4.4
+SAR10532,2026-03-26,March,2026Q1,Maharashtra,Mumbai,Georgette,Georgette,Daily Wear,Offline Store,41,3150,20,5,12600.0,3.6
+SAR10533,2026-03-08,March,2026Q1,Maharashtra,Pune,Linen,Linen,Daily Wear,Online Website,21,3400,0,7,23800.0,3.6
+SAR10534,2026-08-23,August,2026Q3,West Bengal,Kolkata,Cotton,Cotton,Daily Wear,Marketplace,32,1650,25,5,6187.5,4.5
+SAR10535,2026-02-23,February,2026Q1,Tamil Nadu,Madurai,Designer,Synthetic Blend,Office Wear,Offline Store,31,4450,0,2,8900.0,4.7
+SAR10536,2026-12-30,December,2026Q4,Kerala,Kochi,Ready-to-Wear,Synthetic Blend,Office Wear,Online Website,40,3650,5,11,38142.5,4.0
+SAR10537,2026-01-29,January,2026Q1,Tamil Nadu,Erode,Banarasi Silk,Silk,Gift,Offline Store,25,9900,5,5,47025.0,3.8
+SAR10538,2026-10-30,October,2026Q4,Tamil Nadu,Erode,Handloom,Handloom,Office Wear,Offline Store,52,3750,5,11,39187.5,4.2
+SAR10539,2026-06-30,June,2026Q2,Telangana,Warangal,Handloom,Handloom,Office Wear,Online Website,34,2300,5,5,10925.0,4.7
+SAR10540,2026-01-04,January,2026Q1,Maharashtra,Pune,Handloom,Handloom,Daily Wear,Marketplace,37,2500,0,7,17500.0,3.7
+SAR10541,2026-05-21,May,2026Q2,Delhi NCR,Gurugram,Kanjivaram Silk,Silk,Daily Wear,Offline Store,38,9600,5,4,36480.0,4.4
+SAR10542,2026-04-09,April,2026Q2,Delhi NCR,Gurugram,Cotton,Cotton,Office Wear,Marketplace,24,1350,10,10,12150.0,4.8
+SAR10543,2026-08-02,August,2026Q3,Tamil Nadu,Madurai,Linen,Linen,Wedding,Online Website,35,2450,15,4,8330.0,3.8
+SAR10544,2026-04-07,April,2026Q2,Maharashtra,Pune,Chiffon,Chiffon,Daily Wear,Offline Store,36,1900,10,6,10260.0,4.0
+SAR10545,2026-04-23,April,2026Q2,Gujarat,Surat,Cotton,Cotton,Wedding,Marketplace,59,1600,10,10,14400.0,4.0
+SAR10546,2026-08-14,August,2026Q3,Telangana,Hyderabad,Georgette,Georgette,Gift,Offline Store,25,1400,15,9,10710.0,5.0
+SAR10547,2026-06-11,June,2026Q2,Tamil Nadu,Madurai,Banarasi Silk,Silk,Daily Wear,Offline Store,46,4650,25,3,10462.5,4.4
+SAR10548,2026-10-06,October,2026Q4,Tamil Nadu,Erode,Cotton,Cotton,Gift,Offline Store,32,1600,5,14,21280.0,4.5
+SAR10549,2026-01-22,January,2026Q1,Kerala,Kochi,Ready-to-Wear,Synthetic Blend,Party,Offline Store,47,2500,20,10,20000.0,4.9
+SAR10550,2026-12-17,December,2026Q4,Maharashtra,Pune,Designer,Synthetic Blend,Wedding,Online Website,43,3450,10,3,9315.0,4.4
+SAR10551,2026-02-18,February,2026Q1,West Bengal,Howrah,Georgette,Georgette,Office Wear,Offline Store,49,2850,10,4,10260.0,3.3
+SAR10552,2026-05-06,May,2026Q2,West Bengal,Kolkata,Cotton,Cotton,Office Wear,Offline Store,28,1100,10,12,11880.0,5.0
+SAR10553,2026-03-01,March,2026Q1,Delhi NCR,Gurugram,Linen,Linen,Wedding,Offline Store,43,2000,20,6,9600.0,4.4
+SAR10554,2026-02-01,February,2026Q1,Kerala,Kochi,Ready-to-Wear,Synthetic Blend,Office Wear,Offline Store,31,3900,25,5,14625.0,3.5
+SAR10555,2026-05-21,May,2026Q2,Karnataka,Mysuru,Cotton,Cotton,Wedding,Online Website,32,950,10,12,10260.0,3.7
+SAR10556,2026-06-27,June,2026Q2,Tamil Nadu,Chennai,Cotton,Cotton,Party,Offline Store,32,1550,0,11,17050.0,3.9
+SAR10557,2026-09-25,September,2026Q3,Tamil Nadu,Madurai,Organza,Organza,Office Wear,Online Website,33,3750,0,6,22500.0,3.7
+SAR10558,2026-07-16,July,2026Q3,Tamil Nadu,Coimbatore,Organza,Organza,Office Wear,Offline Store,47,3950,0,6,23700.0,3.7
+SAR10559,2026-12-11,December,2026Q4,Maharashtra,Mumbai,Banarasi Silk,Silk,Gift,Marketplace,39,10900,5,5,51775.0,4.1
+SAR10560,2026-08-04,August,2026Q3,Gujarat,Ahmedabad,Ready-to-Wear,Synthetic Blend,Festival,Social Commerce,28,4300,15,6,21930.0,3.8
+SAR10561,2026-07-11,July,2026Q3,West Bengal,Howrah,Handloom,Handloom,Festival,Marketplace,25,2200,10,4,7920.0,3.6
+SAR10562,2026-03-20,March,2026Q1,Tamil Nadu,Erode,Banarasi Silk,Silk,Party,Offline Store,35,8550,10,5,38475.0,5.0
+SAR10563,2026-09-03,September,2026Q3,Gujarat,Ahmedabad,Chiffon,Chiffon,Party,Offline Store,47,2700,15,10,22950.0,4.9
+SAR10564,2026-06-05,June,2026Q2,Tamil Nadu,Erode,Organza,Organza,Gift,Offline Store,39,3450,10,7,21735.0,4.0
+SAR10565,2026-06-28,June,2026Q2,Telangana,Hyderabad,Kanjivaram Silk,Silk,Festival,Social Commerce,46,12500,0,2,25000.0,5.0
+SAR10566,2026-07-20,July,2026Q3,Tamil Nadu,Erode,Handloom,Handloom,Office Wear,Online Website,39,3550,20,4,11360.0,5.0
+SAR10567,2026-02-06,February,2026Q1,Karnataka,Bengaluru,Designer,Synthetic Blend,Daily Wear,Social Commerce,30,3450,10,3,9315.0,4.9
+SAR10568,2026-03-21,March,2026Q1,Tamil Nadu,Madurai,Organza,Organza,Office Wear,Offline Store,28,3350,5,7,22277.5,4.3
+SAR10569,2026-03-23,March,2026Q1,Gujarat,Surat,Designer,Synthetic Blend,Wedding,Social Commerce,18,7000,5,2,13300.0,4.4
+SAR10570,2026-05-11,May,2026Q2,West Bengal,Howrah,Ready-to-Wear,Synthetic Blend,Party,Online Website,33,4350,10,9,35235.0,4.8
+SAR10571,2026-08-14,August,2026Q3,Karnataka,Mysuru,Chiffon,Chiffon,Festival,Marketplace,35,2450,10,6,13230.0,4.4
+SAR10572,2026-09-24,September,2026Q3,Tamil Nadu,Coimbatore,Georgette,Georgette,Daily Wear,Offline Store,29,3050,5,9,26077.5,4.6
+SAR10573,2026-11-26,November,2026Q4,Maharashtra,Mumbai,Ready-to-Wear,Synthetic Blend,Daily Wear,Online Website,36,3500,20,5,14000.0,4.3
+SAR10574,2026-05-07,May,2026Q2,Delhi NCR,Noida,Linen,Linen,Festival,Marketplace,30,2950,20,6,14160.0,4.8
+SAR10575,2026-07-09,July,2026Q3,West Bengal,Kolkata,Cotton,Cotton,Daily Wear,Online Website,53,1400,0,8,11200.0,4.2
+SAR10576,2026-10-22,October,2026Q4,Delhi NCR,Noida,Organza,Organza,Festival,Online Website,40,3900,0,6,23400.0,4.6
+SAR10577,2026-06-07,June,2026Q2,Tamil Nadu,Chennai,Banarasi Silk,Silk,Office Wear,Marketplace,22,8550,20,2,13680.0,4.3
+SAR10578,2026-07-28,July,2026Q3,West Bengal,Kolkata,Organza,Organza,Party,Offline Store,37,1950,5,3,5557.5,3.9
+SAR10579,2026-06-04,June,2026Q2,Telangana,Warangal,Organza,Organza,Office Wear,Offline Store,28,2100,10,6,11340.0,4.2
+SAR10580,2026-10-22,October,2026Q4,Tamil Nadu,Chennai,Cotton,Cotton,Daily Wear,Offline Store,35,1250,10,9,10125.0,4.6
+SAR10581,2026-05-31,May,2026Q2,Tamil Nadu,Chennai,Ready-to-Wear,Synthetic Blend,Festival,Marketplace,44,4450,0,5,22250.0,4.1
+SAR10582,2026-07-30,July,2026Q3,Gujarat,Ahmedabad,Cotton,Cotton,Office Wear,Marketplace,26,950,15,8,6460.0,4.3
+SAR10583,2026-11-01,November,2026Q4,West Bengal,Howrah,Georgette,Georgette,Party,Offline Store,36,2700,10,12,29160.0,4.8
+SAR10584,2026-12-12,December,2026Q4,Tamil Nadu,Chennai,Linen,Linen,Gift,Offline Store,32,2750,0,9,24750.0,3.5
+SAR10585,2026-06-13,June,2026Q2,Karnataka,Mysuru,Handloom,Handloom,Festival,Online Website,46,3750,0,6,22500.0,3.8
+SAR10586,2026-04-30,April,2026Q2,Kerala,Kochi,Cotton,Cotton,Festival,Online Website,21,1300,5,7,8645.0,4.0
+SAR10587,2026-08-10,August,2026Q3,Tamil Nadu,Erode,Cotton,Cotton,Office Wear,Offline Store,20,1450,15,14,17255.0,4.0
+SAR10588,2026-10-08,October,2026Q4,Karnataka,Mysuru,Cotton,Cotton,Daily Wear,Online Website,26,1300,25,14,13650.0,4.5
+SAR10589,2026-05-21,May,2026Q2,West Bengal,Kolkata,Kanjivaram Silk,Silk,Gift,Marketplace,21,13050,25,3,29362.5,4.2
+SAR10590,2026-03-17,March,2026Q1,Maharashtra,Mumbai,Designer,Synthetic Blend,Daily Wear,Online Website,47,7200,20,4,23040.0,4.5
+SAR10591,2026-08-02,August,2026Q3,Maharashtra,Pune,Ready-to-Wear,Synthetic Blend,Party,Marketplace,37,2550,15,6,13005.0,4.0
+SAR10592,2026-03-14,March,2026Q1,Tamil Nadu,Erode,Handloom,Handloom,Office Wear,Social Commerce,26,4900,0,3,14700.0,3.1
+SAR10593,2026-10-04,October,2026Q4,Delhi NCR,Noida,Designer,Synthetic Blend,Wedding,Online Website,40,7100,10,3,19170.0,4.3
+SAR10594,2026-07-05,July,2026Q3,Tamil Nadu,Madurai,Chiffon,Chiffon,Festival,Online Website,29,2150,15,6,10965.0,3.8
+SAR10595,2026-11-13,November,2026Q4,Delhi NCR,Delhi,Georgette,Georgette,Daily Wear,Online Website,33,1750,0,7,12250.0,5.0
+SAR10596,2026-08-14,August,2026Q3,Maharashtra,Pune,Linen,Linen,Festival,Offline Store,49,3550,5,7,23607.5,4.9
+SAR10597,2026-04-21,April,2026Q2,Tamil Nadu,Chennai,Ready-to-Wear,Synthetic Blend,Wedding,Social Commerce,30,4600,5,6,26220.0,4.1
+SAR10598,2026-01-10,January,2026Q1,Tamil Nadu,Chennai,Georgette,Georgette,Office Wear,Offline Store,32,1750,15,7,10412.5,4.7
+SAR10599,2026-05-10,May,2026Q2,Telangana,Hyderabad,Kanjivaram Silk,Silk,Daily Wear,Online Website,30,9000,5,4,34200.0,3.9
+SAR10600,2026-01-25,January,2026Q1,Telangana,Hyderabad,Handloom,Handloom,Daily Wear,Offline Store,44,4150,0,9,37350.0,4.8
